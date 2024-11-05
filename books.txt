@@ -1,0 +1,1000 @@
+"To Kill a Mockingbird",Harper Lee,978253477352,2004
+"1984",George Orwell,978958352417,1833
+"The Great Gatsby",F. Scott Fitzgerald,978796549419,1803
+"Pride and Prejudice",Jane Austen,978988046886,1937
+"The Catcher in the Rye",J.D. Salinger,978193060038,1825
+"The Hobbit",J.R.R. Tolkien,978661872259,1838
+"Moby Dick",Herman Melville,978784900427,1893
+"War and Peace",Leo Tolstoy,978668227898,1934
+"The Odyssey",Homer,978659770273,1826
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978921075674,1858
+"The Lord of the Rings",J.R.R. Tolkien,978711635524,1914
+"The Alchemist",Paulo Coelho,978877691316,1881
+"The Little Prince",Antoine de Saint-Exupéry,978340096933,2012
+"Fahrenheit 451",Ray Bradbury,978765028879,2008
+"Brave New World",Aldous Huxley,978437287782,1986
+"Jane Eyre",Charlotte Brontë,978422233907,1864
+"The Divine Comedy",Dante Alighieri,978783478522,1980
+"Les Misérables",Victor Hugo,978077871474,1853
+"The Adventures of Huckleberry Finn",Mark Twain,978738646478,1824
+"Anna Karenina",Leo Tolstoy,978103535313,1805
+"Wuthering Heights",Emily Brontë,978752339713,1983
+"Crime and Punishment",Fyodor Dostoevsky,978267914180,1820
+"The Iliad",Homer,978765089711,1919
+"Frankenstein",Mary Shelley,978113615023,1990
+"The Shining",Stephen King,978730369435,1837
+"Dracula",Bram Stoker,978751617941,1916
+"The Grapes of Wrath",John Steinbeck,978445105880,1888
+"A Tale of Two Cities",Charles Dickens,978905374026,1949
+"Great Expectations",Charles Dickens,978425978487,1827
+"The Kite Runner",Khaled Hosseini,978514978157,1972
+"Life of Pi",Yann Martel,978974342184,1840
+"One Hundred Years of Solitude",Gabriel Garcia Marquez,978233206971,1806
+"Slaughterhouse-Five",Kurt Vonnegut,978780587861,1888
+"The Catch-22",Joseph Heller,978246075903,1914
+"The Road",Cormac McCarthy,978716789492,2022
+"Don Quixote",Miguel de Cervantes,978583004865,1836
+"The Color Purple",Alice Walker,978412917390,1959
+"The Picture of Dorian Gray",Oscar Wilde,978158463360,1821
+"Gone with the Wind",Margaret Mitchell,978128868071,1870
+"The Book Thief",Markus Zusak,978248546630,1907
+"Beloved",Toni Morrison,978467093382,1996
+"Memoirs of a Geisha",Arthur Golden,978220309573,1837
+"The Brothers Karamazov",Fyodor Dostoevsky,978884907958,1922
+"A Clockwork Orange",Anthony Burgess,978541049085,1962
+"Emma",Jane Austen,978865890286,1801
+"The Handmaid's Tale",Margaret Atwood,978175563394,1885
+"Animal Farm",George Orwell,978131286866,1981
+"The Secret Garden",Frances Hodgson Burnett,978702332502,2023
+"Rebecca",Daphne du Maurier,978288355098,1983
+"The Giver",Lois Lowry,978099634662,1967
+"Siddhartha",Hermann Hesse,978867047112,1937
+"The Old Man and the Sea",Ernest Hemingway,978618357598,2001
+"Lolita",Vladimir Nabokov,978457596125,1877
+"To Kill a Mockingbird",Harper Lee,978467091116,1998
+"1984",George Orwell,978002752415,1818
+"The Great Gatsby",F. Scott Fitzgerald,978189475505,1868
+"Pride and Prejudice",Jane Austen,978203331508,1932
+"The Catcher in the Rye",J.D. Salinger,978224239485,1807
+"The Hobbit",J.R.R. Tolkien,978228738469,1801
+"Moby Dick",Herman Melville,978603508205,1947
+"War and Peace",Leo Tolstoy,978485693481,1880
+"The Odyssey",Homer,978096124986,2019
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978178365348,1919
+"The Lord of the Rings",J.R.R. Tolkien,978337152802,1923
+"The Alchemist",Paulo Coelho,978294931624,1916
+"The Little Prince",Antoine de Saint-Exupéry,978926553411,2018
+"Fahrenheit 451",Ray Bradbury,978756420925,1844
+"Brave New World",Aldous Huxley,978656503007,1844
+"Jane Eyre",Charlotte Brontë,978845850984,1977
+"The Divine Comedy",Dante Alighieri,978645693063,1840
+"Les Misérables",Victor Hugo,978221562010,1970
+"The Adventures of Huckleberry Finn",Mark Twain,978491743679,1972
+"Anna Karenina",Leo Tolstoy,978214139906,1967
+"Wuthering Heights",Emily Brontë,978038788707,1993
+"Crime and Punishment",Fyodor Dostoevsky,978026960170,1801
+"The Iliad",Homer,978326313181,1939
+"Frankenstein",Mary Shelley,978870595275,1823
+"The Shining",Stephen King,978691516290,1812
+"Dracula",Bram Stoker,978984438427,1803
+"The Grapes of Wrath",John Steinbeck,978769005283,1910
+"A Tale of Two Cities",Charles Dickens,978396657965,1892
+"Great Expectations",Charles Dickens,978235171926,2013
+"The Kite Runner",Khaled Hosseini,978780741626,1938
+"Life of Pi",Yann Martel,978751315768,1824
+"One Hundred Years of Solitude",Gabriel Garcia Marquez,978161802908,1910
+"Slaughterhouse-Five",Kurt Vonnegut,978724581853,1842
+"The Catch-22",Joseph Heller,978975048690,1906
+"The Road",Cormac McCarthy,978444898072,1852
+"Don Quixote",Miguel de Cervantes,978722752642,1967
+"The Color Purple",Alice Walker,978325630070,1931
+"The Picture of Dorian Gray",Oscar Wilde,978563032115,2011
+"Gone with the Wind",Margaret Mitchell,978799462948,1952
+"The Book Thief",Markus Zusak,978024619007,1912
+"Beloved",Toni Morrison,978969981600,1906
+"Memoirs of a Geisha",Arthur Golden,978159072575,1892
+"The Brothers Karamazov",Fyodor Dostoevsky,978930432435,1918
+"A Clockwork Orange",Anthony Burgess,978062905052,1855
+"Emma",Jane Austen,978974161081,1884
+"The Handmaid's Tale",Margaret Atwood,978394191167,1919
+"Animal Farm",George Orwell,978754168912,2011
+"The Secret Garden",Frances Hodgson Burnett,978297084498,1942
+"Rebecca",Daphne du Maurier,978969394569,1993
+"The Giver",Lois Lowry,978790990108,1847
+"Siddhartha",Hermann Hesse,978928527676,1860
+"The Old Man and the Sea",Ernest Hemingway,978377467900,1809
+"Lolita",Vladimir Nabokov,978226432401,1850
+"To Kill a Mockingbird",Harper Lee,978473158726,2013
+"1984",George Orwell,978449502333,1882
+"The Great Gatsby",F. Scott Fitzgerald,978569360458,1861
+"Pride and Prejudice",Jane Austen,978010264164,1856
+"The Catcher in the Rye",J.D. Salinger,978891332719,1970
+"The Hobbit",J.R.R. Tolkien,978283094246,1806
+"Moby Dick",Herman Melville,978974921766,1882
+"War and Peace",Leo Tolstoy,978550211233,1830
+"The Odyssey",Homer,978907585914,2012
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978970619829,1898
+"The Lord of the Rings",J.R.R. Tolkien,978720017497,1808
+"The Alchemist",Paulo Coelho,978170329443,1908
+"The Little Prince",Antoine de Saint-Exupéry,978939339053,1863
+"Fahrenheit 451",Ray Bradbury,978724412975,1872
+"Brave New World",Aldous Huxley,978431263274,1842
+"Jane Eyre",Charlotte Brontë,978932160519,1829
+"The Divine Comedy",Dante Alighieri,978590800706,1885
+"Les Misérables",Victor Hugo,978782339768,1969
+"The Adventures of Huckleberry Finn",Mark Twain,978407998106,2004
+"Anna Karenina",Leo Tolstoy,978802250169,1979
+"Wuthering Heights",Emily Brontë,978131119931,1805
+"Crime and Punishment",Fyodor Dostoevsky,978033344205,2021
+"The Iliad",Homer,978076416775,2001
+"Frankenstein",Mary Shelley,978817649102,1963
+"The Shining",Stephen King,978885758878,1990
+"Dracula",Bram Stoker,978677152349,1801
+"The Grapes of Wrath",John Steinbeck,978673361130,1981
+"A Tale of Two Cities",Charles Dickens,978880807905,1857
+"Great Expectations",Charles Dickens,978859165598,1933
+"The Kite Runner",Khaled Hosseini,978580577720,1874
+"Life of Pi",Yann Martel,978436935688,2018
+"One Hundred Years of Solitude",Gabriel Garcia Marquez,978374970495,1947
+"Slaughterhouse-Five",Kurt Vonnegut,978635755958,1952
+"The Catch-22",Joseph Heller,978864171617,1968
+"The Road",Cormac McCarthy,978394980563,1917
+"Don Quixote",Miguel de Cervantes,978762546379,1964
+"The Color Purple",Alice Walker,978917410004,1820
+"The Picture of Dorian Gray",Oscar Wilde,978525635647,1994
+"Gone with the Wind",Margaret Mitchell,978189426078,1815
+"The Book Thief",Markus Zusak,978214445878,1884
+"Beloved",Toni Morrison,978177921093,1938
+"Memoirs of a Geisha",Arthur Golden,978728663994,1843
+"The Brothers Karamazov",Fyodor Dostoevsky,978188546004,1814
+"A Clockwork Orange",Anthony Burgess,978889891120,1881
+"Emma",Jane Austen,978526351374,1990
+"The Handmaid's Tale",Margaret Atwood,978062916202,1920
+"Animal Farm",George Orwell,978302057063,1997
+"The Secret Garden",Frances Hodgson Burnett,978715142030,1837
+"Rebecca",Daphne du Maurier,978315855521,1976
+"The Giver",Lois Lowry,978890933846,1981
+"Siddhartha",Hermann Hesse,978723637980,1810
+"The Old Man and the Sea",Ernest Hemingway,978853257461,1856
+"Lolita",Vladimir Nabokov,978214450886,1885
+"To Kill a Mockingbird",Harper Lee,978158747323,1917
+"1984",George Orwell,978798757523,1807
+"The Great Gatsby",F. Scott Fitzgerald,978516002553,1889
+"Pride and Prejudice",Jane Austen,978670637579,1816
+"The Catcher in the Rye",J.D. Salinger,978811153263,1991
+"The Hobbit",J.R.R. Tolkien,978222111892,1838
+"Moby Dick",Herman Melville,978644597343,2017
+"War and Peace",Leo Tolstoy,978747573067,1809
+"The Odyssey",Homer,978930535282,1893
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978219877913,1817
+"The Lord of the Rings",J.R.R. Tolkien,978260409674,1849
+"The Alchemist",Paulo Coelho,978657674059,1832
+"The Little Prince",Antoine de Saint-Exupéry,978094187826,1893
+"Fahrenheit 451",Ray Bradbury,978601611830,1840
+"Brave New World",Aldous Huxley,978899228063,1946
+"Jane Eyre",Charlotte Brontë,978233142435,1950
+"The Divine Comedy",Dante Alighieri,978463729760,1863
+"Les Misérables",Victor Hugo,978538419572,1972
+"The Adventures of Huckleberry Finn",Mark Twain,978927935717,1832
+"Anna Karenina",Leo Tolstoy,978570238615,1861
+"Wuthering Heights",Emily Brontë,978839054584,1908
+"Crime and Punishment",Fyodor Dostoevsky,978711791270,1908
+"The Iliad",Homer,978227410703,1994
+"Frankenstein",Mary Shelley,978690259511,2016
+"The Shining",Stephen King,978233014361,1811
+"Dracula",Bram Stoker,978013828646,1930
+"The Grapes of Wrath",John Steinbeck,978538918593,1867
+"A Tale of Two Cities",Charles Dickens,978253534663,1995
+"Great Expectations",Charles Dickens,978913760801,1985
+"The Kite Runner",Khaled Hosseini,978812734507,1910
+"Life of Pi",Yann Martel,978264706068,1927
+"One Hundred Years of Solitude",Gabriel Garcia Marquez,978693177436,1963
+"Slaughterhouse-Five",Kurt Vonnegut,978789351495,1981
+"The Catch-22",Joseph Heller,978668102870,1943
+"The Road",Cormac McCarthy,978398999788,1887
+"Don Quixote",Miguel de Cervantes,978366903336,1890
+"The Color Purple",Alice Walker,978543956335,1841
+"The Picture of Dorian Gray",Oscar Wilde,978204362863,1939
+"Gone with the Wind",Margaret Mitchell,978319688461,1871
+"The Book Thief",Markus Zusak,978351811539,1842
+"Beloved",Toni Morrison,978883770077,1887
+"Memoirs of a Geisha",Arthur Golden,978457742506,1927
+"The Brothers Karamazov",Fyodor Dostoevsky,978532178831,1958
+"A Clockwork Orange",Anthony Burgess,978578806688,2023
+"Emma",Jane Austen,978357159905,1940
+"The Handmaid's Tale",Margaret Atwood,978718642214,1928
+"Animal Farm",George Orwell,978257400627,1984
+"The Secret Garden",Frances Hodgson Burnett,978435479191,1912
+"Rebecca",Daphne du Maurier,978666656606,1868
+"The Giver",Lois Lowry,978843187526,2004
+"Siddhartha",Hermann Hesse,978023099204,1958
+"The Old Man and the Sea",Ernest Hemingway,978951485648,1848
+"Lolita",Vladimir Nabokov,978865430091,2017
+"To Kill a Mockingbird",Harper Lee,978077324304,1833
+"1984",George Orwell,978828796377,1905
+"The Great Gatsby",F. Scott Fitzgerald,978561984904,1945
+"Pride and Prejudice",Jane Austen,978785472100,1877
+"The Catcher in the Rye",J.D. Salinger,978740933861,1900
+"The Hobbit",J.R.R. Tolkien,978006340341,1934
+"Moby Dick",Herman Melville,978985861520,2002
+"War and Peace",Leo Tolstoy,978118865588,1945
+"The Odyssey",Homer,978634609000,1942
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978548601503,1903
+"The Lord of the Rings",J.R.R. Tolkien,978356552237,1893
+"The Alchemist",Paulo Coelho,978162914946,1963
+"The Little Prince",Antoine de Saint-Exupéry,978697240749,1879
+"Fahrenheit 451",Ray Bradbury,978431957471,1947
+"Brave New World",Aldous Huxley,978843625791,1890
+"Jane Eyre",Charlotte Brontë,978963327008,1868
+"The Divine Comedy",Dante Alighieri,978514176807,1955
+"Les Misérables",Victor Hugo,978175887917,2010
+"The Adventures of Huckleberry Finn",Mark Twain,978958091314,1942
+"Anna Karenina",Leo Tolstoy,978101066473,1857
+"Wuthering Heights",Emily Brontë,978497343882,1864
+"Crime and Punishment",Fyodor Dostoevsky,978647826450,1908
+"The Iliad",Homer,978530029363,1980
+"Frankenstein",Mary Shelley,978703859981,1915
+"The Shining",Stephen King,978762507682,1956
+"Dracula",Bram Stoker,978305698164,1809
+"The Grapes of Wrath",John Steinbeck,978706985450,1985
+"A Tale of Two Cities",Charles Dickens,978180525627,2013
+"Great Expectations",Charles Dickens,978522114598,1893
+"The Kite Runner",Khaled Hosseini,978179386706,1853
+"Life of Pi",Yann Martel,978129510479,1822
+"One Hundred Years of Solitude",Gabriel Garcia Marquez,978814931603,1971
+"Slaughterhouse-Five",Kurt Vonnegut,978360480527,1876
+"The Catch-22",Joseph Heller,978123657670,1875
+"The Road",Cormac McCarthy,978203020619,1844
+"Don Quixote",Miguel de Cervantes,978063725386,1891
+"The Color Purple",Alice Walker,978880039073,1869
+"The Picture of Dorian Gray",Oscar Wilde,978715270088,1991
+"Gone with the Wind",Margaret Mitchell,978495091802,1932
+"The Book Thief",Markus Zusak,978528074544,1946
+"Beloved",Toni Morrison,978772244946,2019
+"Memoirs of a Geisha",Arthur Golden,978952915195,1980
+"The Brothers Karamazov",Fyodor Dostoevsky,978900028333,1871
+"A Clockwork Orange",Anthony Burgess,978192315033,1941
+"Emma",Jane Austen,978246642826,1986
+"The Handmaid's Tale",Margaret Atwood,978763576236,1908
+"Animal Farm",George Orwell,978367733693,1978
+"The Secret Garden",Frances Hodgson Burnett,978430073534,1913
+"Rebecca",Daphne du Maurier,978218640549,2003
+"The Giver",Lois Lowry,978289064070,1821
+"Siddhartha",Hermann Hesse,978307673188,1927
+"The Old Man and the Sea",Ernest Hemingway,978842451281,1864
+"Lolita",Vladimir Nabokov,978606533104,1811
+"To Kill a Mockingbird",Harper Lee,978499080502,1991
+"1984",George Orwell,978851077048,1962
+"The Great Gatsby",F. Scott Fitzgerald,978557588928,1811
+"Pride and Prejudice",Jane Austen,978961275806,1809
+"The Catcher in the Rye",J.D. Salinger,978836053055,1899
+"The Hobbit",J.R.R. Tolkien,978364259885,1822
+"Moby Dick",Herman Melville,978663801894,1878
+"War and Peace",Leo Tolstoy,978847001030,1829
+"The Odyssey",Homer,978704900092,2010
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978729969738,1834
+"The Lord of the Rings",J.R.R. Tolkien,978020796930,1869
+"The Alchemist",Paulo Coelho,978238488880,1882
+"The Little Prince",Antoine de Saint-Exupéry,978654763566,1949
+"Fahrenheit 451",Ray Bradbury,978669008685,1894
+"Brave New World",Aldous Huxley,978726476030,1822
+"Jane Eyre",Charlotte Brontë,978434956979,1924
+"The Divine Comedy",Dante Alighieri,978435980818,1900
+"Les Misérables",Victor Hugo,978148456473,1803
+"The Adventures of Huckleberry Finn",Mark Twain,978689216998,2005
+"Anna Karenina",Leo Tolstoy,978838991518,1900
+"Wuthering Heights",Emily Brontë,978785091054,1935
+"Crime and Punishment",Fyodor Dostoevsky,978811454316,2014
+"The Iliad",Homer,978395170392,1841
+"Frankenstein",Mary Shelley,978517788718,1815
+"The Shining",Stephen King,978306494754,1837
+"Dracula",Bram Stoker,978513940633,1822
+"The Grapes of Wrath",John Steinbeck,978238332945,1961
+"A Tale of Two Cities",Charles Dickens,978913161169,1902
+"Great Expectations",Charles Dickens,978268751321,1835
+"The Kite Runner",Khaled Hosseini,978207270702,1896
+"Life of Pi",Yann Martel,978342712799,1893
+"One Hundred Years of Solitude",Gabriel Garcia Marquez,978197313141,1872
+"Slaughterhouse-Five",Kurt Vonnegut,978980640129,1818
+"The Catch-22",Joseph Heller,978421187517,1867
+"The Road",Cormac McCarthy,978185470261,1906
+"Don Quixote",Miguel de Cervantes,978630496313,2014
+"The Color Purple",Alice Walker,978788828750,1950
+"The Picture of Dorian Gray",Oscar Wilde,978558314821,1995
+"Gone with the Wind",Margaret Mitchell,978581429106,2023
+"The Book Thief",Markus Zusak,978172835621,1888
+"Beloved",Toni Morrison,978746074396,2015
+"Memoirs of a Geisha",Arthur Golden,978803142713,1853
+"The Brothers Karamazov",Fyodor Dostoevsky,978109260992,1890
+"A Clockwork Orange",Anthony Burgess,978830291758,1823
+"Emma",Jane Austen,978294581438,1851
+"The Handmaid's Tale",Margaret Atwood,978114195779,1866
+"Animal Farm",George Orwell,978191175743,1966
+"The Secret Garden",Frances Hodgson Burnett,978924229798,1880
+"Rebecca",Daphne du Maurier,978618878453,1880
+"The Giver",Lois Lowry,978585477521,2002
+"Siddhartha",Hermann Hesse,978994953479,1869
+"The Old Man and the Sea",Ernest Hemingway,978608532498,1835
+"Lolita",Vladimir Nabokov,978578272860,1820
+"To Kill a Mockingbird",Harper Lee,978754226727,1814
+"1984",George Orwell,978169846577,2000
+"The Great Gatsby",F. Scott Fitzgerald,978688071434,1872
+"Pride and Prejudice",Jane Austen,978414396143,1979
+"The Catcher in the Rye",J.D. Salinger,978824245402,1940
+"The Hobbit",J.R.R. Tolkien,978054462906,1849
+"Moby Dick",Herman Melville,978740142297,1811
+"War and Peace",Leo Tolstoy,978858294371,1819
+"The Odyssey",Homer,978365295755,1945
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978317864059,1995
+"The Lord of the Rings",J.R.R. Tolkien,978999848977,1800
+"The Alchemist",Paulo Coelho,978339287631,1803
+"The Little Prince",Antoine de Saint-Exupéry,978203713568,1967
+"Fahrenheit 451",Ray Bradbury,978902079850,1839
+"Brave New World",Aldous Huxley,978297677389,2007
+"Jane Eyre",Charlotte Brontë,978632307252,1974
+"The Divine Comedy",Dante Alighieri,978988398134,1982
+"Les Misérables",Victor Hugo,978305058135,1883
+"The Adventures of Huckleberry Finn",Mark Twain,978862548533,1880
+"Anna Karenina",Leo Tolstoy,978358037695,1883
+"Wuthering Heights",Emily Brontë,978505504136,1930
+"Crime and Punishment",Fyodor Dostoevsky,978805734026,1955
+"The Iliad",Homer,978030126631,1915
+"Frankenstein",Mary Shelley,978525180242,1930
+"The Shining",Stephen King,978810219333,1805
+"Dracula",Bram Stoker,978244560784,1939
+"The Grapes of Wrath",John Steinbeck,978702960958,1902
+"A Tale of Two Cities",Charles Dickens,978997341248,1882
+"Great Expectations",Charles Dickens,978555925954,2018
+"The Kite Runner",Khaled Hosseini,978888078495,1935
+"Life of Pi",Yann Martel,978955434474,1838
+"One Hundred Years of Solitude",Gabriel Garcia Marquez,978030651291,1987
+"Slaughterhouse-Five",Kurt Vonnegut,978807918448,1888
+"The Catch-22",Joseph Heller,978523048965,1956
+"The Road",Cormac McCarthy,978735143693,1800
+"Don Quixote",Miguel de Cervantes,978020547872,1947
+"The Color Purple",Alice Walker,978823915644,1972
+"The Picture of Dorian Gray",Oscar Wilde,978280578395,1965
+"Gone with the Wind",Margaret Mitchell,978862720138,1805
+"The Book Thief",Markus Zusak,978660930030,1935
+"Beloved",Toni Morrison,978032224972,2005
+"Memoirs of a Geisha",Arthur Golden,978351538148,1984
+"The Brothers Karamazov",Fyodor Dostoevsky,978533346735,1815
+"A Clockwork Orange",Anthony Burgess,978623374097,1995
+"Emma",Jane Austen,978544670722,1830
+"The Handmaid's Tale",Margaret Atwood,978825969534,1801
+"Animal Farm",George Orwell,978488389349,1880
+"The Secret Garden",Frances Hodgson Burnett,978460593059,1873
+"Rebecca",Daphne du Maurier,978120020210,2000
+"The Giver",Lois Lowry,978922155921,1853
+"Siddhartha",Hermann Hesse,978717460297,1989
+"The Old Man and the Sea",Ernest Hemingway,978361403940,1931
+"Lolita",Vladimir Nabokov,978571505949,1948
+"To Kill a Mockingbird",Harper Lee,978201520114,1941
+"1984",George Orwell,978317163023,1936
+"The Great Gatsby",F. Scott Fitzgerald,978078823030,1827
+"Pride and Prejudice",Jane Austen,978725001842,1951
+"The Catcher in the Rye",J.D. Salinger,978585787074,1939
+"The Hobbit",J.R.R. Tolkien,978184958367,1804
+"Moby Dick",Herman Melville,978545424127,1871
+"War and Peace",Leo Tolstoy,978063180102,1822
+"The Odyssey",Homer,978248879984,1805
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978488100980,1935
+"The Lord of the Rings",J.R.R. Tolkien,978917700406,2020
+"The Alchemist",Paulo Coelho,978925636546,1826
+"The Little Prince",Antoine de Saint-Exupéry,978085454859,1809
+"Fahrenheit 451",Ray Bradbury,978575671098,1865
+"Brave New World",Aldous Huxley,978676487846,1969
+"Jane Eyre",Charlotte Brontë,978795037611,1918
+"The Divine Comedy",Dante Alighieri,978817008310,1882
+"Les Misérables",Victor Hugo,978260652183,1945
+"The Adventures of Huckleberry Finn",Mark Twain,978782578508,1941
+"Anna Karenina",Leo Tolstoy,978778541445,1990
+"Wuthering Heights",Emily Brontë,978148683991,1853
+"Crime and Punishment",Fyodor Dostoevsky,978052329413,1986
+"The Iliad",Homer,978947831708,1882
+"Frankenstein",Mary Shelley,978051315419,1937
+"The Shining",Stephen King,978058517747,1922
+"Dracula",Bram Stoker,978296557509,1920
+"The Grapes of Wrath",John Steinbeck,978147435289,1932
+"A Tale of Two Cities",Charles Dickens,978034666899,1807
+"Great Expectations",Charles Dickens,978512558351,1922
+"The Kite Runner",Khaled Hosseini,978030692807,1804
+"Life of Pi",Yann Martel,978607407771,1951
+"One Hundred Years of Solitude",Gabriel Garcia Marquez,978773143384,1999
+"Slaughterhouse-Five",Kurt Vonnegut,978822188006,2012
+"The Catch-22",Joseph Heller,978990925150,1814
+"The Road",Cormac McCarthy,978733574407,1987
+"Don Quixote",Miguel de Cervantes,978116539797,1870
+"The Color Purple",Alice Walker,978777619088,2007
+"The Picture of Dorian Gray",Oscar Wilde,978041222104,1828
+"Gone with the Wind",Margaret Mitchell,978212381766,2001
+"The Book Thief",Markus Zusak,978567302722,2003
+"Beloved",Toni Morrison,978519107170,1926
+"Memoirs of a Geisha",Arthur Golden,978046567427,1808
+"The Brothers Karamazov",Fyodor Dostoevsky,978665650779,1987
+"A Clockwork Orange",Anthony Burgess,978184965531,1833
+"Emma",Jane Austen,978904198893,2010
+"The Handmaid's Tale",Margaret Atwood,978209485696,1818
+"Animal Farm",George Orwell,978196006887,1897
+"The Secret Garden",Frances Hodgson Burnett,978916586798,1924
+"Rebecca",Daphne du Maurier,978485523337,1979
+"The Giver",Lois Lowry,978691086375,1967
+"Siddhartha",Hermann Hesse,978333029674,1878
+"The Old Man and the Sea",Ernest Hemingway,978464871778,1995
+"Lolita",Vladimir Nabokov,978267714214,1980
+"To Kill a Mockingbird",Harper Lee,978304502209,1961
+"1984",George Orwell,978251689053,2019
+"The Great Gatsby",F. Scott Fitzgerald,978487320560,1821
+"Pride and Prejudice",Jane Austen,978515898772,1869
+"The Catcher in the Rye",J.D. Salinger,978452920199,1940
+"The Hobbit",J.R.R. Tolkien,978947607812,1821
+"Moby Dick",Herman Melville,978297418553,1846
+"War and Peace",Leo Tolstoy,978390357072,1989
+"The Odyssey",Homer,978715925406,1878
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978273237473,1944
+"The Lord of the Rings",J.R.R. Tolkien,978112645333,1918
+"The Alchemist",Paulo Coelho,978099388309,1974
+"The Little Prince",Antoine de Saint-Exupéry,978647399837,1846
+"Fahrenheit 451",Ray Bradbury,978734865744,1852
+"Brave New World",Aldous Huxley,978340887906,1989
+"Jane Eyre",Charlotte Brontë,978366286710,1977
+"The Divine Comedy",Dante Alighieri,978645587914,1996
+"Les Misérables",Victor Hugo,978718623021,2010
+"The Adventures of Huckleberry Finn",Mark Twain,978478979432,2021
+"Anna Karenina",Leo Tolstoy,978310060244,1908
+"Wuthering Heights",Emily Brontë,978953868564,1971
+"Crime and Punishment",Fyodor Dostoevsky,978286207526,2015
+"The Iliad",Homer,978578118663,1844
+"Frankenstein",Mary Shelley,978396037167,1915
+"The Shining",Stephen King,978321272530,1950
+"Dracula",Bram Stoker,978205464607,1960
+"The Grapes of Wrath",John Steinbeck,978662843235,1849
+"A Tale of Two Cities",Charles Dickens,978773861068,1814
+"Great Expectations",Charles Dickens,978596567915,1883
+"The Kite Runner",Khaled Hosseini,978553589290,1859
+"Life of Pi",Yann Martel,978551121916,1930
+"One Hundred Years of Solitude",Gabriel Garcia Marquez,978162575494,2008
+"Slaughterhouse-Five",Kurt Vonnegut,978470117436,1880
+"The Catch-22",Joseph Heller,978673290010,1885
+"The Road",Cormac McCarthy,978412688742,1870
+"Don Quixote",Miguel de Cervantes,978098504842,1833
+"The Color Purple",Alice Walker,978914727571,2007
+"The Picture of Dorian Gray",Oscar Wilde,978613541998,1865
+"Gone with the Wind",Margaret Mitchell,978328648419,1802
+"The Book Thief",Markus Zusak,978912159972,1965
+"Beloved",Toni Morrison,978955391737,1803
+"Memoirs of a Geisha",Arthur Golden,978904811540,1962
+"The Brothers Karamazov",Fyodor Dostoevsky,978978715726,1843
+"A Clockwork Orange",Anthony Burgess,978230108718,1806
+"Emma",Jane Austen,978290528516,1827
+"The Handmaid's Tale",Margaret Atwood,978775176167,1993
+"Animal Farm",George Orwell,978671432589,1876
+"The Secret Garden",Frances Hodgson Burnett,978315370966,1862
+"Rebecca",Daphne du Maurier,978975930781,1832
+"The Giver",Lois Lowry,978366383145,1951
+"Siddhartha",Hermann Hesse,978327444015,1971
+"The Old Man and the Sea",Ernest Hemingway,978958370636,1954
+"Lolita",Vladimir Nabokov,978444149793,1867
+"To Kill a Mockingbird",Harper Lee,978911962251,1850
+"1984",George Orwell,978606206043,1893
+"The Great Gatsby",F. Scott Fitzgerald,978440376501,1822
+"Pride and Prejudice",Jane Austen,978359751547,2015
+"The Catcher in the Rye",J.D. Salinger,978214575258,1858
+"The Hobbit",J.R.R. Tolkien,978334182088,2012
+"Moby Dick",Herman Melville,978370436957,1939
+"War and Peace",Leo Tolstoy,978303789884,1874
+"The Odyssey",Homer,978082129968,1975
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978418330911,1823
+"The Lord of the Rings",J.R.R. Tolkien,978971515237,1895
+"The Alchemist",Paulo Coelho,978640646756,1858
+"The Little Prince",Antoine de Saint-Exupéry,978657971781,1993
+"Fahrenheit 451",Ray Bradbury,978937141756,1802
+"Brave New World",Aldous Huxley,978059966557,1894
+"Jane Eyre",Charlotte Brontë,978590793985,1882
+"The Divine Comedy",Dante Alighieri,978537770194,1913
+"Les Misérables",Victor Hugo,978207962254,1986
+"The Adventures of Huckleberry Finn",Mark Twain,978971476172,1979
+"Anna Karenina",Leo Tolstoy,978014982509,1874
+"Wuthering Heights",Emily Brontë,978423071040,1864
+"Crime and Punishment",Fyodor Dostoevsky,978531009848,1945
+"The Iliad",Homer,978646397466,1941
+"Frankenstein",Mary Shelley,978287726177,1826
+"The Shining",Stephen King,978474473928,1891
+"Dracula",Bram Stoker,978230569022,1927
+"The Grapes of Wrath",John Steinbeck,978346556054,1912
+"A Tale of Two Cities",Charles Dickens,978618718842,1883
+"Great Expectations",Charles Dickens,978500814142,1859
+"The Kite Runner",Khaled Hosseini,978039192429,1987
+"Life of Pi",Yann Martel,978625686967,1871
+"One Hundred Years of Solitude",Gabriel Garcia Marquez,978229027863,1911
+"Slaughterhouse-Five",Kurt Vonnegut,978542246653,2023
+"The Catch-22",Joseph Heller,978336920886,1848
+"The Road",Cormac McCarthy,978021607633,1976
+"Don Quixote",Miguel de Cervantes,978163973177,1912
+"The Color Purple",Alice Walker,978411877411,2011
+"The Picture of Dorian Gray",Oscar Wilde,978371528816,1968
+"Gone with the Wind",Margaret Mitchell,978877072187,2006
+"The Book Thief",Markus Zusak,978231493090,1868
+"Beloved",Toni Morrison,978994492669,1824
+"Memoirs of a Geisha",Arthur Golden,978700871182,1964
+"The Brothers Karamazov",Fyodor Dostoevsky,978111735864,1884
+"A Clockwork Orange",Anthony Burgess,978615148604,1942
+"Emma",Jane Austen,978176007804,1843
+"The Handmaid's Tale",Margaret Atwood,978088313689,2000
+"Animal Farm",George Orwell,978358665942,1807
+"The Secret Garden",Frances Hodgson Burnett,978455316873,1917
+"Rebecca",Daphne du Maurier,978243980703,1818
+"The Giver",Lois Lowry,978832168949,1848
+"Siddhartha",Hermann Hesse,978179270035,1968
+"The Old Man and the Sea",Ernest Hemingway,978571580842,1976
+"Lolita",Vladimir Nabokov,978005068718,1809
+"The Hunger Games",Suzanne Collins,978427966712,1811
+"The Maze Runner",James Dashner,978740425104,1871
+"Dune",Frank Herbert,978772674136,1813
+"The Girl on the Train",Paula Hawkins,978827034165,1962
+"The Fault in Our Stars",John Green,978871218040,1910
+"Gone Girl",Gillian Flynn,978197494754,1875
+"Ender's Game",Orson Scott Card,978424960024,1884
+"The Da Vinci Code",Dan Brown,978163904481,1860
+"Inferno",Dan Brown,978435605861,1891
+"Angels & Demons",Dan Brown,978652699174,1886
+"The Lovely Bones",Alice Sebold,978218682838,1951
+"The Girl with the Dragon Tattoo",Stieg Larsson,978201709868,1941
+"Memoirs of a Geisha",Arthur Golden,978041661627,1813
+"The Outsiders",S.E. Hinton,978152116910,1808
+"Twilight",Stephenie Meyer,978330305821,2000
+"The Time Traveler's Wife",Audrey Niffenegger,978822608847,1991
+"Water for Elephants",Sara Gruen,978970923626,1836
+"Life After Life",Kate Atkinson,978726104766,1873
+"Where the Crawdads Sing",Delia Owens,978431658812,1878
+"The Night Circus",Erin Morgenstern,978153090369,1865
+"City of Bones",Cassandra Clare,978294456372,1947
+"The Stand",Stephen King,978137933798,1880
+"It",Stephen King,978129211879,1914
+"Pet Sematary",Stephen King,978957002097,1962
+"Misery",Stephen King,978936751877,1940
+"The Sun Also Rises",Ernest Hemingway,978927936923,1961
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978988290747,1990
+"House of Leaves",Mark Z. Danielewski,978425516800,1829
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978971507925,1981
+"The Wind-Up Bird Chronicle",Haruki Murakami,978705530323,2022
+"Kafka on the Shore",Haruki Murakami,978906011770,1985
+"The Devil Wears Prada",Lauren Weisberger,978924038536,1915
+"The Secret History",Donna Tartt,978295063606,1801
+"The Hunger Games",Suzanne Collins,978614582968,1835
+"The Maze Runner",James Dashner,978475677967,1814
+"Dune",Frank Herbert,978643558846,1966
+"The Girl on the Train",Paula Hawkins,978347940212,1916
+"The Fault in Our Stars",John Green,978862011443,1882
+"Gone Girl",Gillian Flynn,978658271403,1910
+"Ender's Game",Orson Scott Card,978795848368,1885
+"The Da Vinci Code",Dan Brown,978764318868,1827
+"Inferno",Dan Brown,978200658319,1870
+"Angels & Demons",Dan Brown,978731699247,1878
+"The Lovely Bones",Alice Sebold,978417168612,1884
+"The Girl with the Dragon Tattoo",Stieg Larsson,978661958395,1997
+"Memoirs of a Geisha",Arthur Golden,978229782423,2012
+"The Outsiders",S.E. Hinton,978503916591,1913
+"Twilight",Stephenie Meyer,978879226000,1874
+"The Time Traveler's Wife",Audrey Niffenegger,978785902455,1807
+"Water for Elephants",Sara Gruen,978846258190,2002
+"Life After Life",Kate Atkinson,978332514964,1970
+"Where the Crawdads Sing",Delia Owens,978818722744,1862
+"The Night Circus",Erin Morgenstern,978962397725,1990
+"City of Bones",Cassandra Clare,978769834493,1843
+"The Stand",Stephen King,978359730495,2009
+"It",Stephen King,978680892112,1913
+"Pet Sematary",Stephen King,978960037004,1950
+"Misery",Stephen King,978890003932,1914
+"The Sun Also Rises",Ernest Hemingway,978419699575,1961
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978972952570,1915
+"House of Leaves",Mark Z. Danielewski,978752022830,1966
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978959986403,1864
+"The Wind-Up Bird Chronicle",Haruki Murakami,978813095681,2016
+"Kafka on the Shore",Haruki Murakami,978016268531,1801
+"The Devil Wears Prada",Lauren Weisberger,978325074175,1930
+"The Secret History",Donna Tartt,978712584237,1998
+"The Hunger Games",Suzanne Collins,978027844341,1970
+"The Maze Runner",James Dashner,978472419796,1999
+"Dune",Frank Herbert,978359339126,1891
+"The Girl on the Train",Paula Hawkins,978822179063,1854
+"The Fault in Our Stars",John Green,978212206473,1948
+"Gone Girl",Gillian Flynn,978336320542,1925
+"Ender's Game",Orson Scott Card,978977381080,1949
+"The Da Vinci Code",Dan Brown,978075335251,1874
+"Inferno",Dan Brown,978366692781,1876
+"Angels & Demons",Dan Brown,978824795475,1809
+"The Lovely Bones",Alice Sebold,978972862507,1849
+"The Girl with the Dragon Tattoo",Stieg Larsson,978688017198,1827
+"Memoirs of a Geisha",Arthur Golden,978528603382,1805
+"The Outsiders",S.E. Hinton,978533913569,1951
+"Twilight",Stephenie Meyer,978262388067,1838
+"The Time Traveler's Wife",Audrey Niffenegger,978721383255,1966
+"Water for Elephants",Sara Gruen,978286920701,1838
+"Life After Life",Kate Atkinson,978487730419,1868
+"Where the Crawdads Sing",Delia Owens,978351139800,1996
+"The Night Circus",Erin Morgenstern,978402993767,1999
+"City of Bones",Cassandra Clare,978193972792,1993
+"The Stand",Stephen King,978324998586,1936
+"It",Stephen King,978304781192,1887
+"Pet Sematary",Stephen King,978854821304,1999
+"Misery",Stephen King,978999569553,1961
+"The Sun Also Rises",Ernest Hemingway,978693896300,1887
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978207861275,1979
+"House of Leaves",Mark Z. Danielewski,978180584329,1877
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978354101509,1897
+"The Wind-Up Bird Chronicle",Haruki Murakami,978579865714,1807
+"Kafka on the Shore",Haruki Murakami,978327970386,1908
+"The Devil Wears Prada",Lauren Weisberger,978760508676,1924
+"The Secret History",Donna Tartt,978715318633,1886
+"The Hunger Games",Suzanne Collins,978905884518,1938
+"The Maze Runner",James Dashner,978384941270,1894
+"Dune",Frank Herbert,978289807006,1848
+"The Girl on the Train",Paula Hawkins,978580229902,1940
+"The Fault in Our Stars",John Green,978764220763,1966
+"Gone Girl",Gillian Flynn,978367273294,1871
+"Ender's Game",Orson Scott Card,978742474144,2005
+"The Da Vinci Code",Dan Brown,978499752197,2001
+"Inferno",Dan Brown,978670267189,1919
+"Angels & Demons",Dan Brown,978206931056,2019
+"The Lovely Bones",Alice Sebold,978390949906,1815
+"The Girl with the Dragon Tattoo",Stieg Larsson,978428341525,2023
+"Memoirs of a Geisha",Arthur Golden,978996859674,1998
+"The Outsiders",S.E. Hinton,978855985220,1891
+"Twilight",Stephenie Meyer,978057653049,1837
+"The Time Traveler's Wife",Audrey Niffenegger,978083858947,2006
+"Water for Elephants",Sara Gruen,978837329405,1916
+"Life After Life",Kate Atkinson,978213709263,1963
+"Where the Crawdads Sing",Delia Owens,978712102120,1833
+"The Night Circus",Erin Morgenstern,978457634472,1986
+"City of Bones",Cassandra Clare,978567903810,1857
+"The Stand",Stephen King,978456189081,2010
+"It",Stephen King,978250181205,1858
+"Pet Sematary",Stephen King,978184936294,1843
+"Misery",Stephen King,978049455146,2002
+"The Sun Also Rises",Ernest Hemingway,978185503142,1990
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978700680518,1966
+"House of Leaves",Mark Z. Danielewski,978314062624,1851
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978609741633,1844
+"The Wind-Up Bird Chronicle",Haruki Murakami,978886301128,1804
+"Kafka on the Shore",Haruki Murakami,978349455054,1991
+"The Devil Wears Prada",Lauren Weisberger,978686043660,1950
+"The Secret History",Donna Tartt,978819212823,1902
+"The Hunger Games",Suzanne Collins,978378852518,1845
+"The Maze Runner",James Dashner,978061673340,1893
+"Dune",Frank Herbert,978531750579,2011
+"The Girl on the Train",Paula Hawkins,978202744558,1815
+"The Fault in Our Stars",John Green,978475903813,1903
+"Gone Girl",Gillian Flynn,978869027687,2011
+"Ender's Game",Orson Scott Card,978165467980,1816
+"The Da Vinci Code",Dan Brown,978559272013,1952
+"Inferno",Dan Brown,978085559895,1905
+"Angels & Demons",Dan Brown,978533465160,2009
+"The Lovely Bones",Alice Sebold,978398388261,1807
+"The Girl with the Dragon Tattoo",Stieg Larsson,978990757378,1982
+"Memoirs of a Geisha",Arthur Golden,978352202397,1881
+"The Outsiders",S.E. Hinton,978539704323,1912
+"Twilight",Stephenie Meyer,978318376528,1950
+"The Time Traveler's Wife",Audrey Niffenegger,978904761261,1909
+"Water for Elephants",Sara Gruen,978097921499,1905
+"Life After Life",Kate Atkinson,978311773855,1832
+"Where the Crawdads Sing",Delia Owens,978288562667,1943
+"The Night Circus",Erin Morgenstern,978837668288,1891
+"City of Bones",Cassandra Clare,978259356950,1963
+"The Stand",Stephen King,978311190040,1851
+"It",Stephen King,978868410888,1835
+"Pet Sematary",Stephen King,978647929086,1933
+"Misery",Stephen King,978125374440,1861
+"The Sun Also Rises",Ernest Hemingway,978554482279,2021
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978077527532,1959
+"House of Leaves",Mark Z. Danielewski,978732542539,1887
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978763896903,2011
+"The Wind-Up Bird Chronicle",Haruki Murakami,978995212335,1869
+"Kafka on the Shore",Haruki Murakami,978604562770,1809
+"The Devil Wears Prada",Lauren Weisberger,978185034037,1821
+"The Secret History",Donna Tartt,978072920723,1999
+"The Hunger Games",Suzanne Collins,978017762599,1923
+"The Maze Runner",James Dashner,978402379539,1969
+"Dune",Frank Herbert,978233479092,1806
+"The Girl on the Train",Paula Hawkins,978997933984,1828
+"The Fault in Our Stars",John Green,978554900343,2021
+"Gone Girl",Gillian Flynn,978693821809,1828
+"Ender's Game",Orson Scott Card,978820710204,1995
+"The Da Vinci Code",Dan Brown,978772199700,1852
+"Inferno",Dan Brown,978653613251,1851
+"Angels & Demons",Dan Brown,978157721480,2022
+"The Lovely Bones",Alice Sebold,978272725630,1904
+"The Girl with the Dragon Tattoo",Stieg Larsson,978833524703,1904
+"Memoirs of a Geisha",Arthur Golden,978333570913,1840
+"The Outsiders",S.E. Hinton,978482331703,1971
+"Twilight",Stephenie Meyer,978514588517,1992
+"The Time Traveler's Wife",Audrey Niffenegger,978347870798,1838
+"Water for Elephants",Sara Gruen,978706956130,1885
+"Life After Life",Kate Atkinson,978906999828,1995
+"Where the Crawdads Sing",Delia Owens,978745615947,1909
+"The Night Circus",Erin Morgenstern,978305362607,1800
+"City of Bones",Cassandra Clare,978508055684,1922
+"The Stand",Stephen King,978452107029,2004
+"It",Stephen King,978533429785,1819
+"Pet Sematary",Stephen King,978353372161,1804
+"Misery",Stephen King,978694103478,1882
+"The Sun Also Rises",Ernest Hemingway,978691566026,1969
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978338635829,1922
+"House of Leaves",Mark Z. Danielewski,978818626804,1945
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978194696116,2006
+"The Wind-Up Bird Chronicle",Haruki Murakami,978417268797,1929
+"Kafka on the Shore",Haruki Murakami,978331426343,1918
+"The Devil Wears Prada",Lauren Weisberger,978476392506,1861
+"The Secret History",Donna Tartt,978701070395,2003
+"The Hunger Games",Suzanne Collins,978631437390,1987
+"The Maze Runner",James Dashner,978387410955,1916
+"Dune",Frank Herbert,978846774783,1989
+"The Girl on the Train",Paula Hawkins,978244456280,1869
+"The Fault in Our Stars",John Green,978082451368,1800
+"Gone Girl",Gillian Flynn,978108566275,1878
+"Ender's Game",Orson Scott Card,978185282822,1845
+"The Da Vinci Code",Dan Brown,978457704298,2004
+"Inferno",Dan Brown,978718314060,1853
+"Angels & Demons",Dan Brown,978771147100,1844
+"The Lovely Bones",Alice Sebold,978680005857,1983
+"The Girl with the Dragon Tattoo",Stieg Larsson,978892877289,1929
+"Memoirs of a Geisha",Arthur Golden,978673316524,1830
+"The Outsiders",S.E. Hinton,978784943790,1901
+"Twilight",Stephenie Meyer,978712852376,1839
+"The Time Traveler's Wife",Audrey Niffenegger,978780272991,2000
+"Water for Elephants",Sara Gruen,978282950719,2001
+"Life After Life",Kate Atkinson,978514149582,1846
+"Where the Crawdads Sing",Delia Owens,978338571850,1882
+"The Night Circus",Erin Morgenstern,978010415445,1881
+"City of Bones",Cassandra Clare,978569191931,1900
+"The Stand",Stephen King,978987583696,1996
+"It",Stephen King,978311637337,1858
+"Pet Sematary",Stephen King,978067798429,1916
+"Misery",Stephen King,978297986022,1990
+"The Sun Also Rises",Ernest Hemingway,978807864634,1855
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978977348070,1925
+"House of Leaves",Mark Z. Danielewski,978330873350,1935
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978293731611,1857
+"The Wind-Up Bird Chronicle",Haruki Murakami,978488560472,1937
+"Kafka on the Shore",Haruki Murakami,978621692703,1810
+"The Devil Wears Prada",Lauren Weisberger,978491103025,1946
+"The Secret History",Donna Tartt,978750334116,1986
+"The Hunger Games",Suzanne Collins,978451480343,1995
+"The Maze Runner",James Dashner,978779093760,1973
+"Dune",Frank Herbert,978346163411,1983
+"The Girl on the Train",Paula Hawkins,978896728425,1831
+"The Fault in Our Stars",John Green,978730943724,1817
+"Gone Girl",Gillian Flynn,978467173310,1959
+"Ender's Game",Orson Scott Card,978407827217,2022
+"The Da Vinci Code",Dan Brown,978224206190,1974
+"Inferno",Dan Brown,978933473080,1804
+"Angels & Demons",Dan Brown,978929851840,1936
+"The Lovely Bones",Alice Sebold,978824561178,1879
+"The Girl with the Dragon Tattoo",Stieg Larsson,978757031442,1953
+"Memoirs of a Geisha",Arthur Golden,978251391084,1854
+"The Outsiders",S.E. Hinton,978571546103,1964
+"Twilight",Stephenie Meyer,978862093286,1914
+"The Time Traveler's Wife",Audrey Niffenegger,978682599599,1928
+"Water for Elephants",Sara Gruen,978760288707,1887
+"Life After Life",Kate Atkinson,978265922410,1946
+"Where the Crawdads Sing",Delia Owens,978088507314,1821
+"The Night Circus",Erin Morgenstern,978401006322,1934
+"City of Bones",Cassandra Clare,978246288872,1863
+"The Stand",Stephen King,978957113549,1852
+"It",Stephen King,978971983251,1966
+"Pet Sematary",Stephen King,978463140561,1922
+"Misery",Stephen King,978508153402,1806
+"The Sun Also Rises",Ernest Hemingway,978753558223,1935
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978557515947,1984
+"House of Leaves",Mark Z. Danielewski,978350336096,1922
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978936308506,1887
+"The Wind-Up Bird Chronicle",Haruki Murakami,978331565615,1908
+"Kafka on the Shore",Haruki Murakami,978570069556,1851
+"The Devil Wears Prada",Lauren Weisberger,978136549466,1836
+"The Secret History",Donna Tartt,978936759517,1983
+"The Hunger Games",Suzanne Collins,978469466386,2005
+"The Maze Runner",James Dashner,978281120968,1833
+"Dune",Frank Herbert,978105998186,1953
+"The Girl on the Train",Paula Hawkins,978996476057,1966
+"The Fault in Our Stars",John Green,978767026941,1866
+"Gone Girl",Gillian Flynn,978784322613,1840
+"Ender's Game",Orson Scott Card,978660649860,1986
+"The Da Vinci Code",Dan Brown,978136908397,1925
+"Inferno",Dan Brown,978004365856,1991
+"Angels & Demons",Dan Brown,978660081219,2018
+"The Lovely Bones",Alice Sebold,978254746334,1898
+"The Girl with the Dragon Tattoo",Stieg Larsson,978943965351,1918
+"Memoirs of a Geisha",Arthur Golden,978977985896,1819
+"The Outsiders",S.E. Hinton,978675096984,1955
+"Twilight",Stephenie Meyer,978876213197,1986
+"The Time Traveler's Wife",Audrey Niffenegger,978146193240,1923
+"Water for Elephants",Sara Gruen,978124071588,1817
+"Life After Life",Kate Atkinson,978866866142,1861
+"Where the Crawdads Sing",Delia Owens,978486469143,1946
+"The Night Circus",Erin Morgenstern,978559977620,1916
+"City of Bones",Cassandra Clare,978622307899,1955
+"The Stand",Stephen King,978123633424,1980
+"It",Stephen King,978531637451,1832
+"Pet Sematary",Stephen King,978362504235,1824
+"Misery",Stephen King,978821271765,2020
+"The Sun Also Rises",Ernest Hemingway,978172272312,1817
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978593779832,1989
+"House of Leaves",Mark Z. Danielewski,978977448206,2016
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978356881207,1987
+"The Wind-Up Bird Chronicle",Haruki Murakami,978113851291,1954
+"Kafka on the Shore",Haruki Murakami,978050860671,1966
+"The Devil Wears Prada",Lauren Weisberger,978855408302,1884
+"The Secret History",Donna Tartt,978134658144,1959
+"The Hunger Games",Suzanne Collins,978900011858,1840
+"The Maze Runner",James Dashner,978859609450,1895
+"Dune",Frank Herbert,978992434866,1975
+"The Girl on the Train",Paula Hawkins,978784608415,1959
+"The Fault in Our Stars",John Green,978522250637,1831
+"Gone Girl",Gillian Flynn,978925388636,1967
+"Ender's Game",Orson Scott Card,978515274082,1801
+"The Da Vinci Code",Dan Brown,978702425280,1815
+"Inferno",Dan Brown,978001480081,2007
+"Angels & Demons",Dan Brown,978748056094,2013
+"The Lovely Bones",Alice Sebold,978768965295,1979
+"The Girl with the Dragon Tattoo",Stieg Larsson,978450295910,1945
+"Memoirs of a Geisha",Arthur Golden,978752103852,1855
+"The Outsiders",S.E. Hinton,978889835873,1846
+"Twilight",Stephenie Meyer,978037812178,1996
+"The Time Traveler's Wife",Audrey Niffenegger,978901909423,1887
+"Water for Elephants",Sara Gruen,978485362683,2018
+"Life After Life",Kate Atkinson,978259098900,2018
+"Where the Crawdads Sing",Delia Owens,978134284540,1807
+"The Night Circus",Erin Morgenstern,978393797945,1935
+"City of Bones",Cassandra Clare,978325951850,1809
+"The Stand",Stephen King,978710461322,1894
+"It",Stephen King,978321932224,1833
+"Pet Sematary",Stephen King,978363248716,1919
+"Misery",Stephen King,978219206651,1847
+"The Sun Also Rises",Ernest Hemingway,978510929145,1832
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978709236744,1892
+"House of Leaves",Mark Z. Danielewski,978567481665,2020
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978580693220,2008
+"The Wind-Up Bird Chronicle",Haruki Murakami,978591241300,1901
+"Kafka on the Shore",Haruki Murakami,978781561223,1923
+"The Devil Wears Prada",Lauren Weisberger,978780277616,1938
+"The Secret History",Donna Tartt,978075524139,1824
+"The Hunger Games",Suzanne Collins,978565603393,1912
+"The Maze Runner",James Dashner,978280543579,2002
+"Dune",Frank Herbert,978025756888,1853
+"The Girl on the Train",Paula Hawkins,978009732138,1847
+"The Fault in Our Stars",John Green,978227424930,1959
+"Gone Girl",Gillian Flynn,978188162513,2012
+"Ender's Game",Orson Scott Card,978727394899,1988
+"The Da Vinci Code",Dan Brown,978440613296,1906
+"Inferno",Dan Brown,978202844952,1859
+"Angels & Demons",Dan Brown,978126023738,2008
+"The Lovely Bones",Alice Sebold,978582342582,1801
+"The Girl with the Dragon Tattoo",Stieg Larsson,978125727954,1886
+"Memoirs of a Geisha",Arthur Golden,978150332519,1967
+"The Outsiders",S.E. Hinton,978473520549,2012
+"Twilight",Stephenie Meyer,978380298871,1909
+"The Time Traveler's Wife",Audrey Niffenegger,978119987589,1951
+"Water for Elephants",Sara Gruen,978871827118,1948
+"Life After Life",Kate Atkinson,978576439301,1817
+"Where the Crawdads Sing",Delia Owens,978899016134,1945
+"The Night Circus",Erin Morgenstern,978568194244,1957
+"City of Bones",Cassandra Clare,978782430961,1925
+"The Stand",Stephen King,978831261264,1853
+"It",Stephen King,978972045232,1955
+"Pet Sematary",Stephen King,978724007418,1999
+"Misery",Stephen King,978060744217,1952
+"The Sun Also Rises",Ernest Hemingway,978254741268,1820
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978121021968,1958
+"House of Leaves",Mark Z. Danielewski,978841686925,1815
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978893315895,1978
+"The Wind-Up Bird Chronicle",Haruki Murakami,978232178442,1969
+"Kafka on the Shore",Haruki Murakami,978097068284,2000
+"The Devil Wears Prada",Lauren Weisberger,978591873830,1921
+"The Secret History",Donna Tartt,978964328209,1838
+"The Hunger Games",Suzanne Collins,978948984684,1862
+"The Maze Runner",James Dashner,978104918192,2003
+"Dune",Frank Herbert,978246578012,1945
+"The Girl on the Train",Paula Hawkins,978870317484,1884
+"The Fault in Our Stars",John Green,978364883812,1943
+"Gone Girl",Gillian Flynn,978938657977,1873
+"Ender's Game",Orson Scott Card,978915406419,1883
+"Invisible Man",Ralph Ellison,9780452262067,1952
+"Catch-22",Joseph Heller,9781451626650,1961
+"The Joy Luck Club",Amy Tan,9780143038092,1989
+"On the Road",Jack Kerouac,9780140283297,1957
+"The Prophet",Kahlil Gibran,9781613822181,1923
+"Silent Spring",Rachel Carson,9780618249060,1962
+"The Sun Also Rises",Ernest Hemingway,9780684800714,1926
+"The Things They Carried",Tim O'Brien,9780618706419,1990
+"White Teeth",Zadie Smith,9780375703867,2000
+"Midnight's Children",Salman Rushdie,9780812972010,1981
+"Persepolis",Marjane Satrapi,9780375714572,2003
+"Guns, Germs, and Steel",Jared Diamond,9780393050437,1997
+"The Remains of the Day",Kazuo Ishiguro,9780679731726,1989
+"All the Light We Cannot See",Anthony Doerr,9781476746586,2014
+"How to Win Friends and Influence People",Dale Carnegie,9780671027032,1936
+"The Secret Life of Bees",Sue Monk Kidd,9780142001745,2002
+"The Poisonwood Bible",Barbara Kingsolver,9780061577079,1998
+"The Autobiography of Malcolm X",Malcolm X and Alex Haley,9780345350688,1965
+"Tuesdays with Morrie",Mitch Albom,9780767905923,1997
+"The Stranger",Albert Camus,9780679720201,1946
+"The Bell Jar",Sylvia Plath,9780060812542,1963
+"The 5 Love Languages",Gary Chapman,9781881273350,1992
+"Thinking, Fast and Slow",Daniel Kahneman,9780374533557,2011
+"The Name of the Rose",Umberto Eco,9780156012195,1980
+"The Bridges of Madison County",Robert James Waller,9780552774730,1992
+"A Farewell to Arms",Ernest Hemingway,9780099908401,1929
+"The Age of Innocence",Edith Wharton,9780553212342,1920
+"The Year of Magical Thinking",Joan Didion,9781400078431,2005
+"A Room with a View",E.M. Forster,9780141439662,1908
+"The Story of My Life",Helen Keller,9780451531983,1903
+"I Am Malala",Malala Yousafzai and Christina Lamb,9780316337530,2013
+"Thinking in Systems",Donella Meadows,9781603580557,2008
+"Wild",Cheryl Strayed,9780307387871,2012
+"Beautiful Ruins",Jess Walter,9781451661788,2012
+"Eat, Pray, Love",Elizabeth Gilbert,9780143038412,2006
+"Quiet: The Power of Introverts",Susan Cain,9780307352153,2012
+"In Cold Blood",Truman Capote,9780812984481,1966
+"The Warmth of Other Suns",Isabel Wilkerson,9780679763888,2010
+"A Short History of Nearly Everything",Bill Bryson,9780767908180,2003
+"Cutting for Stone",Abraham Verghese,9780767923831,2009
+"The 48 Laws of Power",Robert Greene,9780140280197,1998
+"The Secret",Rhonda Byrne,9781582701707,2006
+"The Last of the Mohicans",James Fenimore Cooper,9780451530986,1826
+"Shōgun",James Clavell,9780440178007,1975
+"Outlander",Diana Gabaldon,9780440212563,1991
+"Killing Floor",Lee Child,9780515133658,1997
+"The Man in the High Castle",Philip K. Dick,9780441013593,1962
+"Hatchet",Gary Paulsen,9781416936473,1986
+"Treasure Island",Robert Louis Stevenson,9780141439822,1883
+"I Know This Much Is True",Wally Lamb,9780060987564,1998
+"Lonesome Dove",Larry McMurtry,9780684802745,1985
+"The Sea Wolf",Jack London,9781557422121,1904
+"The Red and the Black",Stendhal,9780199536828,1830
+"Do Androids Dream of Electric Sheep?",Philip K. Dick,9780345404473,1968
+"The Call of the Wild",Jack London,9780451532000,1903
+"The Cuckoo's Calling",Robert Galbraith,9780316334752,2013
+"Long Walk to Freedom",Nelson Mandela,9780316548182,1994
+"The Immortal Life of Henrietta Lacks",Rebecca Skloot,9781400052189,2010
+"Nickel and Dimed",Barbara Ehrenreich,9780805087090,2001
+"The Left Hand of Darkness",Ursula K. Le Guin,9780441013593,1969
+"The Confessions of Nat Turner",William Styron,9780812972576,1967
+"The Art of War",Sun Tzu,9781590302255,500 BC
+"The Prince",Niccolò Machiavelli,9780140449150,1532
+"The Road",Cormac McCarthy,9780307387895,2006
+"The Tale of Genji",Murasaki Shikibu,9780679729532,1008
+"The Color of Water",James McBride,9781594481925,1996
+"Angela’s Ashes",Frank McCourt,9781565123880,1996
+"Death of a Salesman",Arthur Miller,9780140481341,1949
+"The Invisible Life of Addie LaRue",V.E. Schwab,9780765387561,2020
+"The Martian",Andy Weir,9780553418026,2011
+"Daisy Jones & The Six",Taylor Jenkins Reid,9781524798659,2019
+"Just Mercy",Bryan Stevenson,9780812984962,2014
+"Beartown",Fredrik Backman,9781501160778,2016
+"The Lovely Bones",Alice Sebold,9780316338309,2002
+"The Gilded Age",Mark Twain and Charles Dudley Warner,9781593082533,1873
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,9781594489587,2007
+"The Catcher Was a Spy",Nicholas Dawidoff,9780306811862,1994
+"The Golden Compass",Philip Pullman,9780440418320,1995
+"The Shadow of the Wind",Carlos Ruiz Zafón,9780143034902,2001
+"The Soul of a New Machine",Tracy Kidder,9780618102734,1981
+"Good to Great",Jim Collins,9780066620992,2001
+"Hillbilly Elegy",J.D. Vance,9780062300546,2016
+"The House on Mango Street",Sandra Cisneros,9780679734772,1984
+"The Spy Who Came in from the Cold",John le Carré,9780143039433,1963
+"The Andromeda Strain",Michael Crichton,9780061751292,1969
+"Why We Sleep",Matthew Walker,9781501144314,2017
+"The Little Friend",Donna Tartt,9781400031702,2002
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,9781594489587,2007
+"The Alienist",Caleb Carr,9780553101627,1994
+"Stamped from the Beginning",Ibram X. Kendi,9781568585987,2016
+"A Visit from the Goon Squad",Jennifer Egan,9780307592111,2010
+"The Nickel Boys",Colson Whitehead,9780385544031,2019
+"The Name of the Wind",Patrick Rothfuss,9780756404741,2007
+"The Liar’s Club",Mary Karr,9780679764025,1995
+"The 4-Hour Workweek",Tim Ferriss,9780785933307,2007
+"Bossypants",Tina Fey,9781455509174,2011
+"Educated",Tara Westover,9780399590504,2018
+"The Omnivore's Dilemma",Michael Pollan,9780143038580,2006
+"Team of Rivals",Doris Kearns Goodwin,9780684824902,2005
+"Normal People",Sally Rooney,9781984801723,2018
