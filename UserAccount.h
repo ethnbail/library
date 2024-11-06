@@ -3,7 +3,7 @@
 
 #include <string>
 
-void creatAccount();
-void singIn();
+void createAccount();  // Function to create a new account
+bool signIn();         // Function to sign in to an existing account
 
 #endif

@@ -1,0 +1,5 @@
+/*Functions
+returnBook
+searchBook
+genreSearch
+*/
