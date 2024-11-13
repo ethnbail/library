@@ -3,7 +3,9 @@
 
 #include <string>
 
-void createAccount();  // Function to create a new account
-bool signIn();         // Function to sign in to an existing account
+using namespace std;
+
+void createAccount();
+bool signIn(string& username);
 
 #endif

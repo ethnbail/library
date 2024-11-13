@@ -1,453 +1,448 @@
-"The Great Gatsby", F. Scott Fitzgerald, 978796549419, 1803, fiction, science
-"Pride and Prejudice", Jane Austen, 978796549420, 1813, fiction, romance
-"1984", George Orwell, 978796549421, 1949, fiction, dystopian
-"To Kill a Mockingbird", Harper Lee, 978796549422, 1960, fiction, historical
-"The Catcher in the Rye", J.D. Salinger, 978796549423, 1951, fiction, coming-of-age
-"Moby Dick", Herman Melville, 978796549424, 1851, fiction, adventure
-"War and Peace", Leo Tolstoy, 978796549425, 1869, fiction, historical
-"Crime and Punishment", Fyodor Dostoevsky, 978796549426, 1866, fiction, psychological
-"The Odyssey", Homer, 978796549427, -800, fiction, epic
-"The Iliad", Homer, 978796549428, -750, fiction, epic
-"Brave New World", Aldous Huxley, 978796549429, 1932, fiction, dystopian
-"Jane Eyre", Charlotte Brontë, 978796549430, 1847, fiction, gothic
-"The Divine Comedy", Dante Alighieri, 978796549431, 1320, fiction, epic
-"Les Misérables", Victor Hugo, 978796549432, 1862, fiction, historical
-"The Brothers Karamazov", Fyodor Dostoevsky, 978796549433, 1880, fiction, philosophical
-"Wuthering Heights", Emily Brontë, 978796549434, 1847, fiction, gothic
-"Frankenstein", Mary Shelley, 978796549435, 1818, fiction, science fiction
-"The Scarlet Letter", Nathaniel Hawthorne, 978796549436, 1850, fiction, historical
-"Anna Karenina", Leo Tolstoy, 978796549437, 1877, fiction, romance
-"Madame Bovary", Gustave Flaubert, 978796549438, 1857, fiction, realism
-"Don Quixote", Miguel de Cervantes, 978796549439, 1605, fiction, adventure
-"Ulysses", James Joyce, 978796549440, 1922, fiction, modernist
-"The Picture of Dorian Gray", Oscar Wilde, 978796549441, 1890, fiction, philosophical
-"Heart of Darkness", Joseph Conrad, 978796549442, 1899, fiction, adventure
-"A Tale of Two Cities", Charles Dickens, 978796549443, 1859, fiction, historical
-"Great Expectations", Charles Dickens, 978796549444, 1861, fiction, coming-of-age
-"Dracula", Bram Stoker, 978796549445, 1897, fiction, horror
-"The Hunchback of Notre-Dame", Victor Hugo, 978796549446, 1831, fiction, historical
-"Fahrenheit 451", Ray Bradbury, 978796549447, 1953, fiction, dystopian
-"The Hobbit", J.R.R. Tolkien, 978796549448, 1937, fiction, fantasy
-"The Lord of the Rings", J.R.R. Tolkien, 978796549449, 1954, fiction, fantasy
-"The Old Man and the Sea", Ernest Hemingway, 978796549450, 1952, fiction, adventure
-"Lolita", Vladimir Nabokov, 978796549451, 1955, fiction, controversial
-"Of Mice and Men", John Steinbeck, 978796549452, 1937, fiction, tragedy
-"Catch-22", Joseph Heller, 978796549453, 1961, fiction, satirical
-"Slaughterhouse-Five", Kurt Vonnegut, 978796549454, 1969, fiction, anti-war
-"One Hundred Years of Solitude", Gabriel Garcia Marquez, 978796549455, 1967, fiction, magical realism
-"Beloved", Toni Morrison, 978796549456, 1987, fiction, historical
-"The Sound and the Fury", William Faulkner, 978796549457, 1929, fiction, modernist
-"Gone with the Wind", Margaret Mitchell, 978796549458, 1936, fiction, historical
-"Alice's Adventures in Wonderland", Lewis Carroll, 978796549459, 1865, fiction, fantasy
-"The Grapes of Wrath", John Steinbeck, 978796549460, 1939, fiction, social commentary
-"A Farewell to Arms", Ernest Hemingway, 978796549461, 1929, fiction, war
-"The Sun Also Rises", Ernest Hemingway, 978796549462, 1926, fiction, modernist
-"The Metamorphosis", Franz Kafka, 978796549463, 1915, fiction, absurdist
-"Rebecca", Daphne du Maurier, 978796549464, 1938, fiction, gothic
-"The Little Prince", Antoine de Saint-Exupéry, 978796549465, 1943, fiction, philosophical
-"Murder on the Orient Express", Agatha Christie, 978796549466, 1934, fiction, mystery
-"The Da Vinci Code", Dan Brown, 978796549467, 2003, fiction, thriller
-"Life of Pi", Yann Martel, 978796549468, 2001, fiction, adventure
-"The Alchemist", Paulo Coelho, 978796549469, 1988, fiction, adventure
-"The Road", Cormac McCarthy, 978796549470, 2006, fiction, post-apocalyptic
-"The Shining", Stephen King, 978796549471, 1977, fiction, h
-"A Game of Thrones", George R.R. Martin, 978796549472, 1996, fiction, fantasy
-"The Hunger Games", Suzanne Collins, 978796549473, 2008, fiction, dystopian
-"The Handmaid's Tale", Margaret Atwood, 978796549474, 1985, fiction, dystopian
-"The Kite Runner", Khaled Hosseini, 978796549475, 2003, fiction, drama
-"The Night Circus", Erin Morgenstern, 978796549476, 2011, fiction, fantasy
-"The Girl on the Train", Paula Hawkins, 978796549477, 2015, fiction, thriller
-"The Martian", Andy Weir, 978796549478, 2011, fiction, science fiction
-"The Book Thief", Markus Zusak, 978796549479, 2005, fiction, historical
-"The Outsiders", S.E. Hinton, 978796549480, 1967, fiction, coming-of-age
-"The Secret Garden", Frances Hodgson Burnett, 978796549481, 1911, fiction, children's
-"The Giver", Lois Lowry, 978796549482, 1993, fiction, dystopian
-"The Time Traveler's Wife", Audrey Niffenegger, 978796549483, 2003, fiction, romance
-"The Hobbit", J.R.R. Tolkien, 978796549484, 1937, fiction, fantasy
-"Ender's Game", Orson Scott Card, 978796549485, 1985, fiction, science fiction
-"The Picture of Dorian Gray", Oscar Wilde, 978796549486, 1890, fiction, philosophical
-"Wicked", Gregory Maguire, 978796549487, 1995, fiction, fantasy
-"The Chronicles of Narnia", C.S. Lewis, 978796549488, 1950, fiction, fantasy
-"Percy Jackson & the Olympians", Rick Riordan, 978796549489, 2005, fiction, fantasy
-"The Fault in Our Stars", John Green, 978796549490, 2012, fiction, romance
-"The Girl with the Dragon Tattoo", Stieg Larsson, 978796549491, 2005, fiction, mystery
-"The Hunger Games", Suzanne Collins, 978796549492, 2008, fiction, dystopian
-"The Maze Runner", James Dashner, 978796549493, 2009, fiction, dystopian
-"The Outsiders", S.E. Hinton, 978796549494, 1967, fiction, coming-of-age
-"The Secret Life of Bees", Sue Monk Kidd, 978796549495, 2002, fiction, historical
-"The Color Purple", Alice Walker, 978796549496, 1982, fiction, historical
-"The Great Gatsby", F. Scott Fitzgerald, 978796549497, 1925, fiction, classic
-"Harry Potter and the Sorcerer's Stone", J.K. Rowling, 978796549498, 1997, fiction, fantasy
-"The Hobbit", J.R.R. Tolkien, 978796549499, 1937, fiction, fantasy
-"Harry Potter and the Chamber of Secrets", J.K. Rowling, 978796549500, 1998, fiction, fantasy
-"Harry Potter and the Prisoner of Azkaban", J.K. Rowling, 978796549501, 1999, fiction, fantasy
-"Harry Potter and the Goblet of Fire", J.K. Rowling, 978796549502, 2000, fiction, fantasy
-"Harry Potter and the Order of the Phoenix", J.K. Rowling, 978796549503, 2003, fiction, fantasy
-"Harry Potter and the Half-Blood Prince", J.K. Rowling, 978796549504, 2005, fiction, fantasy
-"Harry Potter and the Deathly Hallows", J.K. Rowling, 978796549505, 2007, fiction, fantasy
-"The Lightning Thief", Rick Riordan, 978796549506, 2005, fiction, fantasy
-"Brave New World", Aldous Huxley, 978796549507, 1932, fiction, dystopian
-"The Hunger Games", Suzanne Collins, 978796549508, 2008, fiction, dystopian
-"The Fellowship of the Ring", J.R.R. Tolkien, 978796549509, 1954, fiction, fantasy
-"The Two Towers", J.R.R. Tolkien, 978796549510, 1954, fiction, fantasy
-"The Return of the King", J.R.R. Tolkien, 978796549511, 1955, fiction, fantasy
-"Ender's Game", Orson Scott Card, 978796549512, 1985, fiction, science fiction
-"The Name of the Wind", Patrick Rothfuss, 978796549513, 2007, fiction, fantasy
-"The Golden Compass", Philip Pullman, 978796549514, 1995, fiction, fantasy
-"The Subtle Knife", Philip Pullman, 978796549515, 1997, fiction, fantasy
-"The Amber Spyglass", Philip Pullman, 978796549516, 2000, fiction, fantasy
-"The Hobbit", J.R.R. Tolkien, 978796549517, 1937, fiction, fantasy
-"The Lord of the Rings", J.R.R. Tolkien, 978796549518, 1954, fiction, fantasy
-"Pride and Prejudice", Jane Austen, 978796549519, 1813, fiction, romance
-"To Kill a Mockingbird", Harper Lee, 978796549520, 1960, fiction, historical
-"1984", George Orwell, 978796549521, 1949, fiction, dystopian
-"The Catcher in the Rye", J.D. Salinger, 978796549522, 1951, fiction, coming-of-age
-"The Bell Jar", Sylvia Plath, 978796549523, 1963, fiction, psychological
-"Frankenstein", Mary Shelley, 978796549524, 1818, fiction, h
-"Moby-Dick", Herman Melville, 978796549525, 1851, fiction, adventure
-"The Scarlet Letter", Nathaniel Hawthorne, 978796549526, 1850, fiction, historical
-"Crime and Punishment", Fyodor Dostoevsky, 978796549527, 1866, fiction, psychological
-"War and Peace", Leo Tolstoy, 978796549528, 1869, fiction, historical
-"Anna Karenina", Leo Tolstoy, 978796549529, 1877, fiction, romance
-"Great Expectations", Charles Dickens, 978796549530, 1860, fiction, historical
-"The Brothers Karamazov", Fyodor Dostoevsky, 978796549531, 1880, fiction, philosophical
-"Don Quixote", Miguel de Cervantes, 978796549532, 1605, fiction, adventure
-"Les Misérables", Victor Hugo, 978796549533, 1862, fiction, historical
-"Wuthering Heights", Emily Brontë, 978796549534, 1847, fiction, gothic
-"Jane Eyre", Charlotte Brontë, 978796549535, 1847, fiction, romance
-"The Picture of Dorian Gray", Oscar Wilde, 978796549536, 1890, fiction, philosophical
-"Rebecca", Daphne du Maurier, 978796549537, 1938, fiction, gothic
-"The Canterbury Tales", Geoffrey Chaucer, 978796549538, 1400, fiction, epic
-"The Divine Comedy", Dante Alighieri, 978796549539, 1320, fiction, epic
-"The Odyssey", Homer, 978796549540, 800 BC, fiction, epic
-"The Iliad", Homer, 978796549541, 750 BC, fiction, epic
-"Paradise Lost", John Milton, 978796549542, 1667, fiction, epic
-"Dracula", Bram Stoker, 978796549543, 1897, fiction, h
-"Frankenstein", Mary Shelley, 978796549544, 1818, fiction, h
-"The Haunting of Hill House", Shirley Jackson, 978796549545, 1959, fiction, h
-"The Turn of the Screw", Henry James, 978796549546, 1898, fiction, h
-"The Call of Cthulhu", H.P. Lovecraft, 978796549547, 1928, fiction, h
-"The Shining", Stephen King, 978796549548, 1977, fiction, h
-"The Stand", Stephen King, 978796549549, 1978, fiction, post-apocalyptic
-"It", Stephen King, 978796549550, 1986, fiction, h
-"The Silence of the Lambs", Thomas Harris, 978796549551, 1988, fiction, thriller
-"Red Dragon", Thomas Harris, 978796549552, 1981, fiction, thriller
-"The Girl with the Dragon Tattoo", Stieg Larsson, 978796549553, 2005, fiction, mystery
-"The Secret History", Donna Tartt, 978796549554, 1992, fiction, thriller
-"Gone Girl", Gillian Flynn, 978796549555, 2012, fiction, thriller
-"Big Little Lies", Liane Moriarty, 978796549556, 2014, fiction, mystery
-"The Silent Patient", Alex Michaelides, 978796549557, 2019, fiction, thriller
-"The Woman in the Window", A.J. Finn, 978796549558, 2018, fiction, thriller
-"The Couple Next Door", Shari Lapena, 978796549559, 2016, fiction, mystery
-"The Outsiders", S.E. Hinton, 978796549560, 1967, fiction, coming-of-age
-"Wonder", R.J. Palacio, 978796549561, 2012, fiction, children's
-"The Perks of Being a Wallflower", Stephen Chbosky, 978796549562, 1999, fiction, coming-of-age
-"The Fault in Our Stars", John Green, 978796549563, 2012, fiction, romance
-"Looking for Alaska", John Green, 978796549564, 2005, fiction, coming-of-age
-"A Fault in Our Stars", John Green, 978796549565, 2012, fiction, romance
-"Turtles All the Way Down", John Green, 978796549566, 2017, fiction, coming-of-age
-"The Hate U Give", Angie Thomas, 978796549567, 2017, fiction, drama
-"Eleanor Oliphant Is Completely Fine", Gail Honeyman, 978796549568, 2017, fiction, contemporary
-"The Girl on the Train", Paula Hawkins, 978796549569, 2015, fiction, thriller
-"The Goldfinch", Donna Tartt, 978796549570, 2013, fiction, literary
-"The Help", Kathryn Stockett, 978796549571, 2009, fiction, historical
-"Room", Emma Donoghue, 978796549572, 2010, fiction, drama
-"The Night Circus", Erin Morgenstern, 978796549573, 2011, fiction, fantasy
-"The Book Thief", Markus Zusak, 978796549574, 2005, fiction, historical
-"The Lovely Bones", Alice Sebold, 978796549575, 2002, fiction, mystery
-"The Time Traveler's Wife", Audrey Niffenegger, 978796549576, 2003, fiction, romance
-"The 5th Wave", Rick Yancey, 978796549577, 2013, fiction, dystopian
-"Legend", Marie Lu, 978796549578, 2011, fiction, dystopian
-"Divergent", Veronica Roth, 978796549579, 2011, fiction, dystopian
-"Mockingjay", Suzanne Collins, 978796549580, 2010, fiction, dystopian
-"Allegiant", Veronica Roth, 978796549581, 2013, fiction, dystopian
-"The Maze Runner", James Dashner, 978796549582, 2009, fiction, dystopian
-"Ready Player One", Ernest Cline, 978796549583, 2011, fiction, science fiction
-"The Hunger Games", Suzanne Collins, 978796549584, 2008, fiction, dystopian
-"Ender's Game", Orson Scott Card, 978796549585, 1985, fiction, science fiction
-"The Martian", Andy Weir, 978796549586, 2011, fiction, science fiction
-"The Handmaid's Tale", Margaret Atwood, 978796549587, 1985, fiction, dystopian
-"Brave New World", Aldous Huxley, 978796549588, 1932, fiction, dystopian
-"Fahrenheit 451", Ray Bradbury, 978796549589, 1953, fiction, dystopian
-"1984", George Orwell, 978796549590, 1949, fiction, dystopian
-"Animal Farm", George Orwell, 978796549591, 1945, fiction, allegory
-"The Road", Cormac McCarthy, 978796549592, 2006, fiction, post-apocalyptic
-"Never Let Me Go", Kazuo Ishiguro, 978796549593, 2005, fiction, science fiction
-"Station Eleven", Emily St. John Mandel, 978796549594, 2014, fiction, post-apocalyptic
-"The Book Thief", Markus Zusak, 978796549595, 2005, fiction, historical
-"The Catcher in the Rye", J.D. Salinger, 978796549596, 1951, fiction, coming-of-age
-"The Old Man and the Sea", Ernest Hemingway, 978796549597, 1952, fiction, literary
-"The Kite Runner", Khaled Hosseini, 978796549598, 2003, fiction, historical
-"Atonement", Ian McEwan, 978796549599, 2001, fiction, literary
-"Life of Pi", Yann Martel, 978796549600, 2001, fiction, adventure
-"A Tree Grows in Brooklyn", Betty Smith, 978796549601, 1943, fiction, coming-of-age
-"One Hundred Years of Solitude", Gabriel García Márquez, 978796549602, 1967, fiction, magical realism
-"The House on Mango Street", Sandra Cisneros, 978796549603, 1984, fiction, coming-of-age
-"A Little Life", Hanya Yanagihara, 978796549604, 2015, fiction, contemporary
-"The Nightingale", Kristin Hannah, 978796549605, 2015, fiction, historical
-"Where the Crawdads Sing", Delia Owens, 978796549606, 2018, fiction, mystery
-"The Light We Lost", Jill Santopolo, 978796549607, 2017, fiction, romance
-"Big Little Lies", Liane Moriarty, 978796549608, 2014, fiction, mystery
-"The Wife Between Us", Greer Hendricks, 978796549609, 2018, fiction, thriller
-"The Girl on the Train", Paula Hawkins, 978796549610, 2015, fiction, thriller
-"Sharp Objects", Gillian Flynn, 978796549611, 2006, fiction, thriller
-"The Couple Next Door", Shari Lapena, 978796549612, 2016, fiction, mystery
-"The Silent Patient", Alex Michaelides, 978796549613, 2019, fiction, thriller
-"Gone Girl", Gillian Flynn, 978796549614, 2012, fiction, thriller
-"Before I Go to Sleep", S.J. Watson, 978796549615, 2011, fiction, thriller
-"The Secret History", Donna Tartt, 978796549616, 1992, fiction, thriller
-"The Girl with the Dragon Tattoo", Stieg Larsson, 978796549617, 2005, fiction, mystery
-"The 5th Wave", Rick Yancey, 978796549618, 2013, fiction, dystopian
-"The Outsiders", S.E. Hinton, 978796549619, 1967, fiction, coming-of-age
-"The Alchemist", Paulo Coelho, 978796549620, 1988, fiction, philosophical
-"The Giver", Lois Lowry, 978796549621, 1993, fiction, dystopian
-"The Hate U Give", Angie Thomas, 978796549622, 2017, fiction, drama
-"Wonder", R.J. Palacio, 978796549623, 2012, fiction, children's
-"The Perks of Being a Wallflower", Stephen Chbosky, 978796549624, 1999, fiction, coming-of-age
-"The Fault in Our Stars", John Green, 978796549625, 2012, fiction, romance
-"Looking for Alaska", John Green, 978796549626, 2005, fiction, coming-of-age
-"Turtles All the Way Down", John Green, 978796549627, 2017, fiction, coming-of-age
-"The Lovely Bones", Alice Sebold, 978796549628, 2002, fiction, mystery
-"The Night Circus", Erin Morgenstern, 978796549629, 2011, fiction, fantasy
-"The Book Thief", Markus Zusak, 978796549630, 2005, fiction, historical
-"The Time Traveler's Wife", Audrey Niffenegger, 978796549631, 2003, fiction, romance
-"The 5th Wave", Rick Yancey, 978796549632, 2013, fiction, dystopian
-"Divergent", Veronica Roth, 978796549633, 2011, fiction, dystopian
-"Mockingjay", Suzanne Collins, 978796549634, 2010, fiction, dystopian
-"Allegiant", Veronica Roth, 978796549635, 2013, fiction, dystopian
-"The Maze Runner", James Dashner, 978796549636, 2009, fiction, dystopian
-"Ready Player One", Ernest Cline, 978796549637, 2011, fiction, science fiction
-"The Hunger Games", Suzanne Collins, 978796549638, 2008, fiction, dystopian
-"Ender's Game", Orson Scott Card, 978796549639, 1985, fiction, science fiction
-"The Martian", Andy Weir, 978796549640, 2011, fiction, science fiction
-"The Handmaid's Tale", Margaret Atwood, 978796549641, 1985, fiction, dystopian
-"Brave New World", Aldous Huxley, 978796549642, 1932, fiction, dystopian
-"Fahrenheit 451", Ray Bradbury, 978796549643, 1953, fiction, dystopian
-"1984", George Orwell, 978796549644, 1949, fiction, dystopian
-"Animal Farm", George Orwell, 978796549645, 1945, fiction, allegory
-"The Road", Cormac McCarthy, 978796549646, 2006, fiction, post-apocalyptic
-"Never Let Me Go", Kazuo Ishiguro, 978796549647, 2005, fiction, science fiction
-"Station Eleven", Emily St. John Mandel, 978796549648, 2014, fiction, post-apocalyptic
-"The Book Thief", Markus Zusak, 978796549649, 2005, fiction, historical
-"The Catcher in the Rye", J.D. Salinger, 978796549650, 1951, fiction, coming-of-age
-"The Old Man and the Sea", Ernest Hemingway, 978796549651, 1952, fiction, literary
-"The Kite Runner", Khaled Hosseini, 978796549652, 2003, fiction, historical
-"Atonement", Ian McEwan, 978796549653, 2001, fiction, literary
-"Life of Pi", Yann Martel, 978796549654, 2001, fiction, adventure
-"A Tree Grows in Brooklyn", Betty Smith, 978796549655, 1943, fiction, coming-of-age
-"One Hundred Years of Solitude", Gabriel García Márquez, 978796549656, 1967, fiction, magical realism
-"The House on Mango Street", Sandra Cisneros, 978796549657, 1984, fiction, coming-of-age
-"A Little Life", Hanya Yanagihara, 978796549658, 2015, fiction, contemporary
-"The Nightingale", Kristin Hannah, 978796549659, 2015, fiction, historical
-"Where the Crawdads Sing", Delia Owens, 978796549660, 2018, fiction, mystery
-"The Light We Lost", Jill Santopolo, 978796549661, 2017, fiction, romance
-"Big Little Lies", Liane Moriarty, 978796549662, 2014, fiction, mystery
-"The Wife Between Us", Greer Hendricks, 978796549663, 2018, fiction, thriller
-"The Girl on the Train", Paula Hawkins, 978796549664, 2015, fiction, thriller
-"Sharp Objects", Gillian Flynn, 978796549665, 2006, fiction, thriller
-"The Couple Next Door", Shari Lapena, 978796549666, 2016, fiction, mystery
-"The Silent Patient", Alex Michaelides, 978796549667, 2019, fiction, thriller
-"Gone Girl", Gillian Flynn, 978796549668, 2012, fiction, thriller
-"Gone with the Wind", Margaret Mitchell, 978495091802, 1932, fiction, historical
-"The Book Thief", Markus Zusak, 978528074544, 1946, fiction, historical
-"Beloved", Toni Morrison, 978772244946, 2019, fiction, historical
-"Memoirs of a Geisha", Arthur Golden, 978952915195, 1980, fiction, historical
-"The Brothers Karamazov", Fyodor Dostoevsky, 978900028333, 1871, fiction, classic
-"A Clockwork Orange", Anthony Burgess, 978192315033, 1941, fiction, dystopian
-"Emma", Jane Austen, 978246642826, 1986, fiction, romance
-"The Handmaid's Tale", Margaret Atwood, 978763576236, 1908, fiction, dystopian
-"Animal Farm", George Orwell, 978367733693, 1978, fiction, political satire
-"The Secret Garden", Frances Hodgson Burnett, 978430073534, 1913, fiction, classic
-"Rebecca", Daphne du Maurier, 978407563841, 1938, fiction, gothic
-"Gone with the Wind", Margaret Mitchell, 978495091802, 1932, fiction, historical
-"The Book Thief", Markus Zusak, 978528074544, 1946, fiction, historical
-"Beloved", Toni Morrison, 978772244946, 2019, fiction, historical
-"Memoirs of a Geisha", Arthur Golden, 978952915195, 1980, fiction, historical
-"The Brothers Karamazov", Fyodor Dostoevsky, 978900028333, 1871, fiction, classic
-"A Clockwork Orange", Anthony Burgess, 978192315033, 1941, fiction, dystopian
-"Emma", Jane Austen, 978246642826, 1986, fiction, romance
-"The Handmaid's Tale", Margaret Atwood, 978763576236, 1908, fiction, dystopian
-"Animal Farm", George Orwell, 978367733693, 1978, fiction, political satire
-"The Secret Garden", Frances Hodgson Burnett, 978430073534, 1913, fiction, classic
-"Rebecca", Daphne du Maurier, 978407563841, 1938, fiction, gothic
-"The Picture of Dorian Gray", Oscar Wilde, 978387573561, 1890, fiction, gothic
-"Pride and Prejudice", Jane Austen, 978520098745, 1813, fiction, romance
-"The Great Gatsby", F. Scott Fitzgerald, 978060663002, 1925, fiction, classic
-"To Kill a Mockingbird", Harper Lee, 978006112008, 1960, fiction, historical
-"1984", George Orwell, 9780451524935, 1949, fiction, dystopian
-"The Catcher in the Rye", J.D. Salinger, 9780316769488, 1951, fiction, coming-of-age
-"The Road", Cormac McCarthy, 9780307387899, 2006, fiction, post-apocalyptic
-"Frankenstein", Mary Shelley, 9780486282114, 1818, fiction, h
-"Wuthering Heights", Emily Brontë, 9780141439556, 1847, fiction, gothic
-"Dracula", Bram Stoker, 9780141439846, 1897, fiction, h
-"Jane Eyre", Charlotte Brontë, 9781853260209, 1847, fiction, romance
-"The Divine Comedy", Dante Alighieri, 9780140448955, 1320, fiction, epic
-"Moby-Dick", Herman Melville, 9781851244422, 1851, fiction, classic
-"Les Misérables", Victor Hugo, 9780451419439, 1862, fiction, historical
-"Crime and Punishment", Fyodor Dostoevsky, 9780140449136, 1866, fiction, psychological
-"War and Peace", Leo Tolstoy, 9780307950136, 1869, fiction, historical
-"The Odyssey", Homer, 9780143039952, 800 BCE, fiction, epic
-"The Iliad", Homer, 9780140275360, 750 BCE, fiction, epic
-"The Catcher in the Rye", J.D. Salinger, 9780316769488, 1951, fiction, coming-of-age
-"The Hunger Games", Suzanne Collins, 9780439023528, 2008, fiction, dystopian
-"The Lord of the Rings", J.R.R. Tolkien, 9780618640157, 1954, fiction, fantasy
-"The Hobbit", J.R.R. Tolkien, 9780618968633, 1937, fiction, fantasy
-"Harry Potter and the Sorcerer's Stone", J.K. Rowling, 9780590353427, 1997, fiction, fantasy
-"The Chronicles of Narnia", C.S. Lewis, 9780066238500, 1950, fiction, fantasy
-"A Game of Thrones", George R.R. Martin, 9780553381689, 1996, fiction, fantasy
-"The Handmaid's Tale", Margaret Atwood, 9780385490818, 1985, fiction, dystopian
-"The Shining", Stephen King, 9780307743657, 1977, fiction, h
-"The Outsiders", S.E. Hinton, 9780142407332, 1967, fiction, coming-of-age
-"The Great Gatsby", F. Scott Fitzgerald, 9780743273565, 1925, fiction, classic
-"The Secret History", Donna Tartt, 9780375701573, 1992, fiction, mystery
-"The Night Circus", Erin Morgenstern, 9780307744432, 2011, fiction, fantasy
-"The Book Thief", Markus Zusak, 9780375842207, 2005, fiction, historical
-"Little Women", Louisa May Alcott, 9780147514011, 1868, fiction, historical
-"The Color Purple", Alice Walker, 9780156028356, 1982, fiction, historical
-"Slaughterhouse-Five", Kurt Vonnegut, 9780385333849, 1969, fiction, war
-"The Girl with the Dragon Tattoo", Stieg Larsson, 9780307949482, 2005, fiction, mystery
-"The Girl on the Train", Paula Hawkins, 9781594634024, 2015, fiction, thriller
-"Gone Girl", Gillian Flynn, 9780307588364, 2012, fiction, thriller
-"Sharp Objects", Gillian Flynn, 9780307341556, 2006, fiction, thriller
-"The Silent Patient", Alex Michaelides, 9781250301697, 2019, fiction, thriller
-"The Couple Next Door", Shari Lapena, 9780735221131, 2016, fiction, thriller
-"Big Little Lies", Liane Moriarty, 9780399587205, 2014, fiction, thriller
-"The Woman in the Window", A.J. Finn, 9780062678416, 2018, fiction, thriller
-"The Turn of the Key", Ruth Ware, 9781501188776, 2019, fiction, thriller
-"The 5th Wave", Rick Yancey, 9780399162411, 2013, fiction, dystopian
-"Ready Player One", Ernest Cline, 9780307887436, 2011, fiction, sci-fi
-"The Martian", Andy Weir, 9780553418026, 2011, fiction, sci-fi
-"Ender's Game", Orson Scott Card, 9780812550702, 1985, fiction, sci-fi
-"Dune", Frank Herbert, 9780441013593, 1965, fiction, sci-fi
-"Neuromancer", William Gibson, 9780441569595, 1984, fiction, sci-fi
-"The Hitchhiker's Guide to the Galaxy", Douglas Adams, 9780345391803, 1979, fiction, sci-fi
-"The Dispossessed", Ursula K. Le Guin, 9780060512758, 1974, fiction, sci-fi
-"Fahrenheit 451", Ray Bradbury, 9781451673319, 1953, fiction, dystopian
-"Brave New World", Aldous Huxley, 9780060850524, 1932, fiction, dystopian
-"The Giver", Lois Lowry, 9780440237686, 1993, fiction, dystopian
-"The Maze Runner", James Dashner, 9780385737951, 2009, fiction, dystopian
-"The Hunger Games", Suzanne Collins, 9780439023528, 2008, fiction, dystopian
-"Divergent", Veronica Roth, 9780062024022, 2011, fiction, dystopian
-"The Mortal Instruments: City of Bones", Cassandra Clare, 9781416936556, 2007, fiction, fantasy
-"Twilight", Stephenie Meyer, 9780316015844, 2005, fiction, romance
-"Fifty Shades of Grey", E.L. James, 9780345803481, 2011, fiction, romance
-"The Fault in Our Stars", John Green, 9780525478812, 2012, fiction, romance
-"Pride and Prejudice", Jane Austen, 9780141439518, 1813, fiction, romance
-"Me Before You", Jojo Moyes, 9780143124542, 2012, fiction, romance
-"The Rosie Project", Graeme Simsion, 9781444762153, 2013, fiction, romance
-"Outlander", Diana Gabaldon, 9780440212560, 1991, fiction, historical romance
-"The Time Traveler's Wife", Audrey Niffenegger, 9780151013219, 2003, fiction, romance
-"The Wedding", Nicholas Sparks, 9780446531392, 2003, fiction, romance
-"The Kiss Quotient", Helen Hoang, 9780451490805, 2018, fiction, romance
-"The Hating Game", Sally Thorne, 9780062439597, 2016, fiction, romance
-"The Nightingale", Kristin Hannah, 9780312577223, 2015, fiction, historical
-"All the Light We Cannot See", Anthony Doerr, 9781501173215, 2014, fiction, historical
-"The Help", Kathryn Stockett, 9780399155345, 2009, fiction, historical
-"The Paris Architect", Charles Belfoure, 9781492617883, 2013, fiction, historical
-"The Alice Network", Kate Quinn, 9780062654190, 2017, fiction, historical
-"The Tattooist of Auschwitz", Heather Morris, 9780062797150, 2018, fiction, historical
-"The Orphan's Tale", Pam Jenoff, 9780778317865, 2017, fiction, historical
-"Where the Crawdads Sing", Delia Owens, 9780735219107, 2018, fiction, historical
-"Water for Elephants", Sara Gruen, 9781594131270, 2006, fiction, historical
-"The Night Circus", Erin Morgenstern, 9780307744432, 2011, fiction, fantasy
-"Circe", Madeline Miller, 9780316338910, 2018, fiction, fantasy
-"The Priory of the Orange Tree", Samantha Shannon, 9781635570319, 2019, fiction, fantasy
-"The Name of the Wind", Patrick Rothfuss, 9780756404741, 2007, fiction, fantasy
-"Uprooted", Naomi Novik, 9780804179034, 2015, fiction, fantasy
-"The Blade Itself", Joe Abercrombie, 9780316333175, 2006, fiction, fantasy
-"Six of Crows", Leigh Bardugo, 9781627792128, 2015, fiction, fantasy
-"A Darker Shade of Magic", V.E. Schwab, 9780765376466, 2015, fiction, fantasy
-"Shadow and Bone", Leigh Bardugo, 9780805094596, 2012, fiction, fantasy
-"The Lies of Locke Lamora", Scott Lynch, 9780553588941, 2006, fiction, fantasy
-"Slaughterhouse-Five", Kurt Vonnegut, 978807918448, 1888, fiction, science fiction
-"The Catch-22", Joseph Heller, 978523048965, 1956, fiction, satire
-"The Road", Cormac McCarthy, 978735143693, 1800, fiction, dystopian
-"Don Quixote", Miguel de Cervantes, 978020547872, 1947, fiction, classic
-"The Color Purple", Alice Walker, 978823915644, 1972, fiction, historical
-"The Picture of Dorian Gray", Oscar Wilde, 978280578395, 1965, fiction, classic
-"Gone with the Wind", Margaret Mitchell, 978862720138, 1805, fiction, historical
-"The Book Thief", Markus Zusak, 978660930030, 1935, fiction, historical
-"Beloved", Toni Morrison, 978032224972, 2005, fiction, historical
-"Memoirs of a Geisha", Arthur Golden, 978351538148, 1984, fiction, historical
-"The Brothers Karamazov", Fyodor Dostoevsky, 978533346735, 1815, fiction, classic
-"A Clockwork Orange", Anthony Burgess, 978623374097, 1995, fiction, dystopian
-"Emma", Jane Austen, 978544670722, 1830, fiction, romance
-"The Handmaid's Tale", Margaret Atwood, 978825969534, 1801, fiction, dystopian
-"Animal Farm", George Orwell, 978488389349, 1880, fiction, political satire
-"The Secret Garden", Frances Hodgson Burnett, 978460593059, 1873, fiction, children’s literature
-"Rebecca", Daphne du Maurier, 978120020210, 2000, fiction, mystery
-"The Giver", Lois Lowry, 978922155921, 1853, fiction, dystopian
-"Siddhartha", Hermann Hesse, 978717460297, 1989, fiction, philosophical
-"The Old Man and the Sea", Ernest Hemingway, 978361403940, 1931, fiction, classic
-"Lolita", Vladimir Nabokov, 978571505949, 1948, fiction, classic
-"To Kill a Mockingbird", Harper Lee, 978201520114, 1941, fiction, classic
-"1984", George Orwell, 978317163023, 1936, fiction, dystopian
-"The Great Gatsby", F. Scott Fitzgerald, 978078823030, 1827, fiction, classic
-"Pride and Prejudice", Jane Austen, 978725001842, 1951, fiction, romance
-"The Catcher in the Rye", J.D. Salinger, 978585787074, 1939, fiction, classic
-"The Hobbit", J.R.R. Tolkien, 978184958367, 1804, fiction, fantasy
-"Moby Dick", Herman Melville, 978545424127, 1871, fiction, classic
-"War and Peace", Leo Tolstoy, 978063180102, 1822, fiction, classic
-"The Odyssey", Homer, 978248879984, 1805, fiction, classic
-"Harry Potter and the Sorcerer's Stone", J.K. Rowling, 978488100980, 1935, fiction, fantasy
-"The Lord of the Rings", J.R.R. Tolkien, 978917700406, 2020, fiction, fantasy
-"The Alchemist", Paulo Coelho, 978925636546, 1826, fiction, philosophical
-"The Little Prince", Antoine de Saint-Exupéry, 978085454859, 1809, fiction, children’s literature
-"Fahrenheit 451", Ray Bradbury, 978575671098, 1865, fiction, dystopian
-"Brave New World", Aldous Huxley, 978676487846, 1969, fiction, dystopian
-"Jane Eyre", Charlotte Brontë, 978795037611, 1918, fiction, classic
-"The Divine Comedy", Dante Alighieri, 978817008310, 1882, fiction, classic
-"Les Misérables", Victor Hugo, 978260652183, 1945, fiction, classic
-"The Adventures of Huckleberry Finn", Mark Twain, 978782578508, 1941, fiction, classic
-"Anna Karenina", Leo Tolstoy, 978778541445, 1990, fiction, classic
-"Wuthering Heights", Emily Brontë, 978148683991, 1853, fiction, classic
-"Crime and Punishment", Fyodor Dostoevsky, 978052329413, 1986, fiction, classic
-"The Iliad", Homer, 978947831708, 1882, fiction, classic
-"Frankenstein", Mary Shelley, 978051315419, 1937, fiction, classic
-"The Shining", Stephen King, 978058517747, 1922, fiction, h
-"Dracula", Bram Stoker, 978296557509, 1920, fiction, h
-"The Grapes of Wrath", John Steinbeck, 978147435289, 1932, fiction, historical
-"A Tale of Two Cities", Charles Dickens, 978034666899, 1807, fiction, historical
-"Great Expectations", Charles Dickens, 978512558351, 1922, fiction, classic
-"The Kite Runner", Khaled Hosseini, 978030692807, 1804, fiction, historical
-"Life of Pi", Yann Martel, 978607407771, 1951, fiction, adventure
-"One Hundred Years of Solitude", Gabriel Garcia Marquez, 978773143384, 1999, fiction, magical realism
-"Slaughterhouse-Five", Kurt Vonnegut, 978822188006, 2012, fiction, science fiction
-"The Catch-22", Joseph Heller, 978990925150, 1814, fiction, satire
-"The Road", Cormac McCarthy, 978733574407, 1987, fiction, dystopian
-"Don Quixote", Miguel de Cervantes, 978116539797, 1870, fiction, classic
-"The Color Purple", Alice Walker, 978777619088, 2007, fiction, historical
-"The Picture of Dorian Gray", Oscar Wilde, 978041222104, 1828, fiction, classic
-"Gone with the Wind", Margaret Mitchell, 978212381766, 2001, fiction, historical
-"The Book Thief", Markus Zusak, 978567302722, 2003, fiction, historical
-"Beloved", Toni Morrison, 978519107170, 1926, fiction, historical
-"Memoirs of a Geisha", Arthur Golden, 978046567427, 1808, fiction, historical
-"The Brothers Karamazov", Fyodor Dostoevsky, 978665650779, 1987, fiction, classic
-"A Clockwork Orange", Anthony Burgess, 978184965531, 1833, fiction, dystopian
-"Emma", Jane Austen, 978904198893, 2010, fiction, romance
-"The Handmaid's Tale", Margaret Atwood, 978209485696, 1818, fiction, dystopian
-"Animal Farm", George Orwell, 978196006887, 1897, fiction, political satire
-"The Secret Garden", Frances Hodgson Burnett, 978916586798, 1924, fiction, children’s literature
-"Rebecca", Daphne du Maurier, 978485523337, 1979, fiction, mystery
-"The Giver", Lois Lowry, 978691086375, 1967, fiction, dystopian
-"Siddhartha", Hermann Hesse, 978333029674, 1878, fiction, philosophical
-"The Old Man and the Sea", Ernest Hemingway, 978464871778, 1995, fiction, classic
-"Lolita", Vladimir Nabokov, 978267714214, 1980, fiction, classic
-"To Kill a Mockingbird", Harper Lee, 978304502209, 1961, fiction, classic
-"1984", George Orwell, 978251689053, 2019, fiction, dystopian
-"The Great Gatsby", F. Scott Fitzgerald, 978487320560, 1821, fiction, classic
-"Pride and Prejudice", Jane Austen, 978515898772, 1869, fiction, romance
-"The Catcher in the Rye", J.D. Salinger, 978452920199, 1940, fiction, classic
-"The Hobbit", J.R.R. Tolkien, 978947607812, 1821, fiction, fantasy
-"Moby Dick", Herman Melville, 978297418553, 1846, fiction, classic
-"War and Peace", Leo Tolstoy, 978390357072, 1989, fiction, classic
-"The Odyssey", Homer, 978715925406, 1878, fiction, classic
-"Harry Potter and the Sorcerer's Stone", J.K. Rowling, 978273237473, 1944, fiction, fantasy
-"The Lord of the Rings", J.R.R. Tolkien, 978112645333, 1918, fiction, fantasy
-"The Alchemist", Paulo Coelho, 978156578102, 1934, fiction, philosophical
-"The Little Prince", Antoine de Saint-Exupéry, 978903477913, 2013, fiction, children’s literature
-"Fahrenheit 451", Ray Bradbury, 978863426035, 1929, fiction, dystopian
-"Brave New World", Aldous Huxley, 978162566798, 1823, fiction, dystopian
+"The Great Gatsby",F. Scott Fitzgerald,978796549419,1803,fiction,science
+"Pride and Prejudice",Jane Austen,978796549420,1813,fiction,romance
+"1984",George Orwell,978796549421,1949,fiction,dystopian
+"The Catcher in the Rye",J.D. Salinger,978796549423,1951,fiction,coming-of-age
+"Moby Dick",Herman Melville,978796549424,1851,fiction,adventurestori
+"War and Peace",Leo Tolstoy,978796549425,1869,fiction,historical
+"Crime and Punishment",Fyodor Dostoevsky,978796549426,1866,fiction,psychological
+"The Odyssey",Homer,978796549427,-800,fiction,epic
+"The Iliad",Homer,978796549428,-750,fiction,epic
+"Brave New World",Aldous Huxley,978796549429,1932,fiction,dystopian
+"Jane Eyre",Charlotte Brontë,978796549430,1847,fiction,gothic
+"The Divine Comedy",Dante Alighieri,978796549431,1320,fiction,epic
+"Les Misérables",Victor Hugo,978796549432,1862,fiction,historical
+"The Brothers Karamazov",Fyodor Dostoevsky,978796549433,1880,fiction,philosophical
+"Frankenstein",Mary Shelley,978796549435,1818,fiction,science fiction
+"The Scarlet Letter",Nathaniel Hawthorne,978796549436,1850,fiction,historical
+"Anna Karenina",Leo Tolstoy,978796549437,1877,fiction,romance
+"Madame Bovary",Gustave Flaubert,978796549438,1857,fiction,realism
+"Don Quixote",Miguel de Cervantes,978796549439,1605,fiction,adventure
+"Ulysses",James Joyce,978796549440,1922,fiction,modernist
+"The Picture of Dorian Gray",Oscar Wilde,978796549441,1890,fiction,philosophical
+"Heart of Darkness",Joseph Conrad,978796549442,1899,fiction,adventure
+"A Tale of Two Cities",Charles Dickens,978796549443,1859,fiction,historical
+"Great Expectations",Charles Dickens,978796549444,1861,fiction,coming-of-age
+"Dracula",Bram Stoker,978796549445,1897,fiction,horror
+"The Hunchback of Notre-Dame",Victor Hugo,978796549446,1831,fiction,historical
+"Fahrenheit 451",Ray Bradbury,978796549447,1953,fiction,dystopian
+"The Hobbit",J.R.R. Tolkien,978796549448,1937,fiction,fantasy
+"The Lord of the Rings",J.R.R. Tolkien,978796549449,1954,fiction,fantasy
+"The Old Man and the Sea",Ernest Hemingway,978796549450,1952,fiction,adventure
+"Lolita",Vladimir Nabokov,978796549451,1955,fiction,controversial
+"Catch-22",Joseph Heller,978796549453,1961,fiction,satirical
+"Slaughterhouse-Five",Kurt Vonnegut,978796549454,1969,fiction,anti-war
+"One Hundred Years of Solitude",Gabriel Garcia Marquez,978796549455,1967,fiction,magical realism
+"Beloved",Toni Morrison,978796549456,1987,fiction,historical
+"The Sound and the Fury",William Faulkner,978796549457,1929,fiction,modernist
+"Gone with the Wind",Margaret Mitchell,978796549458,1936,fiction,historical
+"Alice's Adventures in Wonderland",Lewis Carroll,978796549459,1865,fiction,fantasy
+"The Grapes of Wrath",John Steinbeck,978796549460,1939,fiction,social commentary
+"A Farewell to Arms",Ernest Hemingway,978796549461,1929,fiction,war
+"The Sun Also Rises",Ernest Hemingway,978796549462,1926,fiction,modernist
+"The Metamorphosis",Franz Kafka,978796549463,1915,fiction,absurdist
+"Rebecca",Daphne du Maurier,978796549464,1938,fiction,gothic
+"The Little Prince",Antoine de Saint-Exupéry,978796549465,1943,fiction,philosophical
+"Murder on the Orient Express",Agatha Christie,978796549466,1934,fiction,mystery
+"The Da Vinci Code",Dan Brown,978796549467,2003,fiction,thriller
+"Life of Pi",Yann Martel,978796549468,2001,fiction,adventure
+"The Alchemist",Paulo Coelho,978796549469,1988,fiction,adventure
+"The Road",Cormac McCarthy,978796549470,2006,fiction,post-apocalyptic
+"The Shining",Stephen King,978796549471,1977,fiction,horror
+"A Game of Thrones",George R.R. Martin,978796549472,1996,fiction,fantasy
+"The Hunger Games",Suzanne Collins,978796549473,2008,fiction,dystopian
+"The Handmaid's Tale",Margaret Atwood,978796549474,1985,fiction,dystopian
+"The Kite Runner",Khaled Hosseini,978796549475,2003,fiction,drama
+"The Night Circus",Erin Morgenstern,978796549476,2011,fiction,fantasy
+"The Girl on the Train",Paula Hawkins,978796549477,2015,fiction,thriller
+"The Martian",Andy Weir,978796549478,2011,fiction,science fiction
+"The Book Thief",Markus Zusak,978796549479,2005,fiction,historical
+"The Outsiders",S.E. Hinton,978796549480,1967,fiction,coming-of-age
+"The Secret Garden",Frances Hodgson Burnett,978796549481,1911,fiction,children's
+"The Giver",Lois Lowry,978796549482,1993,fiction,dystopian
+"The Time Traveler's Wife",Audrey Niffenegger,978796549483,2003,fiction,romance
+"The Hobbit",J.R.R. Tolkien,978796549484,1937,fiction,fantasy
+"Ender's Game",Orson Scott Card,978796549485,1985,fiction,science fiction
+"The Picture of Dorian Gray",Oscar Wilde,978796549486,1890,fiction,philosophical
+"Wicked",Gregory Maguire,978796549487,1995,fiction,fantasy
+"The Chronicles of Narnia",C.S. Lewis,978796549488,1950,fiction,fantasy
+"Percy Jackson & the Olympians",Rick Riordan,978796549489,2005,fiction,fantasy
+"The Fault in Our Stars",John Green,978796549490,2012,fiction,romance
+"The Girl with the Dragon Tattoo",Stieg Larsson,978796549491,2005,fiction,mystery
+"The Hunger Games",Suzanne Collins,978796549492,2008,fiction,dystopian
+"The Maze Runner",James Dashner,978796549493,2009,fiction,dystopian
+"The Outsiders",S.E. Hinton,978796549494,1967,fiction,coming-of-age
+"The Secret Life of Bees",Sue Monk Kidd,978796549495,2002,fiction,historical
+"The Color Purple",Alice Walker,978796549496,1982,fiction,historical
+"The Great Gatsby",F. Scott Fitzgerald,978796549497,1925,fiction,classic
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978796549498,1997,fiction,fantasy
+"The Hobbit",J.R.R. Tolkien,978796549499,1937,fiction,fantasy
+"Harry Potter and the Chamber of Secrets",J.K. Rowling,978796549500,1998,fiction,fantasy
+"Harry Potter and the Prisoner of Azkaban",J.K. Rowling,978796549501,1999,fiction,fantasy
+"Harry Potter and the Goblet of Fire",J.K. Rowling,978796549502,2000,fiction,fantasy
+"Harry Potter and the Order of the Phoenix",J.K. Rowling,978796549503,2003,fiction,fantasy
+"Harry Potter and the Half-Blood Prince",J.K. Rowling,978796549504,2005,fiction,fantasy
+"Harry Potter and the Deathly Hallows",J.K. Rowling,978796549505,2007,fiction,fantasy
+"The Lightning Thief",Rick Riordan,978796549506,2005,fiction,fantasy
+"Brave New World",Aldous Huxley,978796549507,1932,fiction,dystopian
+"The Hunger Games",Suzanne Collins,978796549508,2008,fiction,dystopian
+"The Fellowship of the Ring",J.R.R. Tolkien,978796549509,1954,fiction,fantasy
+"The Two Towers",J.R.R. Tolkien,978796549510,1954,fiction,fantasy
+"The Return of the King",J.R.R. Tolkien,978796549511,1955,fiction,fantasy
+"Ender's Game",Orson Scott Card,978796549512,1985,fiction,science fiction
+"The Name of the Wind",Patrick Rothfuss,978796549513,2007,fiction,fantasy
+"The Golden Compass",Philip Pullman,978796549514,1995,fiction,fantasy
+"The Subtle Knife",Philip Pullman,978796549515,1997,fiction,fantasy
+"The Amber Spyglass",Philip Pullman,978796549516,2000,fiction,fantasy
+"The Hobbit",J.R.R. Tolkien,978796549517,1937,fiction,fantasy
+"The Lord of the Rings",J.R.R. Tolkien,978796549518,1954,fiction,fantasy
+"Pride and Prejudice",Jane Austen,978796549519,1813,fiction,romance
+"To Kill a Mockingbird",Harper Lee,978796549520,1960,fiction,historical
+"1984",George Orwell,978796549521,1949,fiction,dystopian
+"The Catcher in the Rye",J.D. Salinger,978796549522,1951,fiction,coming-of-age
+"The Bell Jar",Sylvia Plath,978796549523,1963,fiction,psychological
+"Frankenstein",Mary Shelley,978796549524,1818,fiction,h
+"Moby-Dick",Herman Melville,978796549525,1851,fiction,adventure
+"The Scarlet Letter",Nathaniel Hawthorne,978796549526,1850,fiction,historical
+"Crime and Punishment",Fyodor Dostoevsky,978796549527,1866,fiction,psychological
+"War and Peace",Leo Tolstoy,978796549528,1869,fiction,historical
+"Anna Karenina",Leo Tolstoy,978796549529,1877,fiction,romance
+"Great Expectations",Charles Dickens,978796549530,1860,fiction,historical
+"The Brothers Karamazov",Fyodor Dostoevsky,978796549531,1880,fiction,philosophical
+"Don Quixote",Miguel de Cervantes,978796549532,1605,fiction,adventure
+"Les Misérables",Victor Hugo,978796549533,1862,fiction,historical
+"Wuthering Heights",Emily Brontë,978796549534,1847,fiction,gothic
+"Jane Eyre",Charlotte Brontë,978796549535,1847,fiction,romance
+"The Picture of Dorian Gray",Oscar Wilde,978796549536,1890,fiction,philosophical
+"Rebecca",Daphne du Maurier,978796549537,1938,fiction,gothic
+"The Canterbury Tales",Geoffrey Chaucer,978796549538,1400,fiction,epic
+"The Divine Comedy",Dante Alighieri,978796549539,1320,fiction,epic
+"The Odyssey",Homer,978796549540,800,BC,fiction,epic
+"The Iliad",Homer,978796549541,750,BC,fiction,epic
+"Paradise Lost",John Milton,978796549542,1667,fiction,epic
+"Dracula",Bram Stoker,978796549543,1897,fiction,h
+"Frankenstein",Mary Shelley,978796549544,1818,fiction,h
+"The Haunting of Hill House",Shirley Jackson,978796549545,1959,fiction,h
+"The Turn of the Screw",Henry James,978796549546,1898,fiction,h
+"The Call of Cthulhu",H.P. Lovecraft,978796549547,1928,fiction,h
+"The Shining",Stephen King,978796549548,1977,fiction,h
+"The Stand",Stephen King,978796549549,1978,fiction,post-apocalyptic
+"It",Stephen King,978796549550,1986,fiction,h
+"The Silence of the Lambs",Thomas Harris,978796549551,1988,fiction,thriller
+"Red Dragon",Thomas Harris,978796549552,1981,fiction,thriller
+"The Girl with the Dragon Tattoo",Stieg Larsson,978796549553,2005,fiction,mystery
+"The Secret History",Donna Tartt,978796549554,1992,fiction,thriller
+"Gone Girl",Gillian Flynn,978796549555,2012,fiction,thriller
+"Big Little Lies",Liane Moriarty,978796549556,2014,fiction,mystery
+"The Silent Patient",Alex Michaelides,978796549557,2019,fiction,thriller
+"The Couple Next Door",Shari Lapena,978796549559,2016,fiction,mystery
+"The Outsiders",S.E. Hinton,978796549560,1967,fiction,coming-of-age
+"Wonder",R.J. Palacio,978796549561,2012,fiction,children's
+"The Perks of Being a Wallflower",Stephen Chbosky,978796549562,1999,fiction,coming-of-age
+"The Fault in Our Stars",John Green,978796549563,2012,fiction,romance
+"Looking for Alaska",John Green,978796549564,2005,fiction,coming-of-age
+"A Fault in Our Stars",John Green,978796549565,2012,fiction,romance
+"Turtles All the Way Down",John Green,978796549566,2017,fiction,coming-of-age
+"The Hate U Give",Angie Thomas,978796549567,2017,fiction,drama
+"Eleanor Oliphant Is Completely Fine",Gail Honeyman,978796549568,2017,fiction,contemporary
+"The Girl on the Train",Paula Hawkins,978796549569,2015,fiction,thriller
+"The Goldfinch",Donna Tartt,978796549570,2013,fiction,literary
+"The Help",Kathryn Stockett,978796549571,2009,fiction,historical
+"Room",Emma Donoghue,978796549572,2010,fiction,drama
+"The Night Circus",Erin Morgenstern,978796549573,2011,fiction,fantasy
+"The Book Thief",Markus Zusak,978796549574,2005,fiction,historical
+"The Lovely Bones",Alice Sebold,978796549575,2002,fiction,mystery
+"The Time Traveler's Wife",Audrey Niffenegger,978796549576,2003,fiction,romance
+"The 5th Wave",Rick Yancey,978796549577,2013,fiction,dystopian
+"Legend",Marie Lu,978796549578,2011,fiction,dystopian
+"Divergent",Veronica Roth,978796549579,2011,fiction,dystopian
+"Mockingjay",Suzanne Collins,978796549580,2010,fiction,dystopian
+"Allegiant",Veronica Roth,978796549581,2013,fiction,dystopian
+"The Maze Runner",James Dashner,978796549582,2009,fiction,dystopian
+"Ready Player One",Ernest Cline,978796549583,2011,fiction,science fiction
+"The Hunger Games",Suzanne Collins,978796549584,2008,fiction,dystopian
+"Ender's Game",Orson Scott Card,978796549585,1985,fiction,science fiction
+"The Martian",Andy Weir,978796549586,2011,fiction,science fiction
+"The Handmaid's Tale",Margaret Atwood,978796549587,1985,fiction,dystopian
+"Brave New World",Aldous Huxley,978796549588,1932,fiction,dystopian
+"Fahrenheit 451",Ray Bradbury,978796549589,1953,fiction,dystopian
+"1984",George Orwell,978796549590,1949,fiction,dystopian
+"Animal Farm",George Orwell,978796549591,1945,fiction,allegory
+"The Road",Cormac McCarthy,978796549592,2006,fiction,post-apocalyptic
+"Never Let Me Go",Kazuo Ishiguro,978796549593,2005,fiction,science fiction
+"Station Eleven",Emily St. John Mandel,978796549594,2014,fiction,post-apocalyptic
+"The Book Thief",Markus Zusak,978796549595,2005,fiction,historical
+"The Catcher in the Rye",J.D. Salinger,978796549596,1951,fiction,coming-of-age
+"The Old Man and the Sea",Ernest Hemingway,978796549597,1952,fiction,literary
+"The Kite Runner",Khaled Hosseini,978796549598,2003,fiction,historical
+"Atonement",Ian McEwan,978796549599,2001,fiction,literary
+"Life of Pi",Yann Martel,978796549600,2001,fiction,adventure
+"A Tree Grows in Brooklyn",Betty Smith,978796549601,1943,fiction,coming-of-age
+"One Hundred Years of Solitude",Gabriel García Márquez,978796549602,1967,fiction,magical realism
+"The House on Mango Street",Sandra Cisneros,978796549603,1984,fiction,coming-of-age
+"A Little Life",Hanya Yanagihara,978796549604,2015,fiction,contemporary
+"The Nightingale",Kristin Hannah,978796549605,2015,fiction,historical
+"Where the Crawdads Sing",Delia Owens,978796549606,2018,fiction,mystery
+"The Light We Lost",Jill Santopolo,978796549607,2017,fiction,romance
+"Big Little Lies",Liane Moriarty,978796549608,2014,fiction,mystery
+"The Wife Between Us",Greer Hendricks,978796549609,2018,fiction,thriller
+"The Girl on the Train",Paula Hawkins,978796549610,2015,fiction,thriller
+"Sharp Objects",Gillian Flynn,978796549611,2006,fiction,thriller
+"The Couple Next Door",Shari Lapena,978796549612,2016,fiction,mystery
+"The Silent Patient",Alex Michaelides,978796549613,2019,fiction,thriller
+"Gone Girl",Gillian Flynn,978796549614,2012,fiction,thriller
+"Before I Go to Sleep",S.J. Watson,978796549615,2011,fiction,thriller
+"The Secret History",Donna Tartt,978796549616,1992,fiction,thriller
+"The Girl with the Dragon Tattoo",Stieg Larsson,978796549617,2005,fiction,mystery
+"The 5th Wave",Rick Yancey,978796549618,2013,fiction,dystopian
+"The Outsiders",S.E. Hinton,978796549619,1967,fiction,coming-of-age
+"The Alchemist",Paulo Coelho,978796549620,1988,fiction,philosophical
+"The Giver",Lois Lowry,978796549621,1993,fiction,dystopian
+"The Hate U Give",Angie Thomas,978796549622,2017,fiction,drama
+"Wonder",R.J. Palacio,978796549623,2012,fiction,children's
+"The Perks of Being a Wallflower",Stephen Chbosky,978796549624,1999,fiction,coming-of-age
+"The Fault in Our Stars",John Green,978796549625,2012,fiction,romance
+"Looking for Alaska",John Green,978796549626,2005,fiction,coming-of-age
+"Turtles All the Way Down",John Green,978796549627,2017,fiction,coming-of-age
+"The Lovely Bones",Alice Sebold,978796549628,2002,fiction,mystery
+"The Night Circus",Erin Morgenstern,978796549629,2011,fiction,fantasy
+"The Book Thief",Markus Zusak,978796549630,2005,fiction,historical
+"The Time Traveler's Wife",Audrey Niffenegger,978796549631,2003,fiction,romance
+"The 5th Wave",Rick Yancey,978796549632,2013,fiction,dystopian
+"Divergent",Veronica Roth,978796549633,2011,fiction,dystopian
+"Mockingjay",Suzanne Collins,978796549634,2010,fiction,dystopian
+"Allegiant",Veronica Roth,978796549635,2013,fiction,dystopian
+"The Maze Runner",James Dashner,978796549636,2009,fiction,dystopian
+"Ready Player One",Ernest Cline,978796549637,2011,fiction,science fiction
+"The Hunger Games",Suzanne Collins,978796549638,2008,fiction,dystopian
+"Ender's Game",Orson Scott Card,978796549639,1985,fiction,science fiction
+"The Martian",Andy Weir,978796549640,2011,fiction,science fiction
+"The Handmaid's Tale",Margaret Atwood,978796549641,1985,fiction,dystopian
+"Brave New World",Aldous Huxley,978796549642,1932,fiction,dystopian
+"Fahrenheit 451",Ray Bradbury,978796549643,1953,fiction,dystopian
+"1984",George Orwell,978796549644,1949,fiction,dystopian
+"Animal Farm",George Orwell,978796549645,1945,fiction,allegory
+"The Road",Cormac McCarthy,978796549646,2006,fiction,post-apocalyptic
+"Never Let Me Go",Kazuo Ishiguro,978796549647,2005,fiction,science fiction
+"Station Eleven",Emily St. John Mandel,978796549648,2014,fiction,post-apocalyptic
+"The Book Thief",Markus Zusak,978796549649,2005,fiction,historical
+"The Catcher in the Rye",J.D. Salinger,978796549650,1951,fiction,coming-of-age
+"The Old Man and the Sea",Ernest Hemingway,978796549651,1952,fiction,literary
+"The Kite Runner",Khaled Hosseini,978796549652,2003,fiction,historical
+"Atonement",Ian McEwan,978796549653,2001,fiction,literary
+"Life of Pi",Yann Martel,978796549654,2001,fiction,adventure
+"A Tree Grows in Brooklyn",Betty Smith,978796549655,1943,fiction,coming-of-age
+"One Hundred Years of Solitude",Gabriel García Márquez,978796549656,1967,fiction,magical realism
+"The House on Mango Street",Sandra Cisneros,978796549657,1984,fiction,coming-of-age
+"A Little Life",Hanya Yanagihara,978796549658,2015,fiction,contemporary
+"The Nightingale",Kristin Hannah,978796549659,2015,fiction,historical
+"Where the Crawdads Sing",Delia Owens,978796549660,2018,fiction,mystery
+"The Light We Lost",Jill Santopolo,978796549661,2017,fiction,romance
+"Big Little Lies",Liane Moriarty,978796549662,2014,fiction,mystery
+"The Wife Between Us",Greer Hendricks,978796549663,2018,fiction,thriller
+"The Girl on the Train",Paula Hawkins,978796549664,2015,fiction,thriller
+"Sharp Objects",Gillian Flynn,978796549665,2006,fiction,thriller
+"The Couple Next Door",Shari Lapena,978796549666,2016,fiction,mystery
+"The Silent Patient",Alex Michaelides,978796549667,2019,fiction,thriller
+"Gone Girl",Gillian Flynn,978796549668,2012,fiction,thriller
+"Gone with the Wind",Margaret Mitchell,978495091802,1932,fiction,historical
+"The Book Thief",Markus Zusak,978528074544,1946,fiction,historical
+"Beloved",Toni Morrison,978772244946,2019,fiction,historical
+"Memoirs of a Geisha",Arthur Golden,978952915195,1980,fiction,historical
+"The Brothers Karamazov",Fyodor Dostoevsky,978900028333,1871,fiction,classic
+"A Clockwork Orange",Anthony Burgess,978192315033,1941,fiction,dystopian
+"Emma",Jane Austen,978246642826,1986,fiction,romance
+"The Handmaid's Tale",Margaret Atwood,978763576236,1908,fiction,dystopian
+"Animal Farm",George Orwell,978367733693,1978,fiction,political satire
+"The Secret Garden",Frances Hodgson Burnett,978430073534,1913,fiction,classic
+"Rebecca",Daphne du Maurier,978407563841,1938,fiction,gothic
+"Gone with the Wind",Margaret Mitchell,978495091802,1932,fiction,historical
+"The Book Thief",Markus Zusak,978528074544,1946,fiction,historical
+"Beloved",Toni Morrison,978772244946,2019,fiction,historical
+"Memoirs of a Geisha",Arthur Golden,978952915195,1980,fiction,historical
+"The Brothers Karamazov",Fyodor Dostoevsky,978900028333,1871,fiction,classic
+"A Clockwork Orange",Anthony Burgess,978192315033,1941,fiction,dystopian
+"Emma",Jane Austen,978246642826,1986,fiction,romance
+"The Handmaid's Tale",Margaret Atwood,978763576236,1908,fiction,dystopian
+"Animal Farm",George Orwell,978367733693,1978,fiction,political satire
+"The Secret Garden",Frances Hodgson Burnett,978430073534,1913,fiction,classic
+"Rebecca",Daphne du Maurier,978407563841,1938,fiction,gothic
+"The Picture of Dorian Gray",Oscar Wilde,978387573561,1890,fiction,gothic
+"Pride and Prejudice",Jane Austen,978520098745,1813,fiction,romance
+"The Great Gatsby",F. Scott Fitzgerald,978060663002,1925,fiction,classic
+"To Kill a Mockingbird",Harper Lee,978006112008,1960,fiction,historical
+"1984",George Orwell,9780451524935,1949,fiction,dystopian
+"The Catcher in the Rye",J.D. Salinger,9780316769488,1951,fiction,coming-of-age
+"The Road",Cormac McCarthy,9780307387899,2006,fiction,post-apocalyptic
+"Frankenstein",Mary Shelley,9780486282114,1818,fiction,h
+"Wuthering Heights",Emily Brontë,9780141439556,1847,fiction,gothic
+"Dracula",Bram Stoker,9780141439846,1897,fiction,h
+"Jane Eyre",Charlotte Brontë,9781853260209,1847,fiction,romance
+"The Divine Comedy",Dante Alighieri,9780140448955,1320,fiction,epic
+"Moby-Dick",Herman Melville,9781851244422,1851,fiction,classic
+"Les Misérables",Victor Hugo,9780451419439,1862,fiction,historical
+"Crime and Punishment",Fyodor Dostoevsky,9780140449136,1866,fiction,psychological
+"War and Peace",Leo Tolstoy,9780307950136,1869,fiction,historical
+"The Odyssey",Homer,9780143039952,800,BCE,fiction,epic
+"The Iliad",Homer,9780140275360,750,BCE,fiction,epic
+"The Catcher in the Rye",J.D. Salinger,9780316769488,1951,fiction,coming-of-age
+"The Hunger Games",Suzanne Collins,9780439023528,2008,fiction,dystopian
+"The Lord of the Rings",J.R.R. Tolkien,9780618640157,1954,fiction,fantasy
+"The Hobbit",J.R.R. Tolkien,9780618968633,1937,fiction,fantasy
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,9780590353427,1997,fiction,fantasy
+"The Chronicles of Narnia",C.S. Lewis,9780066238500,1950,fiction,fantasy
+"A Game of Thrones",George R.R. Martin,9780553381689,1996,fiction,fantasy
+"The Handmaid's Tale",Margaret Atwood,9780385490818,1985,fiction,dystopian
+"The Shining",Stephen King,9780307743657,1977,fiction,horror
+"The Outsiders",S.E. Hinton,9780142407332,1967,fiction,coming-of-age
+"The Great Gatsby",F. Scott Fitzgerald,9780743273565,1925,fiction,classic
+"The Secret History",Donna Tartt,9780375701573,1992,fiction,mystery
+"The Night Circus",Erin Morgenstern,9780307744432,2011,fiction,fantasy
+"The Book Thief",Markus Zusak,9780375842207,2005,fiction,historical
+"Little Women",Louisa May Alcott,9780147514011,1868,fiction,historical
+"The Color Purple",Alice Walker,9780156028356,1982,fiction,historical
+"Slaughterhouse-Five",Kurt Vonnegut,9780385333849,1969,fiction,war
+"The Girl with the Dragon Tattoo",Stieg Larsson,9780307949482,2005,fiction,mystery
+"The Girl on the Train",Paula Hawkins,9781594634024,2015,fiction,thriller
+"Gone Girl",Gillian Flynn,9780307588364,2012,fiction,thriller
+"Sharp Objects",Gillian Flynn,9780307341556,2006,fiction,thriller
+"The Silent Patient",Alex Michaelides,9781250301697,2019,fiction,thriller
+"The Couple Next Door",Shari Lapena,9780735221131,2016,fiction,thriller
+"Big Little Lies",Liane Moriarty,9780399587205,2014,fiction,thriller
+"The Turn of the Key",Ruth Ware,9781501188776,2019,fiction,thriller
+"The 5th Wave",Rick Yancey,9780399162411,2013,fiction,dystopian
+"Ready Player One",Ernest Cline,9780307887436,2011,fiction,sci-fi
+"The Martian",Andy Weir,9780553418026,2011,fiction,sci-fi
+"Ender's Game",Orson Scott Card,9780812550702,1985,fiction,sci-fi
+"Dune",Frank Herbert,9780441013593,1965,fiction,sci-fi
+"Neuromancer",William Gibson,9780441569595,1984,fiction,sci-fi
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,9780345391803,1979,fiction,sci-fi
+"The Dispossessed",Ursula K. Le Guin,9780060512758,1974,fiction,sci-fi
+"Fahrenheit 451",Ray Bradbury,9781451673319,1953,fiction,dystopian
+"Brave New World",Aldous Huxley,9780060850524,1932,fiction,dystopian
+"The Giver",Lois Lowry,9780440237686,1993,fiction,dystopian
+"The Maze Runner",James Dashner,9780385737951,2009,fiction,dystopian
+"The Hunger Games",Suzanne Collins,9780439023528,2008,fiction,dystopian
+"Divergent",Veronica Roth,9780062024022,2011,fiction,dystopian
+"The Mortal Instruments: City of Bones",Cassandra Clare,9781416936556,2007,fiction,fantasy
+"Twilight",Stephenie Meyer,9780316015844,2005,fiction,romance
+"Fifty Shades of Grey",E.L. James,9780345803481,2011,fiction,romance
+"The Fault in Our Stars",John Green,9780525478812,2012,fiction,romance
+"Pride and Prejudice",Jane Austen,9780141439518,1813,fiction,romance
+"Me Before You",Jojo Moyes,9780143124542,2012,fiction,romance
+"The Rosie Project",Graeme Simsion,9781444762153,2013,fiction,romance
+"Outlander",Diana Gabaldon,9780440212560,1991,fiction,historical romance
+"The Time Traveler's Wife",Audrey Niffenegger,9780151013219,2003,fiction,romance
+"The Wedding",Nicholas Sparks,9780446531392,2003,fiction,romance
+"The Kiss Quotient",Helen Hoang,9780451490805,2018,fiction,romance
+"The Hating Game",Sally Thorne,9780062439597,2016,fiction,romance
+"The Nightingale",Kristin Hannah,9780312577223,2015,fiction,historical
+"All the Light We Cannot See",Anthony Doerr,9781501173215,2014,fiction,historical
+"The Help",Kathryn Stockett,9780399155345,2009,fiction,historical
+"The Paris Architect",Charles Belfoure,9781492617883,2013,fiction,historical
+"The Alice Network",Kate Quinn,9780062654190,2017,fiction,historical
+"The Tattooist of Auschwitz",Heather Morris,9780062797150,2018,fiction,historical
+"The Orphan's Tale",Pam Jenoff,9780778317865,2017,fiction,historical
+"Where the Crawdads Sing",Delia Owens,9780735219107,2018,fiction,historical
+"Water for Elephants",Sara Gruen,9781594131270,2006,fiction,historical
+"The Night Circus",Erin Morgenstern,9780307744432,2011,fiction,fantasy
+"Circe",Madeline Miller,9780316338910,2018,fiction,fantasy
+"The Priory of the Orange Tree",Samantha Shannon,9781635570319,2019,fiction,fantasy
+"The Name of the Wind",Patrick Rothfuss,9780756404741,2007,fiction,fantasy
+"Uprooted",Naomi Novik,9780804179034,2015,fiction,fantasy
+"The Blade Itself",Joe Abercrombie,9780316333175,2006,fiction,fantasy
+"Six of Crows",Leigh Bardugo,9781627792128,2015,fiction,fantasy
+"A Darker Shade of Magic",V.E. Schwab,9780765376466,2015,fiction,fantasy
+"Shadow and Bone",Leigh Bardugo,9780805094596,2012,fiction,fantasy
+"The Lies of Locke Lamora",Scott Lynch,9780553588941,2006,fiction,fantasy
+"Slaughterhouse-Five",Kurt Vonnegut,978807918448,1888,fiction,science fiction
+"The Catch-22",Joseph Heller,978523048965,1956,fiction,satire
+"The Road",Cormac McCarthy,978735143693,1800,fiction,dystopian
+"Don Quixote",Miguel de Cervantes,978020547872,1947,fiction,classic
+"The Color Purple",Alice Walker,978823915644,1972,fiction,historical
+"The Picture of Dorian Gray",Oscar Wilde,978280578395,1965,fiction,classic
+"Gone with the Wind",Margaret Mitchell,978862720138,1805,fiction,historical
+"The Book Thief",Markus Zusak,978660930030,1935,fiction,historical
+"Beloved",Toni Morrison,978032224972,2005,fiction,historical
+"Memoirs of a Geisha",Arthur Golden,978351538148,1984,fiction,historical
+"The Brothers Karamazov",Fyodor Dostoevsky,978533346735,1815,fiction,classic
+"A Clockwork Orange",Anthony Burgess,978623374097,1995,fiction,dystopian
+"Emma",Jane Austen,978544670722,1830,fiction,romance
+"The Handmaid's Tale",Margaret Atwood,978825969534,1801,fiction,dystopian
+"Animal Farm",George Orwell,978488389349,1880,fiction,political satire
+"The Secret Garden",Frances Hodgson Burnett,978460593059,1873,fiction,children’s literature
+"Rebecca",Daphne du Maurier,978120020210,2000,fiction,mystery
+"The Giver",Lois Lowry,978922155921,1853,fiction,dystopian
+"Siddhartha",Hermann Hesse,978717460297,1989,fiction,philosophical
+"The Old Man and the Sea",Ernest Hemingway,978361403940,1931,fiction,classic
+"Lolita",Vladimir Nabokov,978571505949,1948,fiction,classic
+"To Kill a Mockingbird",Harper Lee,978201520114,1941,fiction,classic
+"1984",George Orwell,978317163023,1936,fiction,dystopian
+"The Great Gatsby",F. Scott Fitzgerald,978078823030,1827,fiction,classic
+"Pride and Prejudice",Jane Austen,978725001842,1951,fiction,romance
+"The Catcher in the Rye",J.D. Salinger,978585787074,1939,fiction,classic
+"The Hobbit",J.R.R. Tolkien,978184958367,1804,fiction,fantasy
+"Moby Dick",Herman Melville,978545424127,1871,fiction,classic
+"War and Peace",Leo Tolstoy,978063180102,1822,fiction,classic
+"The Odyssey",Homer,978248879984,1805,fiction,classic
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978488100980,1935,fiction,fantasy
+"The Lord of the Rings",J.R.R. Tolkien,978917700406,2020,fiction,fantasy
+"The Alchemist",Paulo Coelho,978925636546,1826,fiction,philosophical
+"The Little Prince",Antoine de Saint-Exupéry,978085454859,1809,fiction,children’s literature
+"Fahrenheit 451",Ray Bradbury,978575671098,1865,fiction,dystopian
+"Brave New World",Aldous Huxley,978676487846,1969,fiction,dystopian
+"Jane Eyre",Charlotte Brontë,978795037611,1918,fiction,classic
+"The Divine Comedy",Dante Alighieri,978817008310,1882,fiction,classic
+"Les Misérables",Victor Hugo,978260652183,1945,fiction,classic
+"The Adventures of Huckleberry Finn",Mark Twain,978782578508,1941,fiction,classic
+"Anna Karenina",Leo Tolstoy,978778541445,1990,fiction,classic
+"Wuthering Heights",Emily Brontë,978148683991,1853,fiction,classic
+"Crime and Punishment",Fyodor Dostoevsky,978052329413,1986,fiction,classic
+"The Iliad",Homer,978947831708,1882,fiction,classic
+"Frankenstein",Mary Shelley,978051315419,1937,fiction,classic
+"The Shining",Stephen King,978058517747,1922,fiction,horror
+"Dracula",Bram Stoker,978296557509,1920,fiction,horror
+"The Grapes of Wrath",John Steinbeck,978147435289,1932,fiction,historical
+"A Tale of Two Cities",Charles Dickens,978034666899,1807,fiction,historical
+"Great Expectations",Charles Dickens,978512558351,1922,fiction,classic
+"The Kite Runner",Khaled Hosseini,978030692807,1804,fiction,historical
+"Life of Pi",Yann Martel,978607407771,1951,fiction,adventure
+"One Hundred Years of Solitude",Gabriel Garcia Marquez,978773143384,1999,fiction,magical realism
+"Slaughterhouse-Five",Kurt Vonnegut,978822188006,2012,fiction,science fiction
+"The Catch-22",Joseph Heller,978990925150,1814,fiction,satire
+"The Road",Cormac McCarthy,978733574407,1987,fiction,dystopian
+"Don Quixote",Miguel de Cervantes,978116539797,1870,fiction,classic
+"The Color Purple",Alice Walker,978777619088,2007,fiction,historical
+"The Picture of Dorian Gray",Oscar Wilde,978041222104,1828,fiction,classic
+"Gone with the Wind",Margaret Mitchell,978212381766,2001,fiction,historical
+"The Book Thief",Markus Zusak,978567302722,2003,fiction,historical
+"Beloved",Toni Morrison,978519107170,1926,fiction,historical
+"Memoirs of a Geisha",Arthur Golden,978046567427,1808,fiction,historical
+"The Brothers Karamazov",Fyodor Dostoevsky,978665650779,1987,fiction,classic
+"A Clockwork Orange",Anthony Burgess,978184965531,1833,fiction,dystopian
+"Emma",Jane Austen,978904198893,2010,fiction,romance
+"The Handmaid's Tale",Margaret Atwood,978209485696,1818,fiction,dystopian
+"Animal Farm",George Orwell,978196006887,1897,fiction,political satire
+"The Secret Garden",Frances Hodgson Burnett,978916586798,1924,fiction,children’s literature
+"Rebecca",Daphne du Maurier,978485523337,1979,fiction,mystery
+"The Giver",Lois Lowry,978691086375,1967,fiction,dystopian
+"Siddhartha",Hermann Hesse,978333029674,1878,fiction,philosophical
+"The Old Man and the Sea",Ernest Hemingway,978464871778,1995,fiction,classic
+"Lolita",Vladimir Nabokov,978267714214,1980,fiction,classic
+"To Kill a Mockingbird",Harper Lee,978304502209,1961,fiction,classic
+"1984",George Orwell,978251689053,2019,fiction,dystopian
+"The Great Gatsby",F. Scott Fitzgerald,978487320560,1821,fiction,classic
+"Pride and Prejudice",Jane Austen,978515898772,1869,fiction,romance
+"The Catcher in the Rye",J.D. Salinger,978452920199,1940,fiction,classic
+"The Hobbit",J.R.R. Tolkien,978947607812,1821,fiction,fantasy
+"Moby Dick",Herman Melville,978297418553,1846,fiction,classic
+"War and Peace",Leo Tolstoy,978390357072,1989,fiction,classic
+"The Odyssey",Homer,978715925406,1878,fiction,classic
+"Harry Potter and the Sorcerer's Stone",J.K. Rowling,978273237473,1944,fiction,fantasy
+"The Lord of the Rings",J.R.R. Tolkien,978112645333,1918,fiction,fantasy
+"The Alchemist",Paulo Coelho,978156578102,1934,fiction,philosophical
+"The Little Prince",Antoine de Saint-Exupéry,978903477913,2013,fiction,children’s literature
+"Fahrenheit 451",Ray Bradbury,978863426035,1929,fiction,dystopian
+"Brave New World",Aldous Huxley,978162566798,1823,fiction,dystopian
 "Jane Eyre",Charlotte Brontë,978590793985,1882,fiction,gothic
 "The Divine Comedy",Dante Alighieri,978537770194,1913,non-fiction,poetry
 "Les Misérables",Victor Hugo,978207962254,1986,fiction,Historical
@@ -462,7 +457,7 @@
 "The Grapes of Wrath",John Steinbeck,978346556054,1912,fiction,historical
 "A Tale of Two Cities",Charles Dickens,978618718842,1883,fiction,historical
 "Great Expectations",Charles Dickens,978500814142,1859,fiction,classic
-"The Kite Runner",Khaled Hosseini,978039192429,1987,fiction, drama
+"The Kite Runner",Khaled Hosseini,978039192429,1987,fiction,drama
 "Life of Pi",Yann Martel,978625686967,1871,fiction,adventure
 "One Hundred Years of Solitude",Gabriel Garcia Marquez,978229027863,1911,fiction,magical realism
 "Slaughterhouse-Five",Kurt Vonnegut,978542246653,2023,fiction,science fiction
@@ -476,28 +471,27 @@
 "Beloved",Toni Morrison,978994492669,1824,fiction,historical fiction
 "Memoirs of a Geisha",Arthur Golden,978700871182,1964,fiction,historical
 "The Brothers Karamazov",Fyodor Dostoevsky,978111735864,1884,fiction,philosophical
-"A Clockwork Orange",Anthony Burgess,978615148604,1942,fiction,Dystopian
-"Emma",Jane Austen,978176007804,1843,fiction,Romance
-"The Handmaid's Tale",Margaret Atwood,978088313689,2000,fiction,Dystopian
-"Animal Farm",George Orwell,978358665942,1807,fiction,Satire
-"The Secret Garden",Frances Hodgson Burnett,978455316873,1917,fiction,children's Literature
+"A Clockwork Orange",Anthony Burgess,978615148604,1942,fiction,dystopian
+"Emma",Jane Austen,978176007804,1843,fiction,romance
+"The Handmaid's Tale",Margaret Atwood,978088313689,2000,fiction,dystopian
+"The Secret Garden",Frances Hodgson Burnett,978455316873,1917,fiction,children's literature
 "Rebecca",Daphne du Maurier,978243980703,1818,fiction,Gothic
 "The Giver",Lois Lowry,978832168949,1848,fiction,Science fiction
 "Siddhartha",Hermann Hesse,978179270035,1968,fiction,Philosophical
 "The Old Man and the Sea",Ernest Hemingway,978571580842,1976,fiction,adventure
 "Lolita",Vladimir Nabokov,978005068718,1809,fiction,Controversial
-"The Hunger Games",Suzanne Collins,978427966712,1811,fiction,Dystopian
+"The Hunger Games",Suzanne Collins,978427966712,1811,fiction,dystopian
 "The Maze Runner",James Dashner,978740425104,1871,fiction,Science fiction
 "Dune",Frank Herbert,978772674136,1813,fiction,Science fiction
 "The Girl on the Train",Paula Hawkins,978827034165,1962,fiction,thriller
 "The Fault in Our Stars",John Green,978871218040,1910,fiction,young adult
 "Jane Eyre",Charlotte Brontë,978590793985,1882,fiction,gothic
-"The Divine Comedy",Dante Alighieri,978537770194,1913,Non-fiction,Poetry
+"The Divine Comedy",Dante Alighieri,978537770194,1913,Non-fiction,poetry
 "Les Misérables",Victor Hugo,978207962254,1986,fiction,Historical
-"The Adventures of Huckleberry Finn",Mark Twain,978971476172,1979,fiction,Adventure
-"Anna Karenina",Leo Tolstoy,978014982509,1874,fiction,Drama
+"The Adventures of Huckleberry Finn",Mark Twain,978971476172,1979,fiction,adventure
+"Anna Karenina",Leo Tolstoy,978014982509,1874,fiction,drama
 "Wuthering Heights",Emily Brontë,978423071040,1864,fiction,gothic
-"Crime and Punishment",Fyodor Dostoevsky,978531009848,1945,fiction,Psychological
+"Crime and Punishment",Fyodor Dostoevsky,978531009848,1945,fiction,psychological
 "The Iliad",Homer,978646397466,1941,Non-fiction,Poetry
 "Frankenstein",Mary Shelley,978287726177,1826,fiction,historical
 "The Shining",Stephen King,978474473928,1891,fiction,historical
@@ -511,9 +505,9 @@
 "Wuthering Heights",Emily Brontë,978423071040,1864,fiction,gothic
 "Crime and Punishment",Fyodor Dostoevsky,978531009848,1945,fiction,psychological
 "The Iliad",Homer,978646397466,1941,non-fiction,poetry
-"Frankenstein",Mary Shelley,978287726177,1826,fiction,h
-"The Shining",Stephen King,978474473928,1891,fiction,h
-"Dracula",Bram Stoker,978230569022,1927,fiction,h
+"Frankenstein",Mary Shelley,978287726177,1826,fiction,horror
+"The Shining",Stephen King,978474473928,1891,fiction,horror
+"Dracula",Bram Stoker,978230569022,1927,fiction,horror
 "The Grapes of Wrath",John Steinbeck,978346556054,1912,fiction,historical
 "A Tale of Two Cities",Charles Dickens,978618718842,1883,fiction,historical
 "Great Expectations",Charles Dickens,978500814142,1859,fiction,classic
@@ -562,15 +556,14 @@
 "Where the Crawdads Sing",Delia Owens,978431658812,1878,fiction,mystery
 "The Night Circus",Erin Morgenstern,978153090369,1865,fiction,fantasy
 "City of Bones",Cassandra Clare,978294456372,1947,fiction,fantasy
-"The Stand",Stephen King,978137933798,1880,fiction,h
-"It",Stephen King,978129211879,1914,fiction,h
-"Pet Sematary",Stephen King,978957002097,1962,fiction,h
-"Misery",Stephen King,978936751877,1940,fiction,h
+"The Stand",Stephen King,978137933798,1880,fiction,horror
+"It",Stephen King,978129211879,1914,fiction,horror
+"Pet Sematary",Stephen King,978957002097,1962,fiction,horror
+"Misery",Stephen King,978936751877,1940,fiction,horror
 "The Sun Also Rises",Ernest Hemingway,978927936923,1961,fiction,drama
 "The Brief Wondrous Life of Oscar Wao",Junot Díaz,978988290747,1990,fiction,magical realism
-"House of Leaves",Mark Z. Danielewski,978425516800,1829,fiction,h
+"House of Leaves",Mark Z. Danielewski,978425516800,1829,fiction,horror
 "The Hitchhiker's Guide to the Galaxy",Douglas Adams,978971507925,1981,fiction,science fiction
-"The Wind-Up Bird Chronicle",Haruki Murakami,978705530323,2022,fiction,magical realism
 "Kafka on the Shore",Haruki Murakami,978906011770,1985,fiction,magical realism
 "The Devil Wears Prada",Lauren Weisberger,978924038536,1915,fiction,chick lit
 "The Secret History",Donna Tartt,978295063606,1801,fiction,thriller
@@ -591,388 +584,383 @@
 "Twilight",Stephenie Meyer,978879226000,1874,fiction,fantasy
 "The Time Traveler's Wife",Audrey Niffenegger,978785902455,1807,fiction,romance
 "Water for Elephants",Sara Gruen,978846258190,2002,fiction,historical fiction
-"Life After Life",Kate Atkinson,978332514964,1970,fiction, fantasy
+"Life After Life",Kate Atkinson,978332514964,1970,fiction,fantasy
 "Where the Crawdads Sing",Delia Owens,978818376022,1917,fiction,mystery
-"The Stand", Stephen King, 978324998586, 1936, fiction, horror
-"It", Stephen King, 978304781192, 1887, fiction, horror
-"Pet Sematary", Stephen King, 978854821304, 1999, fiction, horror
-"Misery", Stephen King, 978999569553, 1961, fiction, horror
-"The Sun Also Rises", Ernest Hemingway, 978693896300, 1887, fiction, drama
-"The Brief Wondrous Life of Oscar Wao", Junot Díaz, 978207861275, 1979, fiction, magical realism
-"House of Leaves", Mark Z. Danielewski, 978180584329, 1877, fiction, horror
-"The Hitchhiker's Guide to the Galaxy", Douglas Adams, 978354101509, 1897, fiction, science fiction
-"The Wind-Up Bird Chronicle", Haruki Murakami, 978579865714, 1807, fiction, magical realism
-"Kafka on the Shore", Haruki Murakami, 978327970386, 1908, fiction, magical realism
-"The Devil Wears Prada", Lauren Weisberger, 978760508676, 1924, fiction, chick lit
-"The Secret History", Donna Tartt, 978715318633, 1886, fiction, thriller
-"The Hunger Games", Suzanne Collins, 978905884518, 1938, fiction, dystopian
-"The Maze Runner", James Dashner, 978384941270, 1894, fiction, dystopian
-"Dune", Frank Herbert, 978289807006, 1848, fiction, science fiction
-"The Girl on the Train", Paula Hawkins, 978580229902, 1940, fiction, thriller
-"The Fault in Our Stars", John Green, 978764220763, 1966, fiction, romance
-"Gone Girl", Gillian Flynn, 978367273294, 1871, fiction, thriller
-"Ender's Game", Orson Scott Card, 978742474144, 2005, fiction, science fiction
-"The Da Vinci Code", Dan Brown, 978499752197, 2001, fiction, mystery
-"Inferno", Dan Brown, 978670267189, 1919, fiction, mystery
-"Angels & Demons", Dan Brown, 978206931056, 2019, fiction, mystery
-"The Lovely Bones", Alice Sebold, 978390949906, 1815, fiction, drama
-"The Girl with the Dragon Tattoo", Stieg Larsson, 978428341525, 2023, fiction, thriller
-"Memoirs of a Geisha", Arthur Golden, 978996859674, 1998, fiction, historical
-"The Outsiders", S.E. Hinton, 978855985220, 1891, fiction, young adult
-"Twilight", Stephenie Meyer, 978057653049, 1837, fiction, fantasy
-"The Time Traveler's Wife", Audrey Niffenegger, 978083858947, 2006, fiction, romance
-"Water for Elephants", Sara Gruen, 978837329405, 1916, fiction, historical
-"Life After Life", Kate Atkinson, 978213709263, 1963, fiction, fantasy
-"Where the Crawdads Sing", Delia Owens, 978712102120, 1833, fiction, mystery
-"The Night Circus", Erin Morgenstern, 978457634472, 1986, fiction, fantasy
-"City of Bones", Cassandra Clare, 978567903810, 1857, fiction, fantasy
-"The Stand", Stephen King, 978456189081, 2010, fiction, horror
-"It", Stephen King, 978250181205, 1858, fiction, horror
-"Pet Sematary", Stephen King, 978184936294, 1843, fiction, horror
-"Misery", Stephen King, 978049455146, 2002, fiction, horror
-"The Sun Also Rises", Ernest Hemingway, 978185503142, 1990, fiction, drama
-"The Brief Wondrous Life of Oscar Wao", Junot Díaz, 978700680518, 1966, fiction, magical realism
-"House of Leaves", Mark Z. Danielewski, 978314062624, 1851, fiction, horror
-"The Hitchhiker's Guide to the Galaxy", Douglas Adams, 978609741633, 1844, fiction, science fiction
-"The Wind-Up Bird Chronicle", Haruki Murakami, 978886301128, 1804, fiction, magical realism
-"Kafka on the Shore", Haruki Murakami, 978349455054, 1991, fiction, magical realism
-"The Devil Wears Prada", Lauren Weisberger, 978686043660, 1950, fiction, chick lit
-"The Secret History", Donna Tartt, 978819212823, 1902, fiction, thriller
-"The Hunger Games", Suzanne Collins, 978378852518, 1845, fiction, dystopian
-"The Maze Runner", James Dashner, 978061673340, 1893, fiction, dystopian
-"Dune", Frank Herbert, 978531750579, 2011, fiction, science fiction
-"The Girl on the Train", Paula Hawkins, 978202744558, 1815, fiction, thriller
-"The Fault in Our Stars", John Green, 978475903813, 1903, fiction, romance
-"Gone Girl", Gillian Flynn, 978869027687, 2011, fiction, thriller
-"Ender's Game", Orson Scott Card, 978165467980, 1816, fiction, science fiction
-"The Da Vinci Code", Dan Brown, 978559272013, 1952, fiction, mystery
-"Inferno", Dan Brown, 978085559895, 1905, fiction, mystery
-"Angels & Demons", Dan Brown, 978533465160, 2009, fiction, mystery
-"The Lovely Bones", Alice Sebold, 978398388261, 1807, fiction, drama
-"The Girl with the Dragon Tattoo", Stieg Larsson, 978990757378, 1982, fiction, thriller
-"Memoirs of a Geisha", Arthur Golden, 978352202397, 1881, fiction, historical
-"The Outsiders", S.E. Hinton, 978539704323, 1912, fiction, young adult
-"Twilight", Stephenie Meyer, 978318376528, 1950, fiction, fantasy
-"The Time Traveler's Wife", Audrey Niffenegger, 978904761261, 1909, fiction, romance
-"Water for Elephants", Sara Gruen, 978097921499, 1905, fiction, historical
-"Life After Life", Kate Atkinson, 978311773855, 1832, fiction, fantasy
-"Where the Crawdads Sing", Delia Owens, 978288562667, 1943, fiction, mystery
-"The Night Circus", Erin Morgenstern, 978837668288, 1891, fiction, fantasy
-"City of Bones", Cassandra Clare, 978259356950, 1963, fiction, fantasy
-"The Stand", Stephen King, 978311190040, 1851, fiction, horror
-"It", Stephen King, 978868410888, 1835, fiction, horror
-"Pet Sematary", Stephen King, 978647929086, 1933, fiction, horror
-"Misery", Stephen King, 978125374440, 1861, fiction, horror
-"The Sun Also Rises", Ernest Hemingway, 978554482279, 2021, fiction, drama
-"The Brief Wondrous Life of Oscar Wao", Junot Díaz, 978077527532, 1959, fiction, magical realism
-"House of Leaves", Mark Z. Danielewski, 978732542539, 1887, fiction, horror
-"The Hitchhiker's Guide to the Galaxy", Douglas Adams, 978763896903, 2011, fiction, science fiction
-"The Wind-Up Bird Chronicle", Haruki Murakami, 978995212335, 1869, fiction, magical realism
-"Kafka on the Shore", Haruki Murakami, 978604562770, 1809, fiction, magical realism
-"The Devil Wears Prada", Lauren Weisberger, 978185034037, 1821, fiction, chick lit
-"The Secret History", Donna Tartt, 978072920723, 1999, fiction, thriller
-"The Hunger Games", Suzanne Collins, 978017762599, 1923, fiction, dystopian
-"The Maze Runner", James Dashner, 978402379539, 1969, fiction, dystopian
-"Dune", Frank Herbert, 978233479092, 1806, fiction, science fiction
-"The Girl on the Train", Paula Hawkins, 978997933984, 1828, fiction, thriller
-"The Fault in Our Stars", John Green, 978554900343, 2021, fiction, romance
-"Gone Girl", Gillian Flynn, 978693821809, 1828, fiction, thriller
-"Ender's Game", Orson Scott Card, 978820710204, 1995, fiction, science fiction
-"The Da Vinci Code", Dan Brown, 978772199700, 1852, fiction, mystery
-"Inferno", Dan Brown, 978653613251, 1851, fiction, mystery
-"Angels & Demons", Dan Brown, 978157721480, 2022, fiction, mystery
-"The Lovely Bones", Alice Sebold, 978272725630, 1904, fiction, drama
-"The Girl with the Dragon Tattoo", Stieg Larsson, 978833524703, 1904, fiction, thriller
-"Memoirs of a Geisha", Arthur Golden, 978333570913, 1840, fiction, historical
-"The Outsiders", S.E. Hinton, 978482331703, 1971, fiction, young adult
-"Twilight", Stephenie Meyer, 978514588517, 1992, fiction, fantasy
-"The Time Traveler's Wife", Audrey Niffenegger, 978347870798, 1838, fiction, romance
-"Water for Elephants", Sara Gruen, 978706956130, 1885, fiction, historical
-"Life After Life", Kate Atkinson, 978906999828, 1995, fiction, fantasy
-"Where the Crawdads Sing", Delia Owens, 978745615947, 1909, fiction, mystery
-"The Night Circus", Erin Morgenstern, 978305362607, 1800, fiction, fantasy
-"City of Bones", Cassandra Clare, 978508055684, 1922, fiction, fantasy
-"The Stand", Stephen King, 978452107029, 2004, fiction, horror
-"It", Stephen King, 978533429785, 1819, fiction, horror
-"Pet Sematary", Stephen King, 978353372161, 1804, fiction, horror
-"Misery", Stephen King, 978694103478, 1882, fiction, horror
-"The Sun Also Rises", Ernest Hemingway, 978691566026, 1969, fiction, drama
-"The Brief Wondrous Life of Oscar Wao", Junot Díaz, 978338635829, 1922, fiction, magical realism
-"House of Leaves", Mark Z. Danielewski, 978818626804, 1945, fiction, horror
-"The Hitchhiker's Guide to the Galaxy", Douglas Adams, 978194696116, 2006, fiction, science fiction
-"The Wind-Up Bird Chronicle", Haruki Murakami, 978417268797, 1929, fiction, magical realism
-"Kafka on the Shore", Haruki Murakami, 978331426343, 1918, fiction, magical realism
-"The Devil Wears Prada", Lauren Weisberger, 978476392506, 1861, fiction, chick lit
-"The Secret History", Donna Tartt, 978701070395, 2003, fiction, thriller
-"The Hunger Games", Suzanne Collins, 978631437390, 1987, fiction, dystopian
-"The Maze Runner", James Dashner, 978387410955, 1916, fiction, dystopian
-"Dune", Frank Herbert, 978846774783, 1989, fiction, science fiction
-"The Girl on the Train", Paula Hawkins, 978244456280, 1869, fiction, thriller
-"The Fault in Our Stars", John Green, 978082451368, 1800, fiction, romance
-"Gone Girl", Gillian Flynn, 978108566275, 1878, fiction, thriller
-"Ender's Game", Orson Scott Card, 978185282822, 1845, fiction, science fiction
-"The Da Vinci Code", Dan Brown, 978457704298, 2004, fiction, mystery
-"Inferno", Dan Brown, 978718314060, 1853, fiction, mystery
-"Angels & Demons", Dan Brown, 978771147100, 1844, fiction, mystery
-"The Lovely Bones", Alice Sebold, 978680005857, 1983, fiction, drama
-"The Girl with the Dragon Tattoo", Stieg Larsson, 978892877289, 1929, fiction, thriller
-"Memoirs of a Geisha", Arthur Golden, 978673316524, 1830, fiction, historical
-"The Outsiders", S.E. Hinton, 978784943790, 1901, fiction, young adult
-"Twilight", Stephenie Meyer, 978712852376, 1839, fiction, fantasy
-"The Time Traveler's Wife", Audrey Niffenegger, 978780272991, 2000, fiction, romance
-"Water for Elephants", Sara Gruen, 978282950719, 2001, fiction, historical
-"Life After Life", Kate Atkinson, 978514149582, 1846, fiction, fantasy
-"Where the Crawdads Sing", Delia Owens, 978338571850, 1882, fiction, mystery
-"The Night Circus", Erin Morgenstern, 978010415445, 1881, fiction, fantasy
-"City of Bones", Cassandra Clare, 978569191931, 1900, fiction, fantasy
-"The Stand", Stephen King, 978987583696, 1996, fiction, horror
-"It", Stephen King, 978311637337, 1858, fiction, horror
-"Pet Sematary", Stephen King, 978067798429, 1916, fiction, horror
-"Misery", Stephen King, 978297986022, 1990, fiction, horror
-"The Sun Also Rises", Ernest Hemingway, 978807864634, 1855, fiction, drama
-"The Brief Wondrous Life of Oscar Wao", Junot Díaz, 978977348070, 1925, fiction, magical realism
-"House of Leaves", Mark Z. Danielewski, 978330873350, 1935, fiction, horror
-"The Hitchhiker's Guide to the Galaxy", Douglas Adams, 978293731611, 1857, fiction, science fiction
-"The Wind-Up Bird Chronicle", Haruki Murakami, 978488560472, 1937, fiction, magical realism
-"Kafka on the Shore", Haruki Murakami, 978621692703, 1810, fiction, magical realism
-"The Devil Wears Prada", Lauren Weisberger, 978491103025, 1946, fiction, chick lit
-"The Secret History", Donna Tartt, 978750334116, 1986, fiction, thriller
-"The Hunger Games", Suzanne Collins, 978451480343, 1995, fiction, dystopian
-"The Maze Runner", James Dashner, 978779093760, 1973, fiction, dystopian
-"Dune", Frank Herbert, 978346163411, 1983, fiction, science fiction
-"The Girl on the Train", Paula Hawkins, 978896728425, 1831, fiction, thriller
-"The Fault in Our Stars", John Green, 978730943724, 1817, fiction, romance
-"Gone Girl", Gillian Flynn, 978467173310, 1959, fiction, thriller
-"Ender's Game", Orson Scott Card, 978407827217, 2022, fiction, science fiction
-"The Da Vinci Code", Dan Brown, 978224206190, 1974, fiction, mystery
-"Inferno", Dan Brown, 978933473080, 1804, fiction, mystery
-"Angels & Demons", Dan Brown, 978929851840, 1936, fiction, mystery
-"The Lovely Bones", Alice Sebold, 978824561178, 1879, fiction, drama
-"The Girl with the Dragon Tattoo", Stieg Larsson, 978757031442, 1953, fiction, mystery
-"Memoirs of a Geisha", Arthur Golden, 978251391084, 1854, fiction, historical
-"The Outsiders", S.E. Hinton, 978571546103, 1964, fiction, coming-of-age
-"Twilight", Stephenie Meyer, 978862093286, 1914, fiction, fantasy
-"The Time Traveler's Wife", Audrey Niffenegger, 978682599599, 1928, fiction, romance
-"Water for Elephants", Sara Gruen, 978760288707, 1887, fiction, historical
-"Life After Life", Kate Atkinson, 978265922410, 1946, fiction, contemporary
-"Where the Crawdads Sing", Delia Owens, 978088507314, 1821, fiction, mystery
-"The Night Circus", Erin Morgenstern, 978401006322, 1934, fiction, fantasy
-"City of Bones", Cassandra Clare, 978246288872, 1863, fiction, fantasy
-"The Stand", Stephen King, 978957113549, 1852, fiction, horror
-"It", Stephen King, 978971983251, 1966, fiction, horror
-"Pet Sematary", Stephen King, 978463140561, 1922, fiction, horror
-"Misery", Stephen King, 978508153402, 1806, fiction, horror
-"The Sun Also Rises", Ernest Hemingway, 978753558223, 1935, fiction, classic
-"The Brief Wondrous Life of Oscar Wao", Junot Díaz, 978557515947, 1984, fiction, contemporary
-"House of Leaves", Mark Z. Danielewski, 978350336096, 1922, fiction, horror
-"The Hitchhiker's Guide to the Galaxy", Douglas Adams, 978936308506, 1887, fiction, science fiction
-"The Wind-Up Bird Chronicle", Haruki Murakami, 978331565615, 1908, fiction, magical realism
-"Kafka on the Shore", Haruki Murakami, 978570069556, 1851, fiction, magical realism
-"The Devil Wears Prada", Lauren Weisberger, 978136549466, 1836, fiction, contemporary
-"The Secret History", Donna Tartt, 978936759517, 1983, fiction, thriller
-"The Hunger Games", Suzanne Collins, 978469466386, 2005, fiction, dystopian
-"The Maze Runner", James Dashner, 978281120968, 1833, fiction, dystopian
-"Dune", Frank Herbert, 978105998186, 1953, fiction, science fiction
-"The Girl on the Train", Paula Hawkins, 978996476057, 1966, fiction, thriller
-"The Fault in Our Stars", John Green, 978767026941, 1866, fiction, romance
-"Gone Girl", Gillian Flynn, 978784322613, 1840, fiction, thriller
-"Ender's Game", Orson Scott Card, 978660649860, 1986, fiction, science fiction
-"The Da Vinci Code", Dan Brown, 978136908397, 1925, fiction, mystery
-"Inferno", Dan Brown, 978004365856, 1991, fiction, mystery
-"Angels & Demons", Dan Brown, 978660081219, 2018, fiction, mystery
-"The Lovely Bones", Alice Sebold, 978254746334, 1898, fiction, drama
-"The Girl with the Dragon Tattoo", Stieg Larsson, 978943965351, 1918, fiction, thriller
-"Memoirs of a Geisha", Arthur Golden, 978977985896, 1819, fiction, historical
-"The Outsiders", S.E. Hinton, 978675096984, 1955, fiction, young adult
-"Twilight", Stephenie Meyer, 978876213197, 1986, fiction, romance
-"The Time Traveler's Wife", Audrey Niffenegger, 978146193240, 1923, fiction, romance
-"Water for Elephants", Sara Gruen, 978124071588, 1817, fiction, historical
-"Life After Life", Kate Atkinson, 978866866142, 1861, fiction, contemporary
-"Where the Crawdads Sing", Delia Owens, 978486469143, 1946, fiction, mystery
-"The Night Circus", Erin Morgenstern, 978559977620, 1916, fiction, fantasy
-"City of Bones", Cassandra Clare, 978622307899, 1955, fiction, fantasy
-"The Stand", Stephen King, 978123633424, 1980, fiction, horror
-"It", Stephen King, 978531637451, 1832, fiction, horror
-"Pet Sematary", Stephen King, 978362504235, 1824, fiction, horror
-"Misery", Stephen King, 978821271765, 2020, fiction, horror
-"The Sun Also Rises", Ernest Hemingway, 978172272312, 1817, fiction, literary
-"The Brief Wondrous Life of Oscar Wao", Junot Díaz, 978593779832, 1989, fiction, contemporary
-"House of Leaves", Mark Z. Danielewski, 978977448206, 2016, fiction, horror
-"The Hitchhiker's Guide to the Galaxy", Douglas Adams, 978356881207, 1987, fiction, science fiction
-"The Wind-Up Bird Chronicle", Haruki Murakami, 978113851291, 1954, fiction, magical realism
-"Kafka on the Shore", Haruki Murakami, 978050860671, 1966, fiction, magical realism
-"The Devil Wears Prada", Lauren Weisberger, 978136549466, 1836, fiction, contemporary
-"The Secret History", Donna Tartt, 978936759517, 1983, fiction, mystery
-"The Hunger Games", Suzanne Collins, 978469466386, 2005, fiction, dystopian
-"The Maze Runner", James Dashner, 978281120968, 1833, fiction, dystopian
-"Dune", Frank Herbert, 978105998186, 1953, fiction, science fiction
-"The Girl on the Train", Paula Hawkins, 978996476057, 1966, fiction, thriller
-"The Fault in Our Stars", John Green, 978767026941, 1866, fiction, young adult
-"Gone Girl", Gillian Flynn, 978784322613, 1840, fiction, thriller
-"Ender's Game", Orson Scott Card, 978660649860, 1986, fiction, science fiction
-"The Da Vinci Code", Dan Brown, 978136908397, 1925, fiction, mystery
-"Inferno", Dan Brown, 978004365856, 1991, fiction, thriller
-"Angels & Demons", Dan Brown, 978660081219, 2018, fiction, thriller
-"The Lovely Bones", Alice Sebold, 978254746334, 1898, fiction, drama
-"The Girl with the Dragon Tattoo", Stieg Larsson, 978943965351, 1918, fiction, thriller
-"Memoirs of a Geisha", Arthur Golden, 978977985896, 1819, fiction, historical
-"The Outsiders", S.E. Hinton, 978675096984, 1955, fiction, young adult
-"Twilight", Stephenie Meyer, 978876213197, 1986, fiction, romance
-"The Time Traveler's Wife", Audrey Niffenegger, 978146193240, 1923, fiction, romance
-"Water for Elephants", Sara Gruen, 978124071588, 1817, fiction, historical
-"Life After Life", Kate Atkinson, 978866866142, 1861, fiction, contemporary
-"Where the Crawdads Sing", Delia Owens, 978486469143, 1946, fiction, mystery
-"The Night Circus", Erin Morgenstern, 978559977620, 1916, fiction, fantasy
-"City of Bones", Cassandra Clare, 978622307899, 1955, fiction, fantasy
-"The Stand", Stephen King, 978123633424, 1980, fiction, horror
-"It", Stephen King, 978531637451, 1832, fiction, horror
-"Pet Sematary", Stephen King, 978362504235, 1824, fiction, horror
-"Misery", Stephen King, 978821271765, 2020, fiction, horror
-"The Sun Also Rises", Ernest Hemingway, 978172272312, 1817, fiction, literary
-"The Brief Wondrous Life of Oscar Wao", Junot Díaz, 978593779832, 1989, fiction, contemporary
-"House of Leaves", Mark Z. Danielewski, 978567481665, 2020, fiction, horror
-"The Hitchhiker's Guide to the Galaxy", Douglas Adams, 978580693220, 2008, fiction, science fiction
-"The Wind-Up Bird Chronicle", Haruki Murakami, 978591241300, 1901, fiction, magical realism
-"Kafka on the Shore", Haruki Murakami, 978781561223, 1923, fiction, magical realism
-"The Devil Wears Prada", Lauren Weisberger, 978780277616, 1938, fiction, contemporary
-"The Secret History", Donna Tartt, 978075524139, 1824, fiction, mystery
-"The Hunger Games", Suzanne Collins, 978565603393, 1912, fiction, dystopian
-"The Maze Runner", James Dashner, 978280543579, 2002, fiction, dystopian
-"Dune", Frank Herbert, 978025756888, 1853, fiction, science fiction
-"The Girl on the Train", Paula Hawkins, 978009732138, 1847, fiction, thriller
-"The Fault in Our Stars", John Green, 978227424930, 1959, fiction, young adult
-"Gone Girl", Gillian Flynn, 978188162513, 2012, fiction, thriller
-"Ender's Game", Orson Scott Card, 978727394899, 1988, fiction, science fiction
-"The Da Vinci Code", Dan Brown, 978440613296, 1906, fiction, mystery
-"Inferno", Dan Brown, 978202844952, 1859, fiction, thriller
-"Angels & Demons", Dan Brown, 978126023738, 2008, fiction, thriller
-"The Lovely Bones", Alice Sebold, 978582342582, 1801, fiction, drama
-"The Girl with the Dragon Tattoo", Stieg Larsson, 978125727954, 1886, fiction, thriller
-"Memoirs of a Geisha", Arthur Golden, 978150332519, 1967, fiction, historical
-"The Outsiders", S.E. Hinton, 978473520549, 2012, fiction, young adult
-"Twilight", Stephenie Meyer, 978380298871, 1909, fiction, romance
-"The Time Traveler's Wife", Audrey Niffenegger, 978119987589, 1951, fiction, romance
-"Water for Elephants", Sara Gruen, 978871827118, 1948, fiction, historical
-"Life After Life", Kate Atkinson, 978576439301, 1817, fiction, contemporary
-"Where the Crawdads Sing", Delia Owens, 978899016134, 1945, fiction, mystery
-"The Night Circus", Erin Morgenstern, 978568194244, 1957, fiction, fantasy
-"City of Bones", Cassandra Clare, 978782430961, 1925, fiction, fantasy
-"The Stand", Stephen King, 978831261264, 1853, fiction, horror
-"It", Stephen King, 978972045232, 1955, fiction, horror
-"Pet Sematary", Stephen King, 978724007418, 1999, fiction, horror
-"Misery", Stephen King, 978060744217, 1952, fiction, horror
-"The Sun Also Rises", Ernest Hemingway, 978254741268, 1820, fiction, historical
-"The Brief Wondrous Life of Oscar Wao", Junot Díaz, 978121021968, 1958, fiction, contemporary
-"House of Leaves", Mark Z. Danielewski, 978841686925, 1815, fiction, horror
-"The Hitchhiker's Guide to the Galaxy", Douglas Adams, 978893315895, 1978, fiction, science fiction
-"The Wind-Up Bird Chronicle", Haruki Murakami, 978232178442, 1969, fiction, magical realism
-"Kafka on the Shore", Haruki Murakami, 978097068284, 2000, fiction, magical realism
-"The Devil Wears Prada", Lauren Weisberger, 978591873830, 1921, fiction, contemporary
-"The Secret History", Donna Tartt, 978964328209, 1838, fiction, mystery
-"The Hunger Games", Suzanne Collins, 978948984684, 1862, fiction, dystopian
-"The Maze Runner", James Dashner, 978104918192, 2003, fiction, dystopian
-"Dune", Frank Herbert, 978246578012, 1945, fiction, science fiction
-"The Girl on the Train", Paula Hawkins, 978870317484, 1884, fiction, thriller
-"The Fault in Our Stars", John Green, 978364883812, 1943, fiction, young adult
-"Gone Girl", Gillian Flynn, 978938657977, 1873, fiction, thriller
-"Ender's Game", Orson Scott Card, 978915406419, 1883, fiction, science fiction
-"Invisible Man", Ralph Ellison, 9780452262067, 1952, fiction, classic
-"Catch-22", Joseph Heller, 9781451626650, 1961, fiction, satire
-"The Joy Luck Club", Amy Tan, 9780143038092, 1989, fiction, historical
-"On the Road", Jack Kerouac, 9780140283297, 1957, fiction, classic
-"The Prophet", Kahlil Gibran, 9781613822181, 1923, fiction, poetry
-"Silent Spring", Rachel Carson, 9780618249060, 1962, nonfiction, science
-"The Sun Also Rises", Ernest Hemingway, 9780684800714, 1926, fiction, historical
-"The Things They Carried", Tim O'Brien, 9780618706419, 1990, fiction, war
-"White Teeth", Zadie Smith, 9780375703867, 2000, fiction, contemporary
-"Midnight's Children", Salman Rushdie, 9780812972010, 1981, fiction, historical
-"Persepolis", Marjane Satrapi, 9780375714572, 2003, nonfiction, memoir
-"Guns, Germs, and Steel", Jared Diamond, 9780393050437, 1997, nonfiction, history
-"The Remains of the Day", Kazuo Ishiguro, 9780679731726, 1989, fiction, historical
-"All the Light We Cannot See", Anthony Doerr, 9781476746586, 2014, fiction, historical
-"How to Win Friends and Influence People", Dale Carnegie, 9780671027032, 1936, nonfiction, self-help
-"The Secret Life of Bees", Sue Monk Kidd, 9780142001745, 2002, fiction, historical
-"The Poisonwood Bible", Barbara Kingsolver, 9780061577079, 1998, fiction, historical
-"The Autobiography of Malcolm X", Malcolm X and Alex Haley, 9780345350688, 1965, nonfiction, autobiography
-"Tuesdays with Morrie", Mitch Albom, 9780767905923, 1997, nonfiction, memoir
-"The Stranger", Albert Camus, 9780679720201, 1946, fiction, classic
-"The Bell Jar", Sylvia Plath, 9780060812542, 1963, fiction, classic
-"The 5 Love Languages", Gary Chapman, 9781881273350, 1992, nonfiction, self-help
-"Thinking, Fast and Slow", Daniel Kahneman, 9780374533557, 2011, nonfiction, psychology
-"The Name of the Rose", Umberto Eco, 9780156012195, 1980, fiction, mystery
-"The Bridges of Madison County", Robert James Waller, 9780552774730, 1992, fiction, romance
-"A Farewell to Arms", Ernest Hemingway, 9780099908401, 1929, fiction, historical
-"The Age of Innocence", Edith Wharton, 9780553212342, 1920, fiction, classic
-"The Year of Magical Thinking", Joan Didion, 9781400078431, 2005, nonfiction, memoir
-"A Room with a View", E.M. Forster, 9780141439662, 1908, fiction, classic
-"The Story of My Life", Helen Keller, 9780451531983, 1903, nonfiction, autobiography
-"I Am Malala", Malala Yousafzai and Christina Lamb, 9780316337530, 2013, nonfiction, memoir
-"Thinking in Systems", Donella Meadows, 9781603580557, 2008, nonfiction, science
-"Wild", Cheryl Strayed, 9780307387871, 2012, nonfiction, memoir
-"Beautiful Ruins", Jess Walter, 9781451661788, 2012, fiction, contemporary
-"Eat, Pray, Love", Elizabeth Gilbert, 9780143038412, 2006, nonfiction, memoir
-"Quiet: The Power of Introverts", Susan Cain, 9780307352153, 2012, nonfiction, psychology
-"In Cold Blood", Truman Capote, 9780812984481, 1966, nonfiction, true crime
-"The Warmth of Other Suns", Isabel Wilkerson, 9780679763888, 2010, nonfiction, history
-"A Short History of Nearly Everything", Bill Bryson, 9780767908180, 2003, nonfiction, science
-"Cutting for Stone", Abraham Verghese, 9780767923831, 2009, fiction, historical
-"The 48 Laws of Power", Robert Greene, 9780140280197, 1998, nonfiction, self-help
-"The Secret", Rhonda Byrne, 9781582701707, 2006, nonfiction, self-help
-"The Last of the Mohicans", James Fenimore Cooper, 9780451530986, 1826, fiction, historical
-"Shōgun", James Clavell, 9780440178007, 1975, fiction, historical
-"Outlander", Diana Gabaldon, 9780440212563, 1991, fiction, historical
-"Killing Floor", Lee Child, 9780515133658, 1997, fiction, thriller
-"The Man in the High Castle", Philip K. Dick, 9780441013593, 1962, fiction, science fiction
-"Hatchet", Gary Paulsen, 9781416936473, 1986, fiction, adventure
-"Treasure Island", Robert Louis Stevenson, 9780141439822, 1883, fiction, adventure
-"I Know This Much Is True", Wally Lamb, 9780060987564, 1998, fiction, contemporary
-"Lonesome Dove", Larry McMurtry, 9780684802745, 1985, fiction, western
-"The Sea Wolf", Jack London, 9781557422121, 1904, fiction, adventure
-"The Red and the Black", Stendhal, 9780199536828, 1830, fiction, classic
-"Do Androids Dream of Electric Sheep?", Philip K. Dick, 9780345404473, 1968, fiction, science fiction
-"The Call of the Wild", Jack London, 9780451532000, 1903, fiction, adventure
-"The Cuckoo's Calling", Robert Galbraith, 9780316334752, 2013, fiction, mystery
-"Long Walk to Freedom", Nelson Mandela, 9780316548182, 1994, nonfiction, autobiography
-"The Immortal Life of Henrietta Lacks", Rebecca Skloot, 9781400052189, 2010, nonfiction, science
-"Nickel and Dimed", Barbara Ehrenreich, 9780805087090, 2001, nonfiction, sociology
-"The Left Hand of Darkness", Ursula K. Le Guin, 9780441013593, 1969, fiction, science fiction
-"The Confessions of Nat Turner", William Styron, 9780812972576, 1967, fiction, historical
-"The Art of War", Sun Tzu, 9781590302255, -500, nonfiction, strategy
-"The Prince", Niccolò Machiavelli, 9780140449150, 1532, nonfiction, political science
-"The Road", Cormac McCarthy, 9780307387895, 2006, fiction, dystopian
-"The Tale of Genji", Murasaki Shikibu, 9780679729532, 1008, fiction, classic
-"The Color of Water", James McBride, 9781594481925, 1996, nonfiction, memoir
-"Angela’s Ashes", Frank McCourt, 9781565123880, 1996, nonfiction, memoir
-"Death of a Salesman", Arthur Miller, 9780140481341, 1949, fiction, drama
-"The Invisible Life of Addie LaRue", V.E. Schwab, 9780765387561, 2020, fiction, fantasy
-"The Martian", Andy Weir, 9780553418026, 2011, fiction, science fiction
-"Daisy Jones & The Six", Taylor Jenkins Reid, 9781524798659, 2019, fiction, contemporary
-"Just Mercy", Bryan Stevenson, 9780812984962, 2014, nonfiction, memoir
-"Beartown", Fredrik Backman, 9781501160778, 2016, fiction, contemporary
-"The Lovely Bones", Alice Sebold, 9780316338309, 2002, fiction, drama
-"The Gilded Age", Mark Twain and Charles Dudley Warner, 9781593082533, 1873, fiction, historical
-"The Brief Wondrous Life of Oscar Wao", Junot Díaz, 9781594489587, 2007, fiction, contemporary
-"The Catcher Was a Spy", Nicholas Dawidoff, 9780306811862, 1994, nonfiction, biography
-"The Golden Compass", Philip Pullman, 9780440418320, 1995, fiction, fantasy
-"The Shadow of the Wind", Carlos Ruiz Zafón, 9780143034902, 2001, fiction, historical
-"The Soul of a New Machine", Tracy Kidder, 9780618102734, 1981, nonfiction, technology
-"Good to Great", Jim Collins, 9780066620992, 2001, nonfiction, business
-"Hillbilly Elegy", J.D. Vance, 9780062300546, 2016, nonfiction, memoir
-"The House on Mango Street", Sandra Cisneros, 9780679734772, 1984, fiction, contemporary
-"The Spy Who Came in from the Cold", John le Carré, 9780143039433, 1963, fiction, thriller
-"The Andromeda Strain", Michael Crichton, 9780061751292, 1969, fiction, science fiction
-"Why We Sleep", Matthew Walker, 9781501144314, 2017, nonfiction, science
-"The Little Friend", Donna Tartt, 9781400031702, 2002, fiction, thriller
-"The Brief Wondrous Life of Oscar Wao", Junot Díaz, 9781594489587, 2007, fiction, contemporary
-"The Alienist", Caleb Carr, 9780553101627, 1994, fiction, mystery
-"Stamped from the Beginning", Ibram X. Kendi, 9781568585987, 2016, nonfiction, history
-"A Visit from the Goon Squad", Jennifer Egan, 9780307592111, 2010, fiction, contemporary
-"The Nickel Boys", Colson Whitehead, 9780385544031, 2019, fiction, historical
-"The Name of the Wind", Patrick Rothfuss, 9780756404741, 2007, fiction, fantasy
-"The Liar’s Club", Mary Karr, 9780679764025, 1995, nonfiction, memoir
-"The 4-Hour Workweek", Tim Ferriss, 9780785933307, 2007, nonfiction, self-help
-"Bossypants", Tina Fey, 9781455509174, 2011, nonfiction, memoir
-"Educated", Tara Westover, 9780399590504, 2018, nonfiction, memoir
-"The Omnivore's Dilemma", Michael Pollan, 9780143038580, 2006, nonfiction, food
-"Team of Rivals", Doris Kearns Goodwin, 9780684824902, 2005, nonfiction, history
-"Normal People", Sally Rooney, 9781984801723, 2018, fiction, contemporary
+"The Stand",Stephen King,978324998586,1936,fiction,horror
+"It",Stephen King,978304781192,1887,fiction,horror
+"Pet Sematary",Stephen King,978854821304,1999,fiction,horror
+"Misery",Stephen King,978999569553,1961,fiction,horror
+"The Sun Also Rises",Ernest Hemingway,978693896300,1887,fiction,drama
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978207861275,1979,fiction,magical realism
+"House of Leaves",Mark Z. Danielewski,978180584329,1877,fiction,horror
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978354101509,1897,fiction,science fiction
+"The Wind-Up Bird Chronicle",Haruki Murakami,978579865714,1807,fiction,magical realism
+"Kafka on the Shore",Haruki Murakami,978327970386,1908,fiction,magical realism
+"The Devil Wears Prada",Lauren Weisberger,978760508676,1924,fiction,chick lit
+"The Secret History",Donna Tartt,978715318633,1886,fiction,thriller
+"The Hunger Games",Suzanne Collins,978905884518,1938,fiction,dystopian
+"The Maze Runner",James Dashner,978384941270,1894,fiction,dystopian
+"Dune",Frank Herbert,978289807006,1848,fiction,science fiction
+"The Girl on the Train",Paula Hawkins,978580229902,1940,fiction,thriller
+"The Fault in Our Stars",John Green,978764220763,1966,fiction,romance
+"Gone Girl",Gillian Flynn,978367273294,1871,fiction,thriller
+"Ender's Game",Orson Scott Card,978742474144,2005,fiction,science fiction
+"The Da Vinci Code",Dan Brown,978499752197,2001,fiction,mystery
+"Inferno",Dan Brown,978670267189,1919,fiction,mystery
+"Angels & Demons",Dan Brown,978206931056,2019,fiction,mystery
+"The Lovely Bones",Alice Sebold,978390949906,1815,fiction,drama
+"The Girl with the Dragon Tattoo",Stieg Larsson,978428341525,2023,fiction,thriller
+"Memoirs of a Geisha",Arthur Golden,978996859674,1998,fiction,historical
+"The Outsiders",S.E. Hinton,978855985220,1891,fiction,young adult
+"Twilight",Stephenie Meyer,978057653049,1837,fiction,fantasy
+"The Time Traveler's Wife",Audrey Niffenegger,978083858947,2006,fiction,romance
+"Water for Elephants",Sara Gruen,978837329405,1916,fiction,historical
+"Life After Life",Kate Atkinson,978213709263,1963,fiction,fantasy
+"Where the Crawdads Sing",Delia Owens,978712102120,1833,fiction,mystery
+"The Night Circus",Erin Morgenstern,978457634472,1986,fiction,fantasy
+"City of Bones",Cassandra Clare,978567903810,1857,fiction,fantasy
+"The Stand",Stephen King,978456189081,2010,fiction,horror
+"It",Stephen King,978250181205,1858,fiction,horror
+"Pet Sematary",Stephen King,978184936294,1843,fiction,horror
+"Misery",Stephen King,978049455146,2002,fiction,horror
+"The Sun Also Rises",Ernest Hemingway,978185503142,1990,fiction,drama
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978700680518,1966,fiction,magical realism
+"House of Leaves",Mark Z. Danielewski,978314062624,1851,fiction,horror
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978609741633,1844,fiction,science fiction
+"The Wind-Up Bird Chronicle",Haruki Murakami,978886301128,1804,fiction,magical realism
+"Kafka on the Shore",Haruki Murakami,978349455054,1991,fiction,magical realism
+"The Devil Wears Prada",Lauren Weisberger,978686043660,1950,fiction,chick lit
+"The Secret History",Donna Tartt,978819212823,1902,fiction,thriller
+"The Hunger Games",Suzanne Collins,978378852518,1845,fiction,dystopian
+"The Maze Runner",James Dashner,978061673340,1893,fiction,dystopian
+"Dune",Frank Herbert,978531750579,2011,fiction,science fiction
+"The Girl on the Train",Paula Hawkins,978202744558,1815,fiction,thriller
+"The Fault in Our Stars",John Green,978475903813,1903,fiction,romance
+"Gone Girl",Gillian Flynn,978869027687,2011,fiction,thriller
+"Ender's Game",Orson Scott Card,978165467980,1816,fiction,science fiction
+"The Da Vinci Code",Dan Brown,978559272013,1952,fiction,mystery
+"Inferno",Dan Brown,978085559895,1905,fiction,mystery
+"Angels & Demons",Dan Brown,978533465160,2009,fiction,mystery
+"The Lovely Bones",Alice Sebold,978398388261,1807,fiction,drama
+"The Girl with the Dragon Tattoo",Stieg Larsson,978990757378,1982,fiction,thriller
+"Memoirs of a Geisha",Arthur Golden,978352202397,1881,fiction,historical
+"The Outsiders",S.E. Hinton,978539704323,1912,fiction,young adult
+"Twilight",Stephenie Meyer,978318376528,1950,fiction,fantasy
+"The Time Traveler's Wife",Audrey Niffenegger,978904761261,1909,fiction,romance
+"Water for Elephants",Sara Gruen,978097921499,1905,fiction,historical
+"Life After Life",Kate Atkinson,978311773855,1832,fiction,fantasy
+"Where the Crawdads Sing",Delia Owens,978288562667,1943,fiction,mystery
+"The Night Circus",Erin Morgenstern,978837668288,1891,fiction,fantasy
+"City of Bones",Cassandra Clare,978259356950,1963,fiction,fantasy
+"The Stand",Stephen King,978311190040,1851,fiction,horror
+"It",Stephen King,978868410888,1835,fiction,horror
+"Pet Sematary",Stephen King,978647929086,1933,fiction,horror
+"Misery",Stephen King,978125374440,1861,fiction,horror
+"The Sun Also Rises",Ernest Hemingway,978554482279,2021,fiction,drama
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978077527532,1959,fiction,magical realism
+"House of Leaves",Mark Z. Danielewski,978732542539,1887,fiction,horror
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978763896903,2011,fiction,science fiction
+"The Wind-Up Bird Chronicle",Haruki Murakami,978995212335,1869,fiction,magical realism
+"Kafka on the Shore",Haruki Murakami,978604562770,1809,fiction,magical realism
+"The Devil Wears Prada",Lauren Weisberger,978185034037,1821,fiction,chick lit
+"The Secret History",Donna Tartt,978072920723,1999,fiction,thriller
+"The Hunger Games",Suzanne Collins,978017762599,1923,fiction,dystopian
+"The Maze Runner",James Dashner,978402379539,1969,fiction,dystopian
+"Dune",Frank Herbert,978233479092,1806,fiction,science fiction
+"The Girl on the Train",Paula Hawkins,978997933984,1828,fiction,thriller
+"The Fault in Our Stars",John Green,978554900343,2021,fiction,romance
+"Gone Girl",Gillian Flynn,978693821809,1828,fiction,thriller
+"Ender's Game",Orson Scott Card,978820710204,1995,fiction,science fiction
+"The Da Vinci Code",Dan Brown,978772199700,1852,fiction,mystery
+"Inferno",Dan Brown,978653613251,1851,fiction,mystery
+"Angels & Demons",Dan Brown,978157721480,2022,fiction,mystery
+"The Lovely Bones",Alice Sebold,978272725630,1904,fiction,drama
+"The Girl with the Dragon Tattoo",Stieg Larsson,978833524703,1904,fiction,thriller
+"Memoirs of a Geisha",Arthur Golden,978333570913,1840,fiction,historical
+"The Outsiders",S.E. Hinton,978482331703,1971,fiction,young adult
+"Twilight",Stephenie Meyer,978514588517,1992,fiction,fantasy
+"The Time Traveler's Wife",Audrey Niffenegger,978347870798,1838,fiction,romance
+"Water for Elephants",Sara Gruen,978706956130,1885,fiction,historical
+"Life After Life",Kate Atkinson,978906999828,1995,fiction,fantasy
+"Where the Crawdads Sing",Delia Owens,978745615947,1909,fiction,mystery
+"The Night Circus",Erin Morgenstern,978305362607,1800,fiction,fantasy
+"City of Bones",Cassandra Clare,978508055684,1922,fiction,fantasy
+"The Stand",Stephen King,978452107029,2004,fiction,horror
+"It",Stephen King,978533429785,1819,fiction,horror
+"Pet Sematary",Stephen King,978353372161,1804,fiction,horror
+"Misery",Stephen King,978694103478,1882,fiction,horror
+"The Sun Also Rises",Ernest Hemingway,978691566026,1969,fiction,drama
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978338635829,1922,fiction,magical realism
+"House of Leaves",Mark Z. Danielewski,978818626804,1945,fiction,horror
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978194696116,2006,fiction,science fiction
+"The Wind-Up Bird Chronicle",Haruki Murakami,978417268797,1929,fiction,magical realism
+"Kafka on the Shore",Haruki Murakami,978331426343,1918,fiction,magical realism
+"The Devil Wears Prada",Lauren Weisberger,978476392506,1861,fiction,chick lit
+"The Secret History",Donna Tartt,978701070395,2003,fiction,thriller
+"The Hunger Games",Suzanne Collins,978631437390,1987,fiction,dystopian
+"The Maze Runner",James Dashner,978387410955,1916,fiction,dystopian
+"Dune",Frank Herbert,978846774783,1989,fiction,science fiction
+"The Girl on the Train",Paula Hawkins,978244456280,1869,fiction,thriller
+"The Fault in Our Stars",John Green,978082451368,1800,fiction,romance
+"Gone Girl",Gillian Flynn,978108566275,1878,fiction,thriller
+"Ender's Game",Orson Scott Card,978185282822,1845,fiction,science fiction
+"The Da Vinci Code",Dan Brown,978457704298,2004,fiction,mystery
+"Inferno",Dan Brown,978718314060,1853,fiction,mystery
+"Angels & Demons",Dan Brown,978771147100,1844,fiction,mystery
+"The Lovely Bones",Alice Sebold,978680005857,1983,fiction,drama
+"The Girl with the Dragon Tattoo",Stieg Larsson,978892877289,1929,fiction,thriller
+"Memoirs of a Geisha",Arthur Golden,978673316524,1830,fiction,historical
+"The Outsiders",S.E. Hinton,978784943790,1901,fiction,young adult
+"Twilight",Stephenie Meyer,978712852376,1839,fiction,fantasy
+"The Time Traveler's Wife",Audrey Niffenegger,978780272991,2000,fiction,romance
+"Water for Elephants",Sara Gruen,978282950719,2001,fiction,historical
+"Life After Life",Kate Atkinson,978514149582,1846,fiction,fantasy
+"Where the Crawdads Sing",Delia Owens,978338571850,1882,fiction,mystery
+"The Night Circus",Erin Morgenstern,978010415445,1881,fiction,fantasy
+"City of Bones",Cassandra Clare,978569191931,1900,fiction,fantasy
+"The Stand",Stephen King,978987583696,1996,fiction,horror
+"It",Stephen King,978311637337,1858,fiction,horror
+"Pet Sematary",Stephen King,978067798429,1916,fiction,horror
+"Misery",Stephen King,978297986022,1990,fiction,horror
+"The Sun Also Rises",Ernest Hemingway,978807864634,1855,fiction,drama
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978977348070,1925,fiction,magical realism
+"House of Leaves",Mark Z. Danielewski,978330873350,1935,fiction,horror
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978293731611,1857,fiction,science fiction
+"The Wind-Up Bird Chronicle",Haruki Murakami,978488560472,1937,fiction,magical realism
+"Kafka on the Shore",Haruki Murakami,978621692703,1810,fiction,magical realism
+"The Devil Wears Prada",Lauren Weisberger,978491103025,1946,fiction,chick lit
+"The Secret History",Donna Tartt,978750334116,1986,fiction,thriller
+"The Hunger Games",Suzanne Collins,978451480343,1995,fiction,dystopian
+"The Maze Runner",James Dashner,978779093760,1973,fiction,dystopian
+"Dune",Frank Herbert,978346163411,1983,fiction,science fiction
+"The Girl on the Train",Paula Hawkins,978896728425,1831,fiction,thriller
+"The Fault in Our Stars",John Green,978730943724,1817,fiction,romance
+"Gone Girl",Gillian Flynn,978467173310,1959,fiction,thriller
+"Ender's Game",Orson Scott Card,978407827217,2022,fiction,science fiction
+"The Da Vinci Code",Dan Brown,978224206190,1974,fiction,mystery
+"Inferno",Dan Brown,978933473080,1804,fiction,mystery
+"Angels & Demons",Dan Brown,978929851840,1936,fiction,mystery
+"The Lovely Bones",Alice Sebold,978824561178,1879,fiction,drama
+"The Girl with the Dragon Tattoo",Stieg Larsson,978757031442,1953,fiction,mystery
+"Memoirs of a Geisha",Arthur Golden,978251391084,1854,fiction,historical
+"The Outsiders",S.E. Hinton,978571546103,1964,fiction,coming-of-age
+"Twilight",Stephenie Meyer,978862093286,1914,fiction,fantasy
+"The Time Traveler's Wife",Audrey Niffenegger,978682599599,1928,fiction,romance
+"Water for Elephants",Sara Gruen,978760288707,1887,fiction,historical
+"Life After Life",Kate Atkinson,978265922410,1946,fiction,contemporary
+"Where the Crawdads Sing",Delia Owens,978088507314,1821,fiction,mystery
+"The Night Circus",Erin Morgenstern,978401006322,1934,fiction,fantasy
+"City of Bones",Cassandra Clare,978246288872,1863,fiction,fantasy
+"The Stand",Stephen King,978957113549,1852,fiction,horror
+"It",Stephen King,978971983251,1966,fiction,horror
+"Pet Sematary",Stephen King,978463140561,1922,fiction,horror
+"Misery",Stephen King,978508153402,1806,fiction,horror
+"The Sun Also Rises",Ernest Hemingway,978753558223,1935,fiction,classic
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978557515947,1984,fiction,contemporary
+"House of Leaves",Mark Z. Danielewski,978350336096,1922,fiction,horror
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978936308506,1887,fiction,science fiction
+"The Wind-Up Bird Chronicle",Haruki Murakami,978331565615,1908,fiction,magical realism
+"Kafka on the Shore",Haruki Murakami,978570069556,1851,fiction,magical realism
+"The Devil Wears Prada",Lauren Weisberger,978136549466,1836,fiction,contemporary
+"The Secret History",Donna Tartt,978936759517,1983,fiction,thriller
+"The Hunger Games",Suzanne Collins,978469466386,2005,fiction,dystopian
+"The Maze Runner",James Dashner,978281120968,1833,fiction,dystopian
+"Dune",Frank Herbert,978105998186,1953,fiction,science fiction
+"The Girl on the Train",Paula Hawkins,978996476057,1966,fiction,thriller
+"The Fault in Our Stars",John Green,978767026941,1866,fiction,romance
+"Gone Girl",Gillian Flynn,978784322613,1840,fiction,thriller
+"Ender's Game",Orson Scott Card,978660649860,1986,fiction,science fiction
+"The Da Vinci Code",Dan Brown,978136908397,1925,fiction,mystery
+"Inferno",Dan Brown,978004365856,1991,fiction,mystery
+"Angels & Demons",Dan Brown,978660081219,2018,fiction,mystery
+"The Lovely Bones",Alice Sebold,978254746334,1898,fiction,drama
+"The Girl with the Dragon Tattoo",Stieg Larsson,978943965351,1918,fiction,thriller
+"Memoirs of a Geisha",Arthur Golden,978977985896,1819,fiction,historical
+"The Outsiders",S.E. Hinton,978675096984,1955,fiction,young adult
+"Twilight",Stephenie Meyer,978876213197,1986,fiction,romance
+"The Time Traveler's Wife",Audrey Niffenegger,978146193240,1923,fiction,romance
+"Water for Elephants",Sara Gruen,978124071588,1817,fiction,historical
+"Life After Life",Kate Atkinson,978866866142,1861,fiction,contemporary
+"Where the Crawdads Sing",Delia Owens,978486469143,1946,fiction,mystery
+"The Night Circus",Erin Morgenstern,978559977620,1916,fiction,fantasy
+"City of Bones",Cassandra Clare,978622307899,1955,fiction,fantasy
+"The Stand",Stephen King,978123633424,1980,fiction,horror
+"It",Stephen King,978531637451,1832,fiction,horror
+"Pet Sematary",Stephen King,978362504235,1824,fiction,horror
+"Misery",Stephen King,978821271765,2020,fiction,horror
+"The Sun Also Rises",Ernest Hemingway,978172272312,1817,fiction,literary
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978593779832,1989,fiction,contemporary
+"House of Leaves",Mark Z. Danielewski,978977448206,2016,fiction,horror
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978356881207,1987,fiction,science fiction
+"The Wind-Up Bird Chronicle",Haruki Murakami,978113851291,1954,fiction,magical realism
+"Kafka on the Shore",Haruki Murakami,978050860671,1966,fiction,magical realism
+"The Devil Wears Prada",Lauren Weisberger,978136549466,1836,fiction,contemporary
+"The Secret History",Donna Tartt,978936759517,1983,fiction,mystery
+"The Hunger Games",Suzanne Collins,978469466386,2005,fiction,dystopian
+"The Maze Runner",James Dashner,978281120968,1833,fiction,dystopian
+"Dune",Frank Herbert,978105998186,1953,fiction,science fiction
+"The Girl on the Train",Paula Hawkins,978996476057,1966,fiction,thriller
+"The Fault in Our Stars",John Green,978767026941,1866,fiction,young adult
+"Gone Girl",Gillian Flynn,978784322613,1840,fiction,thriller
+"Ender's Game",Orson Scott Card,978660649860,1986,fiction,science fiction
+"The Da Vinci Code",Dan Brown,978136908397,1925,fiction,mystery
+"Inferno",Dan Brown,978004365856,1991,fiction,thriller
+"Angels & Demons",Dan Brown,978660081219,2018,fiction,thriller
+"The Lovely Bones",Alice Sebold,978254746334,1898,fiction,drama
+"The Girl with the Dragon Tattoo",Stieg Larsson,978943965351,1918,fiction,thriller
+"Memoirs of a Geisha",Arthur Golden,978977985896,1819,fiction,historical
+"The Outsiders",S.E. Hinton,978675096984,1955,fiction,young adult
+"Twilight",Stephenie Meyer,978876213197,1986,fiction,romance
+"The Time Traveler's Wife",Audrey Niffenegger,978146193240,1923,fiction,romance
+"Water for Elephants",Sara Gruen,978124071588,1817,fiction,historical
+"Life After Life",Kate Atkinson,978866866142,1861,fiction,contemporary
+"Where the Crawdads Sing",Delia Owens,978486469143,1946,fiction,mystery
+"The Night Circus",Erin Morgenstern,978559977620,1916,fiction,fantasy
+"City of Bones",Cassandra Clare,978622307899,1955,fiction,fantasy
+"The Stand",Stephen King,978123633424,1980,fiction,horror
+"It",Stephen King,978531637451,1832,fiction,horror
+"Pet Sematary",Stephen King,978362504235,1824,fiction,horror
+"Misery",Stephen King,978821271765,2020,fiction,horror
+"The Sun Also Rises",Ernest Hemingway,978172272312,1817,fiction,literary
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978593779832,1989,fiction,contemporary
+"House of Leaves",Mark Z. Danielewski,978567481665,2020,fiction,horror
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978580693220,2008,fiction,science fiction
+"The Wind-Up Bird Chronicle",Haruki Murakami,978591241300,1901,fiction,magical realism
+"Kafka on the Shore",Haruki Murakami,978781561223,1923,fiction,magical realism
+"The Devil Wears Prada",Lauren Weisberger,978780277616,1938,fiction,contemporary
+"The Secret History",Donna Tartt,978075524139,1824,fiction,mystery
+"The Hunger Games",Suzanne Collins,978565603393,1912,fiction,dystopian
+"The Maze Runner",James Dashner,978280543579,2002,fiction,dystopian
+"Dune",Frank Herbert,978025756888,1853,fiction,science fiction
+"The Girl on the Train",Paula Hawkins,978009732138,1847,fiction,thriller
+"The Fault in Our Stars",John Green,978227424930,1959,fiction,young adult
+"Gone Girl",Gillian Flynn,978188162513,2012,fiction,thriller
+"Ender's Game",Orson Scott Card,978727394899,1988,fiction,science fiction
+"The Da Vinci Code",Dan Brown,978440613296,1906,fiction,mystery
+"Inferno",Dan Brown,978202844952,1859,fiction,thriller
+"Angels & Demons",Dan Brown,978126023738,2008,fiction,thriller
+"The Lovely Bones",Alice Sebold,978582342582,1801,fiction,drama
+"The Girl with the Dragon Tattoo",Stieg Larsson,978125727954,1886,fiction,thriller
+"Memoirs of a Geisha",Arthur Golden,978150332519,1967,fiction,historical
+"The Outsiders",S.E. Hinton,978473520549,2012,fiction,young adult
+"Twilight",Stephenie Meyer,978380298871,1909,fiction,romance
+"The Time Traveler's Wife",Audrey Niffenegger,978119987589,1951,fiction,romance
+"Water for Elephants",Sara Gruen,978871827118,1948,fiction,historical
+"Life After Life",Kate Atkinson,978576439301,1817,fiction,contemporary
+"Where the Crawdads Sing",Delia Owens,978899016134,1945,fiction,mystery
+"The Night Circus",Erin Morgenstern,978568194244,1957,fiction,fantasy
+"City of Bones",Cassandra Clare,978782430961,1925,fiction,fantasy
+"The Stand",Stephen King,978831261264,1853,fiction,horror
+"It",Stephen King,978972045232,1955,fiction,horror
+"Pet Sematary",Stephen King,978724007418,1999,fiction,horror
+"Misery",Stephen King,978060744217,1952,fiction,horror
+"The Sun Also Rises",Ernest Hemingway,978254741268,1820,fiction,historical
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,978121021968,1958,fiction,contemporary
+"House of Leaves",Mark Z. Danielewski,978841686925,1815,fiction,horror
+"The Hitchhiker's Guide to the Galaxy",Douglas Adams,978893315895,1978,fiction,science fiction
+"The Wind-Up Bird Chronicle",Haruki Murakami,978232178442,1969,fiction,magical realism
+"Kafka on the Shore",Haruki Murakami,978097068284,2000,fiction,magical realism
+"The Devil Wears Prada",Lauren Weisberger,978591873830,1921,fiction,contemporary
+"The Secret History",Donna Tartt,978964328209,1838,fiction,mystery
+"The Hunger Games",Suzanne Collins,978948984684,1862,fiction,dystopian
+"The Maze Runner",James Dashner,978104918192,2003,fiction,dystopian
+"Dune",Frank Herbert,978246578012,1945,fiction,science fiction
+"The Girl on the Train",Paula Hawkins,978870317484,1884,fiction,thriller
+"The Fault in Our Stars",John Green,978364883812,1943,fiction,young adult
+"Gone Girl",Gillian Flynn,978938657977,1873,fiction,thriller
+"Ender's Game",Orson Scott Card,978915406419,1883,fiction,science fiction
+"Invisible Man",Ralph Ellison,9780452262067,1952,fiction,classic
+"Catch-22",Joseph Heller,9781451626650,1961,fiction,satire
+"The Joy Luck Club",Amy Tan,9780143038092,1989,fiction,historical
+"On the Road",Jack Kerouac,9780140283297,1957,fiction,classic
+"The Prophet",Kahlil Gibran,9781613822181,1923,fiction,poetry
+"Silent Spring",Rachel Carson,9780618249060,1962,nonfiction,science
+"The Sun Also Rises",Ernest Hemingway,9780684800714,1926,fiction,historical
+"White Teeth",Zadie Smith,9780375703867,2000,fiction,contemporary
+"Midnight's Children",Salman Rushdie,9780812972010,1981,fiction,historical
+"Persepolis",Marjane Satrapi,9780375714572,2003,nonfiction,memoir
+"The Remains of the Day",Kazuo Ishiguro,9780679731726,1989,fiction,historical
+"All the Light We Cannot See",Anthony Doerr,9781476746586,2014,fiction,historical
+"How to Win Friends and Influence People",Dale Carnegie,9780671027032,1936,nonfiction,self-help
+"The Secret Life of Bees",Sue Monk Kidd,9780142001745,2002,fiction,historical
+"The Poisonwood Bible",Barbara Kingsolver,9780061577079,1998,fiction,historical
+"The Autobiography of Malcolm X",Malcolm X and Alex Haley,9780345350688,1965,nonfiction,autobiography
+"Tuesdays with Morrie",Mitch Albom,9780767905923,1997,nonfiction,memoir
+"The Stranger",Albert Camus,9780679720201,1946,fiction,classic
+"The Bell Jar",Sylvia Plath,9780060812542,1963,fiction,classic
+"The 5 Love Languages",Gary Chapman,9781881273350,1992,nonfiction,self-help
+"The Name of the Rose",Umberto Eco,9780156012195,1980,fiction,mystery
+"The Bridges of Madison County",Robert James Waller,9780552774730,1992,fiction,romance
+"A Farewell to Arms",Ernest Hemingway,9780099908401,1929,fiction,historical
+"The Age of Innocence",Edith Wharton,9780553212342,1920,fiction,classic
+"The Year of Magical Thinking",Joan Didion,9781400078431,2005,nonfiction,memoir
+"A Room with a View",E.M. Forster,9780141439662,1908,fiction,classic
+"The Story of My Life",Helen Keller,9780451531983,1903,nonfiction,autobiography
+"I Am Malala",Malala Yousafzai and Christina Lamb,9780316337530,2013,nonfiction,memoir
+"Thinking in Systems",Donella Meadows,9781603580557,2008,nonfiction,science
+"Wild",Cheryl Strayed,9780307387871,2012,nonfiction,memoir
+"Beautiful Ruins",Jess Walter,9781451661788,2012,fiction,contemporary
+"In Cold Blood",Truman Capote,9780812984481,1966,nonfiction,true crime
+"The Warmth of Other Suns",Isabel Wilkerson,9780679763888,2010,nonfiction,history
+"A Short History of Nearly Everything",Bill Bryson,9780767908180,2003,nonfiction,science
+"Cutting for Stone",Abraham Verghese,9780767923831,2009,fiction,historical
+"The 48 Laws of Power",Robert Greene,9780140280197,1998,nonfiction,self-help
+"The Last of the Mohicans",James Fenimore Cooper,9780451530986,1826,fiction,historical
+"Shōgun",James Clavell,9780440178007,1975,fiction,historical
+"Outlander",Diana Gabaldon,9780440212563,1991,fiction,historical
+"Killing Floor",Lee Child,9780515133658,1997,fiction,thriller
+"The Man in the High Castle",Philip K. Dick,9780441013593,1962,fiction,science fiction
+"Hatchet",Gary Paulsen,9781416936473,1986,fiction,adventure
+"Treasure Island",Robert Louis Stevenson,9780141439822,1883,fiction,adventure
+"I Know This Much Is True",Wally Lamb,9780060987564,1998,fiction,contemporary
+"Lonesome Dove",Larry McMurtry,9780684802745,1985,fiction,western
+"The Sea Wolf",Jack London,9781557422121,1904,fiction,adventure
+"The Red and the Black",Stendhal,9780199536828,1830,fiction,classic
+"Do Androids Dream of Electric Sheep?",Philip K. Dick,9780345404473,1968,fiction,science fiction
+"The Call of the Wild",Jack London,9780451532000,1903,fiction,adventure
+"The Cuckoo's Calling",Robert Galbraith,9780316334752,2013,fiction,mystery
+"Long Walk to Freedom",Nelson Mandela,9780316548182,1994,nonfiction,autobiography
+"The Immortal Life of Henrietta Lacks",Rebecca Skloot,9781400052189,2010,nonfiction,science
+"The Left Hand of Darkness",Ursula K. Le Guin,9780441013593,1969,fiction,science fiction
+"The Confessions of Nat Turner",William Styron,9780812972576,1967,fiction,historical
+"The Art of War",Sun Tzu,9781590302255,-500,nonfiction,strategy
+"The Prince",Niccolò Machiavelli,9780140449150,1532,nonfiction,political science
+"The Road",Cormac McCarthy,9780307387895,2006,fiction,dystopian
+"The Tale of Genji",Murasaki Shikibu,9780679729532,1008,fiction,classic
+"The Color of Water",James McBride,9781594481925,1996,nonfiction,memoir
+"Angela’s Ashes",Frank McCourt,9781565123880,1996,nonfiction,memoir
+"Death of a Salesman",Arthur Miller,9780140481341,1949,fiction,drama
+"The Invisible Life of Addie LaRue",V.E. Schwab,9780765387561,2020,fiction,fantasy
+"The Martian",Andy Weir,9780553418026,2011,fiction,science fiction
+"Daisy Jones & The Six",Taylor Jenkins Reid,9781524798659,2019,fiction,contemporary
+"Just Mercy",Bryan Stevenson,9780812984962,2014,nonfiction,memoir
+"Beartown",Fredrik Backman,9781501160778,2016,fiction,contemporary
+"The Lovely Bones",Alice Sebold,9780316338309,2002,fiction,drama
+"The Gilded Age",Mark Twain and Charles Dudley Warner,9781593082533,1873,fiction,historical
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,9781594489587,2007,fiction,contemporary
+"The Catcher Was a Spy",Nicholas Dawidoff,9780306811862,1994,nonfiction,biography
+"The Golden Compass",Philip Pullman,9780440418320,1995,fiction,fantasy
+"The Shadow of the Wind",Carlos Ruiz Zafón,9780143034902,2001,fiction,historical
+"The Soul of a New Machine",Tracy Kidder,9780618102734,1981,nonfiction,technology
+"Good to Great",Jim Collins,9780066620992,2001,nonfiction,business
+"Hillbilly Elegy",J.D. Vance,9780062300546,2016,nonfiction,memoir
+"The House on Mango Street",Sandra Cisneros,9780679734772,1984,fiction,contemporary
+"The Spy Who Came in from the Cold",John le Carré,9780143039433,1963,fiction,thriller
+"The Andromeda Strain",Michael Crichton,9780061751292,1969,fiction,science fiction
+"Why We Sleep",Matthew Walker,9781501144314,2017,nonfiction,science
+"The Little Friend",Donna Tartt,9781400031702,2002,fiction,thriller
+"The Brief Wondrous Life of Oscar Wao",Junot Díaz,9781594489587,2007,fiction,contemporary
+"The Alienist",Caleb Carr,9780553101627,1994,fiction,mystery
+"Stamped from the Beginning",Ibram X. Kendi,9781568585987,2016,nonfiction,history
+"A Visit from the Goon Squad",Jennifer Egan,9780307592111,2010,fiction,contemporary
+"The Nickel Boys",Colson Whitehead,9780385544031,2019,fiction,historical
+"The Name of the Wind",Patrick Rothfuss,9780756404741,2007,fiction,fantasy
+"The Liar’s Club",Mary Karr,9780679764025,1995,nonfiction,memoir
+"The 4-Hour Workweek",Tim Ferriss,9780785933307,2007,nonfiction,self-help
+"Bossypants",Tina Fey,9781455509174,2011,nonfiction,memoir
+"Educated",Tara Westover,9780399590504,2018,nonfiction,memoir
+"The Omnivore's Dilemma",Michael Pollan,9780143038580,2006,nonfiction,food
+"Team of Rivals",Doris Kearns Goodwin,9780684824902,2005,nonfiction,history
+"Normal People",Sally Rooney,9781984801723,2018,fiction,contemporary
+"To Kill a Mockingbird",,978796549422,0,,
+""Catch-22"","" ,978796549453,1961,"fiction","satirical"
