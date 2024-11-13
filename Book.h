@@ -10,7 +10,7 @@ class Book {
 public:
     string title;
     string author;
-    int serialNumber;
+    int serialNumber;// keep as int becaue if its a dtring then it needs to he converted to conpare 
     int publicationYear;
     string genre;
     string subgenre;
