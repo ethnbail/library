@@ -4,6 +4,11 @@
 #include "UserAccount.h"
 #include <ctime>
 #include <windows.h>
+#include <fstream>
+#include <sstream>
+#include <string>
+#include <vector>
+#include "libraryFunctions.cpp"
 
 using namespace std;
 
@@ -12,7 +17,7 @@ int main() {
     string response;
 
     cout << "Welcome to Book Nest Library" << endl;
-    Sleep(3000); // Corrected sleep time (in milliseconds, so 3000 ms = 3 seconds)
+    Sleep(2000); // Corrected sleep time (in milliseconds, so 3000 ms = 3 seconds)
     cout << "1. Create Account" << endl;
     cout << "2. Sign In" << endl;
     cout << "Choose an option: " << endl;
@@ -34,17 +39,16 @@ int main() {
     }
     
     cout << "Did you want to checkout(1) or return(2) a book today?"<< endl;
-    cin << response;
-       if (response == 1) {
+    cin >> response;
+       if (response == "1") {
        cout <<"Were you looking for a specific book today?" << endl;
-    } else if (reponse == 2) {
-        if (signIn()) {
-            cout << "Sign-in successful!" << endl;
-        } else {
-            cout << "Invalid username or password." << endl;
+    } else if (response == "2") {
+            cout << "Great!! take a look at your account!." << endl;
+            returnBook();
         }
     } else {
-        cout << "Invalid option." << endl;
+        cout << "Invalid option. Try again" << endl;
+        cin >> response;
     }
     
     return 0;

@@ -61,4 +61,5 @@ bool signIn() {
 
     infile.close();
     cout << "Invalid username or password" << endl;
-    return false; 
+    return false;
+} 
