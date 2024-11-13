@@ -15,7 +15,7 @@ class Book{
         Book(string t, string a, string s, int p, string g)
         :title(t), author(a), serialNumber(s), publicationYear(p), genre(g){}
         
-        void displayBooksInfo() const;
+        void displayBookInfo() const;
 };
 
 #endif

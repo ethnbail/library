@@ -1,39 +1,38 @@
+#include "libraryFunctions.h"
 #include <iostream>
 #include <fstream>
 #include <sstream>
 #include <string>
 #include <vector>
+
 using namespace std;
 
-struct Book {
-    string title;
-    string author;
-    string serialNumber;
-    string date;
-    string genre;
-};
+// Constructor for the Book struct
+Book::Book(string t, string a, string s, int p, string g)
+    : title(t), author(a), serialNumber(s), publicationYear(p), genre(g) {}
 
-struct User {
-    string username;
-    string password;
-    vector<Book> checkedOutBooks;
-};
+// Default constructor for the Book struct
+Book::Book() = default;
 
 // Function to load available books from "booksavailable.txt"
 vector<Book> loadAvailableBooks() {
     ifstream file("booksavailable.txt");
     vector<Book> books;
     string line;
-    
+
     while (getline(file, line)) {
         istringstream iss(line);
-        Book book;
-        getline(iss, book.title, ',');
-        getline(iss, book.author, ',');
-        getline(iss, book.serialNumber, ',');
-        getline(iss, book.date, ',');
-        getline(iss, book.genre, ',');
-        books.push_back(book);
+        string title, author, serialNumber, genre;
+        int publicationYear;
+
+        getline(iss, title, ',');
+        getline(iss, author, ',');
+        getline(iss, serialNumber, ',');
+        iss >> publicationYear;
+        iss.ignore(); // Ignore comma
+        getline(iss, genre, ',');
+
+        books.emplace_back(title, author, serialNumber, publicationYear, genre);
     }
     file.close();
     return books;
@@ -90,6 +89,7 @@ void returnBook(const string& username) {
 
     cout << "Books checked out by " << username << ":\n";
 
+    // Locate the user in the file and display their checked-out books
     while (getline(file, line)) {
         if (line.find(username) != string::npos) {
             userFound = true;
@@ -97,9 +97,10 @@ void returnBook(const string& username) {
             string segment;
             vector<string> segments;
             while (getline(iss, segment, ',')) {
-                segments.push_back(segment);
+                s egments.push_back(segment);
             }
 
+            // Display checked-out books
             for (size_t i = 2; i < segments.size(); i += 2) {
                 cout << "Title: " << segments[i] << ", Serial Number: " << segments[i + 1] << endl;
             }
@@ -117,6 +118,7 @@ void returnBook(const string& username) {
     string serialNumber;
     cin >> serialNumber;
 
+    // Reopen the file to process the return
     ifstream fileIn("users.txt");
     while (getline(fileIn, line)) {
         if (line.find(username) != string::npos) {
@@ -127,6 +129,7 @@ void returnBook(const string& username) {
                 segments.push_back(segment);
             }
 
+            // Rewrite user's data, excluding the returned book
             content += segments[0] + "," + segments[1];
             for (size_t i = 2; i < segments.size(); i += 2) {
                 if (segments[i + 1] != serialNumber) {
@@ -140,6 +143,7 @@ void returnBook(const string& username) {
     }
     fileIn.close();
 
+    // Update the file with the modified content
     ofstream outFile("users.txt", ios::trunc);
     outFile << content;
     outFile.close();

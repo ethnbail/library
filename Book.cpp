@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void Book displayBookInfo() const{
+void Book::displayBookInfo() const{
     cout << "Title: " << title << endl;
     cout << "Author: " << author << endl;
     cout << "Serial Number: " << serialNumber << endl;
