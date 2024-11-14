@@ -118,14 +118,14 @@
 "The Odyssey",Homer,978796549540,800,BC,fiction,epic
 "The Iliad",Homer,978796549541,750,BC,fiction,epic
 "Paradise Lost",John Milton,978796549542,1667,fiction,epic
-"Dracula",Bram Stoker,978796549543,1897,fiction,h
-"Frankenstein",Mary Shelley,978796549544,1818,fiction,h
+"Dracula",Bram Stoker,978796549543,1897,fiction,horror
+"Frankenstein",Mary Shelley,978796549544,1818,fiction,horror
 "The Haunting of Hill House",Shirley Jackson,978796549545,1959,fiction,h
-"The Turn of the Screw",Henry James,978796549546,1898,fiction,h
-"The Call of Cthulhu",H.P. Lovecraft,978796549547,1928,fiction,h
-"The Shining",Stephen King,978796549548,1977,fiction,h
+"The Turn of the Screw",Henry James,978796549546,1898,fiction,horror
+"The Call of Cthulhu",H.P. Lovecraft,978796549547,1928,fiction,horror
+"The Shining",Stephen King,978796549548,1977,fiction,horror
 "The Stand",Stephen King,978796549549,1978,fiction,post-apocalyptic
-"It",Stephen King,978796549550,1986,fiction,h
+"It",Stephen King,978796549550,1986,fiction,horror
 "The Silence of the Lambs",Thomas Harris,978796549551,1988,fiction,thriller
 "Red Dragon",Thomas Harris,978796549552,1981,fiction,thriller
 "The Girl with the Dragon Tattoo",Stieg Larsson,978796549553,2005,fiction,mystery
