@@ -271,9 +271,9 @@
 "1984",George Orwell,9780451524935,1949,fiction,dystopian
 "The Catcher in the Rye",J.D. Salinger,9780316769488,1951,fiction,coming-of-age
 "The Road",Cormac McCarthy,9780307387899,2006,fiction,post-apocalyptic
-"Frankenstein",Mary Shelley,9780486282114,1818,fiction,h
+"Frankenstein",Mary Shelley,9780486282114,1818,fiction,horror
 "Wuthering Heights",Emily Brontë,9780141439556,1847,fiction,gothic
-"Dracula",Bram Stoker,9780141439846,1897,fiction,h
+"Dracula",Bram Stoker,9780141439846,1897,fiction,horror
 "Jane Eyre",Charlotte Brontë,9781853260209,1847,fiction,romance
 "The Divine Comedy",Dante Alighieri,9780140448955,1320,fiction,epic
 "Moby-Dick",Herman Melville,9781851244422,1851,fiction,classic
