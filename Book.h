@@ -10,7 +10,7 @@ class Book {
 public:
     string title;
     string author;
-    string serialNumber;  // Changed to string to handle ISBNs properly
+    string serialNumber;
     int publicationYear;
     string genre;
     string subgenre;
