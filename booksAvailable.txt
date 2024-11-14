@@ -184,7 +184,6 @@
 "Where the Crawdads Sing",Delia Owens,978796549606,2018,fiction,mystery
 "The Light We Lost",Jill Santopolo,978796549607,2017,fiction,romance
 "Big Little Lies",Liane Moriarty,978796549608,2014,fiction,mystery
-"The Wife Between Us",Greer Hendricks,978796549609,2018,fiction,thriller
 "The Girl on the Train",Paula Hawkins,978796549610,2015,fiction,thriller
 "Sharp Objects",Gillian Flynn,978796549611,2006,fiction,thriller
 "The Couple Next Door",Shari Lapena,978796549612,2016,fiction,mystery
@@ -329,7 +328,6 @@
 "The Fault in Our Stars",John Green,9780525478812,2012,fiction,romance
 "Pride and Prejudice",Jane Austen,9780141439518,1813,fiction,romance
 "Me Before You",Jojo Moyes,9780143124542,2012,fiction,romance
-"The Rosie Project",Graeme Simsion,9781444762153,2013,fiction,romance
 "Outlander",Diana Gabaldon,9780440212560,1991,fiction,historical romance
 "The Time Traveler's Wife",Audrey Niffenegger,9780151013219,2003,fiction,romance
 "The Wedding",Nicholas Sparks,9780446531392,2003,fiction,romance
@@ -454,7 +452,6 @@
 "Frankenstein",Mary Shelley,978287726177,1826,fiction,horror
 "The Shining",Stephen King,978474473928,1891,fiction,horror
 "Dracula",Bram Stoker,978230569022,1927,fiction,horror
-"The Grapes of Wrath",John Steinbeck,978346556054,1912,fiction,historical
 "A Tale of Two Cities",Charles Dickens,978618718842,1883,fiction,historical
 "Great Expectations",Charles Dickens,978500814142,1859,fiction,classic
 "The Kite Runner",Khaled Hosseini,978039192429,1987,fiction,drama

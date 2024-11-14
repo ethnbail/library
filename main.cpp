@@ -1,13 +1,10 @@
-#include <iostream>
+#include "searchFunction.h"
+#include "libraryFunctions.h"
 #include "UserAccount.h"
-#include <ctime>
-#include <fstream>
-#include <sstream>
-#include <string>
+#include <iostream>
 #include <vector>
 #include <algorithm>
-#include "libraryFunctions.h"
-#include "searchFunction.h"
+#include <string>
 
 using namespace std;
 
@@ -15,7 +12,7 @@ int main() {
     int choice;
     string response;
     string username;
-    vector<Book> availableBooks = loadAvailableBooks();
+    vector<Book> availableBooks = loadAvailableBooks();  // Load books from file
 
     cout << "Welcome to Book Nest Library" << endl;
     cout << "1. Create Account" << endl;
@@ -69,7 +66,7 @@ int main() {
 
                 if (confirm == "yes") {
                     // Check out the book and move it to booksCheckedOut.txt
-                    checkoutBook(username, std::to_string(it->serialNumber));
+                    checkoutBook(username, it->serialNumber);
                 } else {
                     cout << "Checkout canceled." << endl;
                 }
@@ -78,15 +75,15 @@ int main() {
             }
         } else if (searchOption == 'g') {
             // Search for books by subgenre
-            vector<string> subgenres = getSubgenres(availableBooks);
-            displaySubgenres(availableBooks, subgenres);
+            vector<string> subgenres = getSubgenres(availableBooks);  // Get all subgenres
+            displaySubgenres(availableBooks, subgenres);  // Display all subgenres
             cout << "Enter the subgenre number you want to browse: ";
             int subgenreChoice;
             cin >> subgenreChoice;
 
             if (subgenreChoice > 0 && subgenreChoice <= subgenres.size()) {
                 string chosenSubgenre = subgenres[subgenreChoice - 1];
-                displayBooksBySubgenre(availableBooks, chosenSubgenre, username);
+                displayBooksBySubgenre(availableBooks, chosenSubgenre, username);  // Display books in selected subgenre
             } else {
                 cout << "Invalid subgenre choice." << endl;
             }
@@ -94,10 +91,11 @@ int main() {
             cout << "Invalid search option. Please try again." << endl;
         }
     } else if (response == "2") {
-        returnBook(username);
+        returnBook(username);  // Return a book
     } else {
         cout << "Invalid option. Try again." << endl;
     }
 
     return 0;
 }
+

@@ -5,7 +5,6 @@
 
 using namespace std;
 
-// create an account and write their details to users.txt
 void createAccount() {
     string username, password;
     cout << "Enter your desired username: ";
@@ -19,7 +18,7 @@ void createAccount() {
 
     cout << "Account created successfully!" << endl;
 }
-// read the users.txt snd look for their username and passeord to log them in
+
 bool signIn(string& username) {
     string enteredUsername, enteredPassword;
     cout << "Enter username: ";

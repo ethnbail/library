@@ -1,5 +1,5 @@
 #include "MergeSort.h"
-#include <algorithm>
+#include <algorithm> // For the swap function
 
 void merge(vector<Book>& books, int left, int mid, int right) {
     int n1 = mid - left + 1;
