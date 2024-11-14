@@ -1,3 +1,5 @@
 ethan,"The Wife Between Us",978796549609
 bob,"The Grapes of Wrath",978346556054
 bob,"The Rosie Project",9781444762153
+,"Silent Spring",9780618249060
+ethan,"Slaughterhouse-Five",978796549454

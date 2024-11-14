@@ -2,3 +2,38 @@ Compiler-
 g++ main.cpp Book.cpp MergeSort.cpp LibraryFunctions.cpp searchFunction.cpp UserAccount.cpp -o library
 Run using
 ./library
+
+Ethan
+Sergio
+Library Management System
+Functionality-
+  UserAccount
+    This is a file to represent how the user signs in to the 
+    a library like an actual library allowing them to creat
+    an account for the library and saving the books they checkout
+    to their account details
+
+  MergeSort-
+    Implements a sort function because when looking at books online
+    in a library, it's easy to look at when it is in alphabetical order.
+    We used merge sort to do this, so when you go into the subgenre list,
+    it will display in alphabetical order.
+
+  SearchbyGenre
+    Searching by subgenre allows for a more detailed search; like any library,
+    many libraries you an go to have sections based on genre, so you can  
+    go to the section that you love reading. This function reads the last column
+    of the booksAvailable.txt and outputs each. It does allow you to pick 
+    a genre by picking the number correlated with the subgenre. 
+
+Library Functions-
+  loadAvailableBooks() is used to read books and load books data from booksAvailable.txt
+  and stores it into a vector of Book objects, storing the characteristics of the book
+  checkoutBook allows the user to checkout a book by serial number and removing it from
+  the booksAvailable.txt and adding it to the booksCheckedOut.txt
+  displayBooksBySubgenre displays the books chosen in a subgenre and sorts them alphabetically
+  using merge sort and allows the user to select a book to checkout
+
+Book class provides a foundation for the library system supporting the functions above
+
+This is an example of how the code should look.

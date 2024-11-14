@@ -12,16 +12,19 @@
 
 using namespace std;
 
+// function to load list of available books
 vector<Book> loadAvailableBooks() {
     ifstream file("booksavailable.txt");
-    vector<Book> books;
+    vector<Book> books; // vector to store books
     string line;
 
+// loops through each line 
     while (getline(file, line)) {
         istringstream iss(line);
         string title, author, serialNumber, genre, subgenre;
         int publicationYear;
 
+// reads each component of the book
         getline(iss, title, ',');
         getline(iss, author, ',');
         getline(iss, serialNumber, ',');  // Read serial number as string
@@ -32,11 +35,12 @@ vector<Book> loadAvailableBooks() {
 
         books.emplace_back(title, author, serialNumber, publicationYear, genre, subgenre);  // Pass serialNumber as string
     }
-    file.close();
+    file.close();// close after reading
     return books;
 }
 
-void checkoutBook(const string& username, const string& serialNumber) {  // Changed to string
+// function to handle checking out a book
+void checkoutBook(const string& username, const string& serialNumber) {
     vector<Book> books = loadAvailableBooks();
     Book selectedBook;
     bool found = false;
@@ -58,14 +62,27 @@ void checkoutBook(const string& username, const string& serialNumber) {  // Chan
 
     // Update booksAvailable.txt
     ofstream availableOut("booksavailable.txt", ios::trunc);
+    if (!availableOut) {
+        cout << "Error opening booksavailable.txt for writing." << endl;
+        return;
+    }
+
     for (const auto& book : books) {
-        availableOut << book.title << "," << book.author << "," << book.serialNumber  // Write serialNumber as string
+        availableOut << book.title << "," << book.author << "," << book.serialNumber
                      << "," << book.publicationYear << "," << book.genre << "," << book.subgenre << endl;
     }
     availableOut.close();
 
     // Add book to booksCheckedOut.txt
     ofstream checkedOutOut("booksCheckedOut.txt", ios::app);
+    if (!checkedOutOut) {
+        //error handling
+        cout << "Error opening booksCheckedOut.txt for appending." << endl;
+        return;
+    }
+
+    cout << "Writing to file: " << username << "," << selectedBook.title << "," << selectedBook.serialNumber << endl;
+
     checkedOutOut << username << "," << selectedBook.title << "," << selectedBook.serialNumber << endl;
     checkedOutOut.close();
 
@@ -80,6 +97,7 @@ void returnBook(const string& username) {
     bool userFound = false;
     vector<Book> checkedOutBooks;
 
+// goes through the user file to find the username
     while (getline(file, line)) {
         if (line.find(username) != string::npos) {
             userFound = true;
@@ -87,7 +105,7 @@ void returnBook(const string& username) {
             string segment;
             vector<string> segments;
             while (getline(iss, segment, ',')) {
-                segments.push_back(segment);
+                segments.push_back(segment); // splits user data with commas
             }
 
             // Extract the checked-out books
@@ -107,6 +125,7 @@ void returnBook(const string& username) {
         return;
     }
 
+// display the books currently checked out by user
     cout << "Books checked out by " << username << ":" << endl;
     for (size_t i = 0; i < checkedOutBooks.size(); ++i) {
         cout << i + 1 << ". \"" << checkedOutBooks[i].title << "\" - Serial Number: " << checkedOutBooks[i].serialNumber << endl;

@@ -30,7 +30,6 @@
 "The Old Man and the Sea",Ernest Hemingway,978796549450,1952,fiction,adventure
 "Lolita",Vladimir Nabokov,978796549451,1955,fiction,controversial
 "Catch-22",Joseph Heller,978796549453,1961,fiction,satirical
-"Slaughterhouse-Five",Kurt Vonnegut,978796549454,1969,fiction,anti-war
 "One Hundred Years of Solitude",Gabriel Garcia Marquez,978796549455,1967,fiction,magical realism
 "Beloved",Toni Morrison,978796549456,1987,fiction,historical
 "The Sound and the Fury",William Faulkner,978796549457,1929,fiction,modernist
@@ -871,7 +870,6 @@
 "The Joy Luck Club",Amy Tan,9780143038092,1989,fiction,historical
 "On the Road",Jack Kerouac,9780140283297,1957,fiction,classic
 "The Prophet",Kahlil Gibran,9781613822181,1923,fiction,poetry
-"Silent Spring",Rachel Carson,9780618249060,1962,nonfiction,science
 "The Sun Also Rises",Ernest Hemingway,9780684800714,1926,fiction,historical
 "White Teeth",Zadie Smith,9780375703867,2000,fiction,contemporary
 "Midnight's Children",Salman Rushdie,9780812972010,1981,fiction,historical

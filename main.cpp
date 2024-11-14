@@ -14,12 +14,14 @@ int main() {
     string username;
     vector<Book> availableBooks = loadAvailableBooks();  // Load books from file
 
+// main menu
     cout << "Welcome to Book Nest Library" << endl;
     cout << "1. Create Account" << endl;
     cout << "2. Sign In" << endl;
     cout << "Choose an option: ";
     cin >> choice;
 
+// account creation/signin process
     if (choice == 1) {
         createAccount();  // Initiates the create account function
     } else if (choice == 2) {
@@ -53,7 +55,7 @@ int main() {
             auto it = find_if(availableBooks.begin(), availableBooks.end(), [&](const Book& book) {
                 return book.title == title;
             });
-
+// if book is found display the book
             if (it != availableBooks.end()) {
                 cout << "Book found: " << endl;
                 cout << "Title: " << it->title << endl;
@@ -73,6 +75,7 @@ int main() {
             } else {
                 cout << "Book not found with the title \"" << title << "\"." << endl;
             }
+
         } else if (searchOption == 'g') {
             // Search for books by subgenre
             vector<string> subgenres = getSubgenres(availableBooks);  // Get all subgenres
@@ -80,7 +83,7 @@ int main() {
             cout << "Enter the subgenre number you want to browse: ";
             int subgenreChoice;
             cin >> subgenreChoice;
-
+// if valid subgenre is selected, display books from that subgenre
             if (subgenreChoice > 0 && subgenreChoice <= subgenres.size()) {
                 string chosenSubgenre = subgenres[subgenreChoice - 1];
                 displayBooksBySubgenre(availableBooks, chosenSubgenre, username);  // Display books in selected subgenre
