@@ -1,4 +1,4 @@
-#include <limits>  // For numeric_limits
+#include <limits>
 #include "libraryFunctions.h"
 #include "MergeSort.h"
 #include "searchFunction.h"
