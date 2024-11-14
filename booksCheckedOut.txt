@@ -1,3 +1,3 @@
 ethan,"The Wife Between Us",978796549609
-,"The Grapes of Wrath",978346556054
-,"The Rosie Project",9781444762153
+bob,"The Grapes of Wrath",978346556054
+bob,"The Rosie Project",9781444762153
